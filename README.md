@@ -105,14 +105,13 @@ PEAP segments input sequences into meaningful spans based on:
 
 ### 2. Attribution Computation
 For each edge between model components, PEAP computes:
-- **Non-crossing edges**: Direct connections within spans using gradient × (clean - ablated) activations
+- **Non-crossing edges**: Direct connections within spans
 - **Crossing edges**: Attention-mediated connections between different spans through query-key-value interactions
 
 ### 3. Circuit Discovery
-Using computed attribution scores, PEAP discovers circuits through:
+Using computed attribution scores, we discovers circuits through:
 - **Top-k selection**: Select k highest-scoring edges
-- **Threshold filtering**: Include edges above attribution threshold
-- **Bidirectional search**: Forward (output→input) or reverse (input→output) traversal
+
 
 ### 4. Faithfulness Evaluation
 Discovered circuits are evaluated by:
@@ -120,46 +119,6 @@ Discovered circuits are evaluated by:
 - **Performance preservation**: Measure how well the circuit maintains original model behavior
 - **Size-performance tradeoffs**: Analyze circuit efficiency across different sizes
 
-## Quick Start Example
-
-```python
-# 1. Setup experiment
-from src.exp import IOI
-from src.pos_aware_edge_attribution_patching import position_aware_edge_attribution_patching
-
-exp = IOI(
-    exp_name="ioi_example",
-    model_name="gpt2",
-    model_path="gpt2",
-    ablation_type="counterfactual",
-    clean_dataset_path="data/ioi_clean.csv",
-    counter_dataset_path="data/ioi_counter.csv",
-    spans=["prefix", "S1", "IO", "S2", "action", "to", "length"],
-    metric=logit_diff,
-    seed=42
-)
-
-# 2. Compute PEAP scores
-position_aware_edge_attribution_patching(
-    exp=exp,
-    dataset_size=1000,
-    save_path="peap_scores.pkl"
-)
-
-# 3. Discover and evaluate circuits
-from src.eval import run_faithfulness
-
-run_faithfulness(
-    eval_size=100,
-    peap_results_path="peap_scores.pkl",
-    save_path="circuit_results.pkl",
-    exp=exp,
-    top_k=[10, 20, 50],
-    graph_with_pos=True,
-    ablation_size=16,
-    search_type="abs"
-)
-```
 
 ## Citation
 
