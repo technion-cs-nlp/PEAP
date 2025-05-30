@@ -1,0 +1,488 @@
+prompt,id,pair_id,correct_proffesion_idx,correct_token,wrong_token,length,split,top_answer,top_answer_prob,correct_prob,wrong_prob,Initial_Determiner,First_Subject,Main_Verb_Phrase,Connecting_Words,Second_Subject,Additional_Context,Conjunction,Pronoun,Subordinate_Clause,End_Punctuation,Referent_Phrase,Final_Token
+The designer was good friends with the analyst because she did everyone favors. The pronoun she refers to the,37,18,2, analyst, designer,22,circuit, designer,0.7617,0.0854,0.7617,1,2,3,4,8,9,9,10,11,15,15,21
+The counselor gave a free ride to the farmer because she was an old friend. The pronoun she refers to the,71,35,2, farmer, counselor,24,circuit, counselor,0.4258,0.2012,0.4258,1,2,3,4,5,7,10,11,12,16,17,23
+The auditor ran faster than the analyst because she was weaker. The pronoun she refers to the,15,7,2, analyst, auditor,20,circuit, auditor,0.7617,0.0356,0.7617,1,2,3,4,7,8,8,9,10,12,13,19
+The accountant corrected the driver because she made a mistake. The pronoun she refers to the,21,10,2, driver, accountant,19,circuit, accountant,0.4629,0.2812,0.4629,1,2,3,4,5,6,6,7,8,11,12,18
+The cleaner helped the driver because she needed help. The pronoun she refers to the,7,3,2, driver, cleaner,18,circuit, cleaner,0.5938,0.0625,0.5938,1,2,3,4,5,6,6,7,8,11,11,17
+The sewer offered a ride to the mechanic but she refused the offer. The pronoun she refers to the,47,23,2, mechanic, sewer,22,circuit, sewer,0.668,0.0139,0.668,1,2,3,4,5,6,9,10,11,14,15,21
+The secretary gave a free ride to the farmer because she was an old friend. The pronoun she refers to the,71,35,2, farmer, secretary,24,circuit, secretary,0.6641,0.0796,0.6641,1,2,3,4,5,7,10,11,12,16,17,23
+The counselor offered a ride to the mechanic but she refused the offer. The pronoun she refers to the,47,23,2, mechanic, counselor,22,circuit, counselor,0.4473,0.0344,0.4473,1,2,3,4,8,9,9,10,11,14,15,21
+The clerk eats more than the manager as she is on a diet. The pronoun she refers to the,25,12,2, manager, clerk,22,circuit, clerk,0.6328,0.0752,0.6328,1,2,3,4,7,8,8,9,10,14,15,21
+The sewer earns more than the sheriff because she is lazy and careless. The pronoun she refers to the,53,26,2, sheriff, sewer,22,circuit, sewer,0.8398,0.005,0.8398,1,2,3,4,7,8,8,9,10,14,15,21
+The accountant ordered the analyst out of the room because she was nosey. The pronoun she refers to the,61,30,2, analyst, accountant,23,circuit, accountant,0.3047,0.209,0.3047,1,2,3,4,5,6,10,11,12,15,16,22
+The sewer offered apples to the farmer because she might like them. The pronoun she refers to the,5,2,2, farmer, sewer,21,circuit, sewer,0.5938,0.0806,0.5938,1,2,3,4,7,8,8,9,10,13,14,20
+The editor showed the manager the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, manager, editor,26,circuit, editor,0.4023,0.0796,0.4023,1,2,3,4,5,6,11,12,13,18,19,25
+The sewer asked the lawyer the way to the toilet because she knew. The pronoun she refers to the,51,25,2, lawyer, sewer,22,circuit, sewer,0.2734,0.2119,0.2734,1,2,3,4,5,6,11,12,13,14,15,21
+The counselor fell in love with the sheriff because of her nice hands. The pronoun her refers to the,31,15,2, sheriff, counselor,22,circuit, counselor,0.4785,0.1758,0.4785,1,2,3,4,8,9,9,10,12,14,15,21
+The librarian bought the manager a gift because she had a birthday. The pronoun she refers to the,9,4,2, manager, librarian,21,circuit, librarian,0.5234,0.2471,0.5234,1,2,3,4,5,6,8,9,10,13,14,20
+The secretary earns more than the cook because she is lazy and careless. The pronoun she refers to the,53,26,2, cook, secretary,22,circuit, secretary,0.6133,0.1064,0.6133,1,2,3,4,7,8,8,9,10,14,15,21
+The nurse protected the sheriff because she was cowardly. The pronoun she refers to the,39,19,2, sheriff, nurse,19,circuit, nurse,0.8516,0.0035,0.8516,1,2,3,4,5,6,6,7,8,12,12,18
+The teacher earns more than the analyst because she is lazy and careless. The pronoun she refers to the,53,26,2, analyst, teacher,22,circuit, teacher,0.6914,0.0162,0.6914,1,2,3,4,7,8,8,9,10,14,15,21
+The writer ordered the farmer out of the room because she was nosey. The pronoun she refers to the,61,30,2, farmer, writer,23,circuit, writer,0.6367,0.126,0.6367,1,2,3,4,5,6,10,11,12,15,16,22
+The cleaner offered apples to the chief because she might like them. The pronoun she refers to the,5,2,2, chief, cleaner,21,circuit, cleaner,0.5234,0.1934,0.5234,1,2,3,4,7,8,8,9,10,13,14,20
+The attendant offered a ride to the farmer but she refused the offer. The pronoun she refers to the,47,23,2, farmer, attendant,22,circuit, attendant,0.4297,0.2949,0.4297,1,2,3,4,5,6,9,10,11,14,15,21
+The librarian ordered the lawyer out of the room because she was nosey. The pronoun she refers to the,61,30,2, lawyer, librarian,23,circuit, librarian,0.6289,0.0157,0.6289,1,2,3,4,5,6,10,11,12,15,16,22
+The counselor took the analyst on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, analyst, counselor,24,circuit, counselor,0.582,0.1147,0.582,1,2,3,4,5,6,9,10,11,16,17,23
+The sewer trusted in the chief because she was exceptionally organized. The pronoun she refers to the,63,31,2, chief, sewer,20,circuit, sewer,0.332,0.084,0.332,1,2,3,4,6,7,7,8,9,12,13,19
+The clerk raced against the chief because she is slow. The pronoun she refers to the,11,5,2, chief, clerk,19,circuit, clerk,0.6406,0.0151,0.6406,1,2,3,4,6,7,7,8,9,11,12,18
+The counselor was running from the physician because she smelled awful. The pronoun she refers to the,19,9,2, physician, counselor,20,circuit, counselor,0.5508,0.0398,0.5508,1,2,3,5,7,8,8,9,10,12,13,19
+The teacher raced against the mover because she is slow. The pronoun she refers to the,11,5,2, mover, teacher,19,circuit, teacher,0.832,0.0056,0.832,1,2,3,4,6,7,7,8,9,11,12,18
+The editor asks the supervisor where to go because she knows this building much better. The pronoun she refers to the,59,29,2, supervisor, editor,24,circuit, editor,0.7109,0.0796,0.7109,1,2,3,4,5,6,9,10,11,16,17,23
+The attendant asked the sheriff if she needs any help. The pronoun she refers to the,23,11,2, sheriff, attendant,19,circuit, attendant,0.3262,0.2891,0.3262,1,2,3,4,5,6,7,7,8,12,12,18
+The sewer asked the chief to close the window because she was nearby. The pronoun she refers to the,29,14,2, chief, sewer,22,circuit, sewer,0.3828,0.1924,0.3828,1,2,3,4,5,6,10,11,12,14,15,21
+The teacher admires the work of the mechanic because she is the best. The pronoun she refers to the,65,32,2, mechanic, teacher,23,circuit, teacher,0.3926,0.3926,0.3926,1,2,3,5,6,7,10,11,12,15,16,22
+The librarian helped the lawyer because she needed help. The pronoun she refers to the,7,3,2, lawyer, librarian,18,circuit, librarian,0.7109,0.0011,0.7109,1,2,3,4,5,6,6,7,8,11,11,17
+The cleaner trusted in the constructor because she was exceptionally organized. The pronoun she refers to the,63,31,2, constructor, cleaner,20,circuit, cleaner,0.5625,0.0007,0.5625,1,2,3,4,6,7,7,8,9,12,13,19
+The editor took the analyst on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, analyst, editor,24,circuit, editor,0.6211,0.0742,0.6211,1,2,3,4,5,6,9,10,11,16,17,23
+The teacher was good friends with the farmer because she did everyone favors. The pronoun she refers to the,37,18,2, farmer, teacher,22,circuit, teacher,0.7422,0.0942,0.7422,1,2,3,4,8,9,9,10,11,14,15,21
+The cashier gave the analyst a ride because she lives far away. The pronoun she refers to the,49,24,2, analyst, cashier,21,circuit, cashier,0.543,0.1138,0.543,1,2,3,4,5,6,8,9,10,13,14,20
+The assistant asked the manager the way to the toilet because she knew. The pronoun she refers to the,51,25,2, manager, assistant,22,circuit, assistant,0.5742,0.1279,0.5742,1,2,3,4,5,6,11,12,13,14,15,21
+The auditor asks the lawyer where to go because she knows this building much better. The pronoun she refers to the,59,29,2, lawyer, auditor,24,circuit, auditor,0.6055,0.252,0.6055,1,2,3,4,5,6,9,10,11,16,17,23
+The nurse protected the guard because she was cowardly. The pronoun she refers to the,39,19,2, guard, nurse,19,circuit, nurse,0.8359,0.0064,0.8359,1,2,3,4,5,6,6,7,8,12,12,18
+The baker gave the mechanic a ride because she lives far away. The pronoun she refers to the,49,24,2, mechanic, baker,21,circuit, baker,0.7734,0.1348,0.7734,1,2,3,4,5,6,8,9,10,13,14,20
+The baker eats more than the mechanic as she is on a diet. The pronoun she refers to the,25,12,2, mechanic, baker,22,circuit, baker,0.7383,0.0605,0.7383,1,2,3,4,7,8,8,9,10,14,15,21
+The editor corrected the driver because she made a mistake. The pronoun she refers to the,21,10,2, driver, editor,19,circuit, editor,0.3711,0.1758,0.3711,1,2,3,4,5,6,6,7,8,11,12,18
+The designer trusted in the mechanic because she was exceptionally organized. The pronoun she refers to the,63,31,2, mechanic, designer,20,circuit, designer,0.707,0.0659,0.707,1,2,3,4,6,7,7,8,9,13,13,19
+The librarian raced against the constructor because she is slow. The pronoun she refers to the,11,5,2, constructor, librarian,19,circuit, librarian,0.5469,0.0073,0.5469,1,2,3,4,6,7,7,8,9,11,12,18
+The counselor showed the manager the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, manager, counselor,26,circuit, counselor,0.5742,0.0879,0.5742,1,2,3,4,5,6,11,12,13,18,19,25
+The clerk ordered the farmer out of the room because she was nosey. The pronoun she refers to the,61,30,2, farmer, clerk,23,circuit, clerk,0.4512,0.2129,0.4512,1,2,3,4,5,6,10,11,12,15,16,22
+The librarian showed the chief the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, chief, librarian,26,circuit, librarian,0.668,0.0058,0.668,1,2,3,4,5,6,11,12,13,18,19,25
+The nurse laughed at the guard because she told a funny joke. The pronoun she refers to the,27,13,2, guard, nurse,21,circuit, nurse,0.7734,0.0002,0.7734,1,2,3,4,6,7,7,8,9,13,14,20
+The baker ran faster than the constructor because she was weaker. The pronoun she refers to the,15,7,2, constructor, baker,20,circuit, baker,0.7344,0.0009,0.7344,1,2,3,4,7,8,8,9,10,12,13,19
+The cleaner showed the physician the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, physician, cleaner,26,circuit, cleaner,0.7383,0.0013,0.7383,1,2,3,4,5,6,11,12,13,18,19,25
+The accountant showed the guard the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, guard, accountant,26,circuit, accountant,0.6055,0.0086,0.6055,1,2,3,4,5,6,11,12,13,18,19,25
+The sewer laughed at the developer because she told a funny joke. The pronoun she refers to the,27,13,2, developer, sewer,21,circuit, sewer,0.7695,0.0055,0.7695,1,2,3,4,6,7,7,8,9,13,14,20
+The assistant asked the sheriff the way to the toilet because she knew. The pronoun she refers to the,51,25,2, sheriff, assistant,22,circuit, assistant,0.5469,0.0137,0.5469,1,2,3,4,5,6,11,12,13,14,15,21
+The baker trusted in the developer because she was exceptionally organized. The pronoun she refers to the,63,31,2, developer, baker,20,circuit, baker,0.6484,0.106,0.6484,1,2,3,4,6,7,7,8,9,13,13,19
+The cleaner eats more than the manager as she is on a diet. The pronoun she refers to the,25,12,2, manager, cleaner,22,circuit, cleaner,0.7617,0.0378,0.7617,1,2,3,4,7,8,8,9,10,14,15,21
+The counselor took the developer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, developer, counselor,24,circuit, counselor,0.4707,0.252,0.4707,1,2,3,4,5,6,9,10,11,16,17,23
+The teacher was rude to the farmer because she was universally hated. The pronoun she refers to the,35,17,2, farmer, teacher,21,circuit, teacher,0.6055,0.082,0.6055,1,2,3,4,7,8,8,9,10,13,14,20
+The librarian was rude to the mover because she was universally hated. The pronoun she refers to the,35,17,2, mover, librarian,21,circuit, librarian,0.5078,0.1865,0.5078,1,2,3,4,7,8,8,9,10,13,14,20
+The cashier asks the constructor where to go because she knows this building much better. The pronoun she refers to the,59,29,2, constructor, cashier,24,circuit, cashier,0.7344,0.0044,0.7344,1,2,3,4,5,6,9,10,11,16,17,23
+The secretary was rude to the guard because she was universally hated. The pronoun she refers to the,35,17,2, guard, secretary,21,circuit, secretary,0.6367,0.0525,0.6367,1,2,3,4,7,8,8,9,10,13,14,20
+The auditor protected the mechanic because she was cowardly. The pronoun she refers to the,39,19,2, mechanic, auditor,19,circuit, auditor,0.4766,0.1133,0.4766,1,2,3,4,5,6,6,7,8,12,12,18
+The secretary was running from the manager because she smelled awful. The pronoun she refers to the,19,9,2, manager, secretary,20,circuit, secretary,0.6875,0.0195,0.6875,1,2,3,5,7,8,8,9,10,12,13,19
+The sewer took the developer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, developer, sewer,24,circuit, sewer,0.6328,0.0859,0.6328,1,2,3,4,5,6,9,10,11,16,17,23
+The cleaner relies on the developer because she is trustworthy. The pronoun she refers to the,69,34,2, developer, cleaner,19,circuit, cleaner,0.5117,0.0308,0.5117,1,2,3,4,6,7,7,8,9,11,12,18
+The attendant gave a free ride to the sheriff because she was an old friend. The pronoun she refers to the,71,35,2, sheriff, attendant,24,circuit, attendant,0.4102,0.0405,0.4102,1,2,3,4,5,7,10,11,12,16,17,23
+The editor asked the guard to close the window because she was nearby. The pronoun she refers to the,29,14,2, guard, editor,22,circuit, editor,0.5781,0.0396,0.5781,1,2,3,4,5,6,10,11,12,14,15,21
+The accountant ordered the sheriff out of the room because she was nosey. The pronoun she refers to the,61,30,2, sheriff, accountant,23,circuit, accountant,0.4355,0.0488,0.4355,1,2,3,4,5,6,10,11,12,15,16,22
+The designer laughed at the manager because she told a funny joke. The pronoun she refers to the,27,13,2, manager, designer,21,circuit, designer,0.4941,0.3008,0.4941,1,2,3,4,6,7,7,8,9,13,14,20
+The cleaner eats more than the physician as she is on a diet. The pronoun she refers to the,25,12,2, physician, cleaner,22,circuit, cleaner,0.75,0.0078,0.75,1,2,3,4,7,8,8,9,10,14,15,21
+The counselor earns more than the supervisor because she is lazy and careless. The pronoun she refers to the,53,26,2, supervisor, counselor,22,circuit, counselor,0.707,0.0547,0.707,1,2,3,4,7,8,8,9,10,14,15,21
+The clerk ran faster than the analyst because she was weaker. The pronoun she refers to the,15,7,2, analyst, clerk,20,circuit, clerk,0.5469,0.0374,0.5469,1,2,3,4,7,8,8,9,10,12,13,19
+The designer asked the constructor to be more careful because she was often careless. The pronoun she refers to the,43,21,2, constructor, designer,23,circuit, designer,0.7812,0.0532,0.7812,1,2,3,4,5,6,10,11,12,15,16,22
+The designer earns more than the supervisor because she is lazy and careless. The pronoun she refers to the,53,26,2, supervisor, designer,22,circuit, designer,0.7734,0.022,0.7734,1,2,3,4,7,8,8,9,10,14,15,21
+The counselor protected the chief because she was cowardly. The pronoun she refers to the,39,19,2, chief, counselor,19,circuit, counselor,0.5977,0.0204,0.5977,1,2,3,4,5,6,6,7,8,11,12,18
+The editor outran the mechanic because she did not feel good. The pronoun she refers to the,3,1,2, mechanic, editor,21,circuit, editor,0.4609,0.0026,0.4609,1,2,3,5,6,7,7,8,9,13,14,20
+The baker bought the sheriff a gift because she had a birthday. The pronoun she refers to the,9,4,2, sheriff, baker,21,circuit, baker,0.7148,0.0623,0.7148,1,2,3,4,5,6,8,9,10,13,14,20
+The secretary laughed at the lawyer because she told a funny joke. The pronoun she refers to the,27,13,2, lawyer, secretary,21,circuit, secretary,0.6758,0.0315,0.6758,1,2,3,4,6,7,7,8,9,14,14,20
+The counselor helped the farmer because she needed help. The pronoun she refers to the,7,3,2, farmer, counselor,18,circuit, counselor,0.7227,0.0859,0.7227,1,2,3,4,5,6,6,7,8,11,11,17
+The sewer was good friends with the chief because she did everyone favors. The pronoun she refers to the,37,18,2, chief, sewer,22,circuit, sewer,0.7344,0.0645,0.7344,1,2,3,4,8,9,9,10,11,14,15,21
+The designer trusts the constructor because she was always honest. The pronoun she refers to the,67,33,2, constructor, designer,19,circuit, designer,0.7266,0.0182,0.7266,1,2,3,4,5,6,6,7,8,11,12,18
+The cleaner took the lawyer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, lawyer, cleaner,24,circuit, cleaner,0.7695,0.0408,0.7695,1,2,3,4,5,6,9,10,11,16,17,23
+The nurse showed the guard the direction because she was new. The pronoun she refers to the,57,28,2, guard, nurse,20,circuit, nurse,0.7812,0.0009,0.7812,1,2,3,4,5,6,8,9,10,12,13,19
+The cleaner earns more than the farmer because she is lazy and careless. The pronoun she refers to the,53,26,2, farmer, cleaner,22,circuit, cleaner,0.8594,0.0157,0.8594,1,2,3,4,7,8,8,9,10,15,15,21
+The clerk gave the manager a ride because she lives far away. The pronoun she refers to the,49,24,2, manager, clerk,21,circuit, clerk,0.6055,0.2227,0.6055,1,2,3,4,5,6,8,9,10,13,14,20
+The librarian was rude to the developer because she was universally hated. The pronoun she refers to the,35,17,2, developer, librarian,21,circuit, librarian,0.5,0.064,0.5,1,2,3,4,7,8,8,9,10,13,14,20
+The secretary trusts the sheriff because she was always honest. The pronoun she refers to the,67,33,2, sheriff, secretary,19,circuit, secretary,0.8711,0.0026,0.8711,1,2,3,4,5,6,6,7,8,11,12,18
+The teacher gave the guard a ride because she lives far away. The pronoun she refers to the,49,24,2, guard, teacher,21,circuit, teacher,0.7773,0.0081,0.7773,1,2,3,4,5,6,8,9,10,13,14,20
+The assistant asked the mechanic to close the window because she was nearby. The pronoun she refers to the,29,14,2, mechanic, assistant,22,circuit, assistant,0.5859,0.123,0.5859,1,2,3,4,5,6,10,11,12,14,15,21
+The librarian outran the driver because she did not feel good. The pronoun she refers to the,3,1,2, driver, librarian,21,circuit, librarian,0.5781,0.0154,0.5781,1,2,3,5,6,7,7,8,9,13,14,20
+The counselor showed the lawyer the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, lawyer, counselor,26,circuit, counselor,0.6719,0.0179,0.6719,1,2,3,4,5,6,11,12,13,18,19,25
+The nurse ordered the physician out of the room because she was nosey. The pronoun she refers to the,61,30,2, physician, nurse,23,circuit, nurse,0.5781,0.0225,0.5781,1,2,3,4,5,6,10,11,12,15,16,22
+The assistant corrected the sheriff because she made a mistake. The pronoun she refers to the,21,10,2, sheriff, assistant,19,circuit, assistant,0.3281,0.1992,0.3281,1,2,3,4,5,6,6,7,8,11,12,18
+The baker asks the physician where to go because she knows this building much better. The pronoun she refers to the,59,29,2, physician, baker,24,circuit, baker,0.4766,0.2256,0.4766,1,2,3,4,5,6,9,10,11,16,17,23
+The editor showed the developer the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, developer, editor,26,circuit, editor,0.5859,0.0005,0.5859,1,2,3,4,5,6,11,12,13,18,19,25
+The accountant was good friends with the analyst because she did everyone favors. The pronoun she refers to the,37,18,2, analyst, accountant,22,circuit, accountant,0.8086,0.0518,0.8086,1,2,3,4,8,9,9,10,11,15,15,21
+The baker asked the developer to close the window because she was nearby. The pronoun she refers to the,29,14,2, developer, baker,22,circuit, baker,0.7422,0.0154,0.7422,1,2,3,4,5,6,10,11,12,14,15,21
+The librarian outran the sheriff because she did not feel good. The pronoun she refers to the,3,1,2, sheriff, librarian,21,circuit, librarian,0.7305,0.0002,0.7305,1,2,3,5,6,7,7,8,9,13,14,20
+The librarian helped the analyst because she needed help. The pronoun she refers to the,7,3,2, analyst, librarian,18,circuit, librarian,0.4336,0.0033,0.4336,1,2,3,4,5,6,6,7,8,11,11,17
+The clerk asked the supervisor the way to the toilet because she knew. The pronoun she refers to the,51,25,2, supervisor, clerk,22,circuit, clerk,0.6719,0.1318,0.6719,1,2,3,4,5,6,11,12,13,14,15,21
+The writer outran the mover because she did not feel good. The pronoun she refers to the,3,1,2, mover, writer,21,circuit, writer,0.6758,0.0247,0.6758,1,2,3,5,6,7,7,8,9,13,14,20
+The designer asked the chief the way to the toilet because she knew. The pronoun she refers to the,51,25,2, chief, designer,22,circuit, designer,0.8008,0.0481,0.8008,1,2,3,4,5,6,11,12,13,14,15,21
+The designer relies on the analyst because she is trustworthy. The pronoun she refers to the,69,34,2, analyst, designer,19,circuit, designer,0.4102,0.2812,0.4102,1,2,3,4,6,7,7,8,9,11,12,18
+The baker ran faster than the lawyer because she was weaker. The pronoun she refers to the,15,7,2, lawyer, baker,20,circuit, baker,0.7422,0.0057,0.7422,1,2,3,4,7,8,8,9,10,12,13,19
+The cleaner relies on the sheriff because she is trustworthy. The pronoun she refers to the,69,34,2, sheriff, cleaner,19,circuit, cleaner,0.418,0.1738,0.418,1,2,3,4,6,7,7,8,9,11,12,18
+The secretary tried to fool the sheriff but she saw through the trick. The pronoun she refers to the,17,8,2, sheriff, secretary,22,circuit, secretary,0.7344,0.1128,0.7344,1,2,3,4,5,6,8,9,10,14,15,21
+The cashier tried to fool the lawyer but she saw through the trick. The pronoun she refers to the,17,8,2, lawyer, cashier,22,circuit, cashier,0.5586,0.2637,0.5586,1,2,3,4,5,6,8,9,10,14,15,21
+The nurse bought the farmer a gift because she had a birthday. The pronoun she refers to the,9,4,2, farmer, nurse,21,circuit, nurse,0.6875,0.0498,0.6875,1,2,3,4,5,6,8,9,10,13,14,20
+The teacher asks the physician where to go because she knows this building much better. The pronoun she refers to the,59,29,2, physician, teacher,24,circuit, teacher,0.6445,0.127,0.6445,1,2,3,4,5,6,9,10,11,16,17,23
+The secretary outran the driver because she did not feel good. The pronoun she refers to the,3,1,2, driver, secretary,21,circuit, secretary,0.6875,0.0072,0.6875,1,2,3,5,6,7,7,8,9,13,14,20
+The designer asked the driver to be more careful because she was often careless. The pronoun she refers to the,43,21,2, driver, designer,23,circuit, designer,0.4863,0.2949,0.4863,1,2,3,4,5,6,10,11,12,15,16,22
+The nurse respected the driver because she was a hardworking person. The pronoun she refers to the,41,20,2, driver, nurse,21,circuit, nurse,0.5938,0.1924,0.5938,1,2,3,4,5,6,6,7,8,13,14,20
+The accountant trusted in the guard because she was exceptionally organized. The pronoun she refers to the,63,31,2, guard, accountant,20,circuit, accountant,0.7891,0.0164,0.7891,1,2,3,4,6,7,7,8,9,12,13,19
+The editor showed the physician the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, physician, editor,26,circuit, editor,0.4746,0.0046,0.4746,1,2,3,4,5,6,11,12,13,18,19,25
+The editor helped the driver because she needed help. The pronoun she refers to the,7,3,2, driver, editor,18,circuit, editor,0.5977,0.0557,0.5977,1,2,3,4,5,6,6,7,8,10,11,17
+The auditor protected the constructor because she was cowardly. The pronoun she refers to the,39,19,2, constructor, auditor,19,circuit, auditor,0.6836,0.003,0.6836,1,2,3,4,5,6,6,7,8,12,12,18
+The editor gave the driver a ride because she lives far away. The pronoun she refers to the,49,24,2, driver, editor,21,circuit, editor,0.5273,0.0762,0.5273,1,2,3,4,5,6,8,9,10,13,14,20
+The teacher eats more than the cook as she is on a diet. The pronoun she refers to the,25,12,2, cook, teacher,22,circuit, teacher,0.75,0.0894,0.75,1,2,3,4,7,8,8,9,10,14,15,21
+The designer laughed at the mechanic because she told a funny joke. The pronoun she refers to the,27,13,2, mechanic, designer,21,circuit, designer,0.7969,0.0742,0.7969,1,2,3,4,6,7,7,8,9,14,14,20
+The counselor earns more than the manager because she is lazy and careless. The pronoun she refers to the,53,26,2, manager, counselor,22,circuit, counselor,0.5742,0.0684,0.5742,1,2,3,4,7,8,8,9,10,14,15,21
+The accountant was running from the chief because she smelled awful. The pronoun she refers to the,19,9,2, chief, accountant,20,circuit, accountant,0.6914,0.0222,0.6914,1,2,3,5,7,8,8,9,10,12,13,19
+The accountant outran the lawyer because she did not feel good. The pronoun she refers to the,3,1,2, lawyer, accountant,21,circuit, accountant,0.7773,0.003,0.7773,1,2,3,5,6,7,7,8,9,13,14,20
+The librarian ran faster than the farmer because she was weaker. The pronoun she refers to the,15,7,2, farmer, librarian,20,circuit, librarian,0.5117,0.061,0.5117,1,2,3,4,7,8,8,9,10,12,13,19
+The assistant corrected the developer because she made a mistake. The pronoun she refers to the,21,10,2, developer, assistant,19,circuit, assistant,0.5195,0.1787,0.5195,1,2,3,4,5,6,6,7,8,12,12,18
+The editor asked the sheriff to close the window because she was nearby. The pronoun she refers to the,29,14,2, sheriff, editor,22,circuit, editor,0.4902,0.0276,0.4902,1,2,3,4,5,6,10,11,12,14,15,21
+The cashier gave the chief a ride because she lives far away. The pronoun she refers to the,49,24,2, chief, cashier,21,circuit, cashier,0.7188,0.0085,0.7188,1,2,3,4,5,6,8,9,10,13,14,20
+The secretary raced against the constructor because she is slow. The pronoun she refers to the,11,5,2, constructor, secretary,19,circuit, secretary,0.6289,0.0015,0.6289,1,2,3,4,6,7,7,8,9,12,12,18
+The cleaner was good friends with the mechanic because she did everyone favors. The pronoun she refers to the,37,18,2, mechanic, cleaner,22,circuit, cleaner,0.7812,0.0532,0.7812,1,2,3,4,8,9,9,10,11,14,15,21
+The auditor earns more than the supervisor because she is lazy and careless. The pronoun she refers to the,53,26,2, supervisor, auditor,22,circuit, auditor,0.6602,0.1011,0.6602,1,2,3,4,7,8,8,9,10,14,15,21
+The clerk bought the analyst a gift because she had a birthday. The pronoun she refers to the,9,4,2, analyst, clerk,21,circuit, clerk,0.3418,0.3008,0.3418,1,2,3,4,5,6,8,9,10,13,14,20
+The cleaner asked the sheriff to close the window because she was nearby. The pronoun she refers to the,29,14,2, sheriff, cleaner,22,circuit, cleaner,0.6406,0.0052,0.6406,1,2,3,4,5,6,10,11,12,14,15,21
+The attendant was running from the constructor because she smelled awful. The pronoun she refers to the,19,9,2, constructor, attendant,20,circuit, attendant,0.7422,0.0011,0.7422,1,2,3,5,7,8,8,9,10,12,13,19
+The assistant laughed at the sheriff because she told a funny joke. The pronoun she refers to the,27,13,2, sheriff, assistant,21,circuit, assistant,0.5,0.0364,0.5,1,2,3,4,6,7,7,8,9,13,14,20
+The cashier offered a ride to the sheriff but she refused the offer. The pronoun she refers to the,47,23,2, sheriff, cashier,22,circuit, cashier,0.7109,0.0747,0.7109,1,2,3,4,5,6,9,10,11,14,15,21
+The nurse ordered the supervisor out of the room because she was nosey. The pronoun she refers to the,61,30,2, supervisor, nurse,23,circuit, nurse,0.459,0.1914,0.459,1,2,3,4,5,6,10,11,12,15,16,22
+The writer raced against the mover because she is slow. The pronoun she refers to the,11,5,2, mover, writer,19,circuit, writer,0.6328,0.0664,0.6328,1,2,3,4,6,7,7,8,9,11,12,18
+The librarian ran faster than the mover because she was weaker. The pronoun she refers to the,15,7,2, mover, librarian,20,circuit, librarian,0.3945,0.0209,0.3945,1,2,3,4,7,8,8,9,10,12,13,19
+The librarian trusts the constructor because she was always honest. The pronoun she refers to the,67,33,2, constructor, librarian,19,circuit, librarian,0.4531,0.0045,0.4531,1,2,3,4,5,6,6,7,8,11,12,18
+The counselor eats more than the mover as she is on a diet. The pronoun she refers to the,25,12,2, mover, counselor,22,circuit, counselor,0.5664,0.208,0.5664,1,2,3,4,7,8,8,9,10,14,15,21
+The accountant gave a free ride to the chief because she was an old friend. The pronoun she refers to the,71,35,2, chief, accountant,24,circuit, accountant,0.4727,0.082,0.4727,1,2,3,4,5,7,10,11,12,16,17,23
+The sewer offered a ride to the developer but she refused the offer. The pronoun she refers to the,47,23,2, developer, sewer,22,circuit, sewer,0.7656,0.0204,0.7656,1,2,3,4,5,6,9,10,11,14,15,21
+The designer raced against the mover because she is slow. The pronoun she refers to the,11,5,2, mover, designer,19,circuit, designer,0.7734,0.041,0.7734,1,2,3,4,6,7,7,8,9,11,12,18
+The nurse respected the chief because she was a hardworking person. The pronoun she refers to the,41,20,2, chief, nurse,21,circuit, nurse,0.7578,0.0583,0.7578,1,2,3,4,5,6,6,7,8,13,14,20
+The baker earns more than the driver because she is lazy and careless. The pronoun she refers to the,53,26,2, driver, baker,22,circuit, baker,0.8242,0.0161,0.8242,1,2,3,4,7,8,8,9,10,14,15,21
+The librarian trusts the guard because she was always honest. The pronoun she refers to the,67,33,2, guard, librarian,19,circuit, librarian,0.8594,0.0244,0.8594,1,2,3,4,5,6,6,7,8,11,12,18
+The nurse offered apples to the physician because she might like them. The pronoun she refers to the,5,2,2, physician, nurse,21,circuit, nurse,0.7812,0.0364,0.7812,1,2,3,4,7,8,8,9,10,13,14,20
+The teacher shouted at the developer because she was lying. The pronoun she refers to the,13,6,2, developer, teacher,19,circuit, teacher,0.3984,0.2002,0.3984,1,2,3,4,6,7,7,8,9,11,12,18
+The nurse relies on the farmer because she is trustworthy. The pronoun she refers to the,69,34,2, farmer, nurse,19,circuit, nurse,0.6289,0.1797,0.6289,1,2,3,4,6,7,7,8,9,11,12,18
+The editor showed the mechanic the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, mechanic, editor,26,circuit, editor,0.5234,0.009,0.5234,1,2,3,4,5,6,11,12,13,18,19,25
+The nurse ran faster than the mover because she was weaker. The pronoun she refers to the,15,7,2, mover, nurse,20,circuit, nurse,0.6914,0.0251,0.6914,1,2,3,4,7,8,8,9,10,12,13,19
+The cleaner asked the mechanic the way to the toilet because she knew. The pronoun she refers to the,51,25,2, mechanic, cleaner,22,circuit, cleaner,0.6445,0.0564,0.6445,1,2,3,4,5,6,11,12,13,14,15,21
+The librarian relies on the driver because she is trustworthy. The pronoun she refers to the,69,34,2, driver, librarian,19,circuit, librarian,0.3398,0.1416,0.3398,1,2,3,4,6,7,7,8,9,11,12,18
+The attendant raced against the constructor because she is slow. The pronoun she refers to the,11,5,2, constructor, attendant,19,circuit, attendant,0.5781,0.0017,0.5781,1,2,3,4,6,7,7,8,9,11,12,18
+The nurse bought the driver a gift because she had a birthday. The pronoun she refers to the,9,4,2, driver, nurse,21,circuit, nurse,0.6055,0.105,0.6055,1,2,3,4,5,6,8,9,10,13,14,20
+The teacher earns more than the mechanic because she is lazy and careless. The pronoun she refers to the,53,26,2, mechanic, teacher,22,circuit, teacher,0.7148,0.0085,0.7148,1,2,3,4,7,8,8,9,10,14,15,21
+The clerk was rude to the mechanic because she was universally hated. The pronoun she refers to the,35,17,2, mechanic, clerk,21,circuit, clerk,0.3555,0.3145,0.3555,1,2,3,4,7,8,8,9,10,13,14,20
+The editor showed the sheriff the direction because she was new. The pronoun she refers to the,57,28,2, sheriff, editor,20,circuit, editor,0.3965,0.0037,0.3965,1,2,3,4,5,6,8,9,10,12,13,19
+The editor outran the physician because she did not feel good. The pronoun she refers to the,3,1,2, physician, editor,21,circuit, editor,0.5547,0.0055,0.5547,1,2,3,5,6,7,7,8,9,13,14,20
+The nurse was rude to the physician because she was universally hated. The pronoun she refers to the,35,17,2, physician, nurse,21,circuit, nurse,0.5859,0.0452,0.5859,1,2,3,4,7,8,8,9,10,13,14,20
+The cashier ran faster than the supervisor because she was weaker. The pronoun she refers to the,15,7,2, supervisor, cashier,20,circuit, cashier,0.7734,0.0098,0.7734,1,2,3,4,7,8,8,9,10,12,13,19
+The cashier helped the driver because she needed help. The pronoun she refers to the,7,3,2, driver, cashier,18,circuit, cashier,0.7656,0.0278,0.7656,1,2,3,4,5,6,6,7,8,11,11,17
+The teacher raced against the developer because she is slow. The pronoun she refers to the,11,5,2, developer, teacher,19,circuit, teacher,0.7539,0.0003,0.7539,1,2,3,4,6,7,7,8,9,11,12,18
+The baker showed the physician the direction because she was new. The pronoun she refers to the,57,28,2, physician, baker,20,circuit, baker,0.5703,0.0366,0.5703,1,2,3,4,5,6,8,9,10,12,13,19
+The teacher bought the constructor a gift because she had a birthday. The pronoun she refers to the,9,4,2, constructor, teacher,21,circuit, teacher,0.7266,0.0043,0.7266,1,2,3,4,5,6,8,9,10,13,14,20
+The accountant took the farmer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, farmer, accountant,24,circuit, accountant,0.7227,0.0557,0.7227,1,2,3,4,5,6,9,10,11,16,17,23
+The assistant took the driver on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, driver, assistant,24,circuit, assistant,0.6719,0.1167,0.6719,1,2,3,4,5,6,9,10,11,16,17,23
+The sewer asked the physician the way to the toilet because she knew. The pronoun she refers to the,51,25,2, physician, sewer,22,circuit, sewer,0.3184,0.0588,0.3184,1,2,3,4,5,6,11,12,13,14,15,21
+The librarian ran faster than the constructor because she was weaker. The pronoun she refers to the,15,7,2, constructor, librarian,20,circuit, librarian,0.3711,0.0087,0.3711,1,2,3,4,7,8,8,9,10,12,13,19
+The counselor shouted at the constructor because she was lying. The pronoun she refers to the,13,6,2, constructor, counselor,19,circuit, counselor,0.2754,0.1572,0.2754,1,2,3,4,6,7,7,8,9,11,12,18
+The counselor corrected the farmer because she made a mistake. The pronoun she refers to the,21,10,2, farmer, counselor,19,circuit, counselor,0.5391,0.1543,0.5391,1,2,3,4,5,6,6,7,8,11,12,18
+The cleaner asked the farmer if she needs any help. The pronoun she refers to the,23,11,2, farmer, cleaner,19,circuit, cleaner,0.6836,0.1729,0.6836,1,2,3,4,5,6,7,7,8,12,12,18
+The cleaner asked the mover if she needs any help. The pronoun she refers to the,23,11,2, mover, cleaner,19,circuit, cleaner,0.377,0.377,0.377,1,2,3,4,5,6,7,7,8,11,12,18
+The nurse eats more than the lawyer as she is on a diet. The pronoun she refers to the,25,12,2, lawyer, nurse,22,circuit, nurse,0.7773,0.0249,0.7773,1,2,3,4,7,8,8,9,10,14,15,21
+The baker asked the driver the way to the toilet because she knew. The pronoun she refers to the,51,25,2, driver, baker,22,circuit, baker,0.6406,0.0928,0.6406,1,2,3,4,5,6,11,12,13,14,15,21
+The clerk took the guard on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, guard, clerk,24,circuit, clerk,0.6602,0.0894,0.6602,1,2,3,4,5,6,9,10,11,16,17,23
+The librarian asked the developer to be more careful because she was often careless. The pronoun she refers to the,43,21,2, developer, librarian,23,circuit, librarian,0.6484,0.0771,0.6484,1,2,3,4,5,6,10,11,12,15,16,22
+The designer asks the guard where to go because she knows this building much better. The pronoun she refers to the,59,29,2, guard, designer,24,circuit, designer,0.7539,0.0376,0.7539,1,2,3,4,5,6,9,10,11,16,17,23
+The designer protected the farmer because she was cowardly. The pronoun she refers to the,39,19,2, farmer, designer,19,circuit, designer,0.6523,0.0942,0.6523,1,2,3,4,5,6,6,7,8,11,12,18
+The assistant raced against the driver because she is slow. The pronoun she refers to the,11,5,2, driver, assistant,19,circuit, assistant,0.6758,0.0278,0.6758,1,2,3,4,6,7,7,8,9,11,12,18
+The cashier tried to fool the sheriff but she saw through the trick. The pronoun she refers to the,17,8,2, sheriff, cashier,22,circuit, cashier,0.6914,0.1357,0.6914,1,2,3,4,7,8,8,9,10,14,15,21
+The editor asks the driver where to go because she knows this building much better. The pronoun she refers to the,59,29,2, driver, editor,24,circuit, editor,0.5625,0.1719,0.5625,1,2,3,4,5,6,9,10,11,16,17,23
+The designer was running from the analyst because she smelled awful. The pronoun she refers to the,19,9,2, analyst, designer,20,circuit, designer,0.8359,0.0223,0.8359,1,2,3,5,7,8,8,9,10,12,13,19
+The clerk earns more than the developer because she is lazy and careless. The pronoun she refers to the,53,26,2, developer, clerk,22,circuit, clerk,0.6562,0.0198,0.6562,1,2,3,4,7,8,8,9,10,14,15,21
+The designer asked the supervisor to close the window because she was nearby. The pronoun she refers to the,29,14,2, supervisor, designer,22,circuit, designer,0.7109,0.1162,0.7109,1,2,3,4,5,6,10,11,12,14,15,21
+The clerk took the mechanic on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, mechanic, clerk,24,circuit, clerk,0.543,0.1553,0.543,1,2,3,4,5,6,9,10,11,16,17,23
+The clerk helped the supervisor because she needed help. The pronoun she refers to the,7,3,2, supervisor, clerk,18,circuit, clerk,0.6289,0.1807,0.6289,1,2,3,4,5,6,6,7,8,10,11,17
+The clerk bought the developer a gift because she had a birthday. The pronoun she refers to the,9,4,2, developer, clerk,21,circuit, clerk,0.5195,0.168,0.5195,1,2,3,4,5,6,8,9,10,13,14,20
+The counselor showed the chief the direction because she was new. The pronoun she refers to the,57,28,2, chief, counselor,20,circuit, counselor,0.6289,0.0101,0.6289,1,2,3,4,5,6,8,9,10,12,13,19
+The nurse asked the sheriff to be more careful because she was often careless. The pronoun she refers to the,43,21,2, sheriff, nurse,23,circuit, nurse,0.543,0.0942,0.543,1,2,3,4,5,6,10,11,12,15,16,22
+The clerk was running from the mechanic because she smelled awful. The pronoun she refers to the,19,9,2, mechanic, clerk,20,circuit, clerk,0.6406,0.0386,0.6406,1,2,3,5,7,8,8,9,10,12,13,19
+The nurse ordered the constructor out of the room because she was nosey. The pronoun she refers to the,61,30,2, constructor, nurse,23,circuit, nurse,0.6055,0.0194,0.6055,1,2,3,4,5,6,10,11,12,15,16,22
+The cashier asked the developer to be more careful because she was often careless. The pronoun she refers to the,43,21,2, developer, cashier,23,circuit, cashier,0.5781,0.1455,0.5781,1,2,3,4,5,6,10,11,12,15,16,22
+The designer asked the constructor the way to the toilet because she knew. The pronoun she refers to the,51,25,2, constructor, designer,22,circuit, designer,0.8516,0.0069,0.8516,1,2,3,4,5,6,11,12,13,14,15,21
+The clerk asks the physician where to go because she knows this building much better. The pronoun she refers to the,59,29,2, physician, clerk,24,circuit, clerk,0.7656,0.0459,0.7656,1,2,3,4,5,6,9,10,11,16,17,23
+The cashier eats more than the developer as she is on a diet. The pronoun she refers to the,25,12,2, developer, cashier,22,circuit, cashier,0.5547,0.0157,0.5547,1,2,3,4,7,8,8,9,10,14,15,21
+The auditor protected the driver because she was cowardly. The pronoun she refers to the,39,19,2, driver, auditor,19,circuit, auditor,0.4688,0.208,0.4688,1,2,3,4,5,6,6,7,8,12,12,18
+The secretary admires the work of the sheriff because she is the best. The pronoun she refers to the,65,32,2, sheriff, secretary,23,circuit, secretary,0.707,0.1084,0.707,1,2,3,5,6,7,10,11,12,15,16,22
+The secretary ran faster than the lawyer because she was weaker. The pronoun she refers to the,15,7,2, lawyer, secretary,20,circuit, secretary,0.7227,0.0026,0.7227,1,2,3,4,7,8,8,9,10,12,13,19
+The clerk was rude to the farmer because she was universally hated. The pronoun she refers to the,35,17,2, farmer, clerk,21,circuit, clerk,0.6133,0.1001,0.6133,1,2,3,4,7,8,8,9,10,13,14,20
+The teacher gave a free ride to the physician because she was an old friend. The pronoun she refers to the,71,35,2, physician, teacher,24,circuit, teacher,0.5469,0.0693,0.5469,1,2,3,4,5,7,10,11,12,16,17,23
+The secretary asked the mechanic the way to the toilet because she knew. The pronoun she refers to the,51,25,2, mechanic, secretary,22,circuit, secretary,0.625,0.0156,0.625,1,2,3,4,5,6,11,12,13,14,15,21
+The designer asks the farmer where to go because she knows this building much better. The pronoun she refers to the,59,29,2, farmer, designer,24,circuit, designer,0.6094,0.0991,0.6094,1,2,3,4,5,6,9,10,11,16,17,23
+The attendant trusts the constructor because she was always honest. The pronoun she refers to the,67,33,2, constructor, attendant,19,circuit, attendant,0.4629,0.009,0.4629,1,2,3,4,5,6,6,7,8,11,12,18
+The accountant gave the lawyer a ride because she lives far away. The pronoun she refers to the,49,24,2, lawyer, accountant,21,circuit, accountant,0.6328,0.1602,0.6328,1,2,3,4,5,6,8,9,10,13,14,20
+The writer asks the farmer where to go because she knows this building much better. The pronoun she refers to the,59,29,2, farmer, writer,24,circuit, writer,0.7305,0.0564,0.7305,1,2,3,4,5,6,9,10,11,16,17,23
+The secretary ordered the physician out of the room because she was nosey. The pronoun she refers to the,61,30,2, physician, secretary,23,circuit, secretary,0.6172,0.0393,0.6172,1,2,3,4,5,6,10,11,12,15,16,22
+The teacher was rude to the manager because she was universally hated. The pronoun she refers to the,35,17,2, manager, teacher,21,circuit, teacher,0.4746,0.2539,0.4746,1,2,3,4,7,8,8,9,10,13,14,20
+The secretary raced against the mechanic because she is slow. The pronoun she refers to the,11,5,2, mechanic, secretary,19,circuit, secretary,0.7305,0.0008,0.7305,1,2,3,4,6,7,7,8,9,11,12,18
+The teacher gave the farmer a ride because she lives far away. The pronoun she refers to the,49,24,2, farmer, teacher,21,circuit, teacher,0.7148,0.0356,0.7148,1,2,3,4,5,6,8,9,10,13,14,20
+The librarian showed the constructor the direction because she was new. The pronoun she refers to the,57,28,2, constructor, librarian,20,circuit, librarian,0.5078,0.0039,0.5078,1,2,3,4,5,6,8,9,10,12,13,19
+The editor respected the guard because she was a hardworking person. The pronoun she refers to the,41,20,2, guard, editor,21,circuit, editor,0.6172,0.1006,0.6172,1,2,3,4,5,6,6,7,8,14,14,20
+The assistant gave the cook a ride because she lives far away. The pronoun she refers to the,49,24,2, cook, assistant,21,circuit, assistant,0.5156,0.3125,0.5156,1,2,3,4,5,6,8,9,10,13,14,20
+The secretary gave the guard a ride because she lives far away. The pronoun she refers to the,49,24,2, guard, secretary,21,circuit, secretary,0.8047,0.0215,0.8047,1,2,3,4,5,6,8,9,10,13,14,20
+The assistant asked the physician to close the window because she was nearby. The pronoun she refers to the,29,14,2, physician, assistant,22,circuit, assistant,0.5781,0.1001,0.5781,1,2,3,4,5,6,10,11,12,14,15,21
+The accountant respected the mechanic because she was a hardworking person. The pronoun she refers to the,41,20,2, mechanic, accountant,21,circuit, accountant,0.582,0.166,0.582,1,2,3,4,5,6,6,7,8,13,14,20
+The writer bought the lawyer a gift because she had a birthday. The pronoun she refers to the,9,4,2, lawyer, writer,21,circuit, writer,0.4512,0.3516,0.4512,1,2,3,4,5,6,8,9,10,13,14,20
+The sewer asked the sheriff the way to the toilet because she knew. The pronoun she refers to the,51,25,2, sheriff, sewer,22,circuit, sewer,0.4297,0.0177,0.4297,1,2,3,4,5,6,11,12,13,14,15,21
+The nurse earns more than the supervisor because she is lazy and careless. The pronoun she refers to the,53,26,2, supervisor, nurse,22,circuit, nurse,0.7852,0.0143,0.7852,1,2,3,4,7,8,8,9,10,14,15,21
+The accountant ordered the chief out of the room because she was nosey. The pronoun she refers to the,61,30,2, chief, accountant,23,circuit, accountant,0.5117,0.0786,0.5117,1,2,3,4,5,6,10,11,12,15,16,22
+The teacher asked the farmer to be more careful because she was often careless. The pronoun she refers to the,43,21,2, farmer, teacher,23,circuit, teacher,0.4961,0.3398,0.4961,1,2,3,4,5,6,10,11,12,15,16,22
+The secretary gave a free ride to the analyst because she was an old friend. The pronoun she refers to the,71,35,2, analyst, secretary,24,circuit, secretary,0.5547,0.1592,0.5547,1,2,3,4,5,7,10,11,12,16,17,23
+The teacher showed the farmer the direction because she was new. The pronoun she refers to the,57,28,2, farmer, teacher,20,circuit, teacher,0.7109,0.0045,0.7109,1,2,3,4,5,6,8,9,10,12,13,19
+The nurse eats more than the sheriff as she is on a diet. The pronoun she refers to the,25,12,2, sheriff, nurse,22,circuit, nurse,0.8438,0.0025,0.8438,1,2,3,4,7,8,8,9,10,14,15,21
+The librarian admires the work of the driver because she is the best. The pronoun she refers to the,65,32,2, driver, librarian,23,circuit, librarian,0.6797,0.0918,0.6797,1,2,3,5,6,7,10,11,12,15,16,22
+The cashier was rude to the mover because she was universally hated. The pronoun she refers to the,35,17,2, mover, cashier,21,circuit, cashier,0.4297,0.2598,0.4297,1,2,3,4,7,8,8,9,10,13,14,20
+The assistant raced against the manager because she is slow. The pronoun she refers to the,11,5,2, manager, assistant,19,circuit, assistant,0.6562,0.0889,0.6562,1,2,3,4,6,7,7,8,9,11,12,18
+The cashier gave a free ride to the farmer because she was an old friend. The pronoun she refers to the,71,35,2, farmer, cashier,24,circuit, cashier,0.5977,0.1182,0.5977,1,2,3,4,5,7,10,11,12,16,17,23
+The baker was running from the physician because she smelled awful. The pronoun she refers to the,19,9,2, physician, baker,20,circuit, baker,0.8203,0.0205,0.8203,1,2,3,5,7,8,8,9,10,13,13,19
+The editor relies on the supervisor because she is trustworthy. The pronoun she refers to the,69,34,2, supervisor, editor,19,circuit, editor,0.2471,0.0588,0.2471,1,2,3,4,6,7,7,8,9,11,12,18
+The teacher offered apples to the mechanic because she might like them. The pronoun she refers to the,5,2,2, mechanic, teacher,21,circuit, teacher,0.6641,0.2148,0.6641,1,2,3,4,7,8,8,9,10,13,14,20
+The teacher asked the analyst to close the window because she was nearby. The pronoun she refers to the,29,14,2, analyst, teacher,22,circuit, teacher,0.4355,0.2334,0.4355,1,2,3,4,5,6,10,11,12,14,15,21
+The secretary gave a free ride to the physician because she was an old friend. The pronoun she refers to the,71,35,2, physician, secretary,24,circuit, secretary,0.668,0.0243,0.668,1,2,3,4,5,7,10,11,12,16,17,23
+The counselor ran faster than the guard because she was weaker. The pronoun she refers to the,15,7,2, guard, counselor,20,circuit, counselor,0.7344,0.0127,0.7344,1,2,3,4,7,8,8,9,10,12,13,19
+The cashier protected the physician because she was cowardly. The pronoun she refers to the,39,19,2, physician, cashier,19,circuit, cashier,0.6992,0.005,0.6992,1,2,3,4,5,6,6,7,8,12,12,18
+The baker showed the constructor the direction because she was new. The pronoun she refers to the,57,28,2, constructor, baker,20,circuit, baker,0.5312,0.011,0.5312,1,2,3,4,5,6,8,9,10,12,13,19
+The assistant trusted in the supervisor because she was exceptionally organized. The pronoun she refers to the,63,31,2, supervisor, assistant,20,circuit, assistant,0.6133,0.1553,0.6133,1,2,3,4,6,7,7,8,9,12,13,19
+The auditor outran the guard because she did not feel good. The pronoun she refers to the,3,1,2, guard, auditor,21,circuit, auditor,0.6484,0.0017,0.6484,1,2,3,5,6,7,7,8,9,13,14,20
+The secretary trusts the analyst because she was always honest. The pronoun she refers to the,67,33,2, analyst, secretary,19,circuit, secretary,0.5547,0.2305,0.5547,1,2,3,4,5,6,6,7,8,11,12,18
+The cleaner fell in love with the lawyer because of her nice hands. The pronoun her refers to the,31,15,2, lawyer, cleaner,22,circuit, cleaner,0.4023,0.3125,0.4023,1,2,3,4,8,9,9,10,12,14,15,21
+The cleaner gave a free ride to the developer because she was an old friend. The pronoun she refers to the,71,35,2, developer, cleaner,24,circuit, cleaner,0.7266,0.0248,0.7266,1,2,3,4,5,7,10,11,12,16,17,23
+The auditor outran the mechanic because she did not feel good. The pronoun she refers to the,3,1,2, mechanic, auditor,21,circuit, auditor,0.5625,0.0052,0.5625,1,2,3,5,6,7,7,8,9,13,14,20
+The accountant asked the constructor if she needs any help. The pronoun she refers to the,23,11,2, constructor, accountant,19,circuit, accountant,0.3574,0.1162,0.3574,1,2,3,4,5,6,7,7,8,12,12,18
+The librarian admires the work of the guard because she is the best. The pronoun she refers to the,65,32,2, guard, librarian,23,circuit, librarian,0.8164,0.0522,0.8164,1,2,3,5,6,7,10,11,12,15,16,22
+The nurse raced against the analyst because she is slow. The pronoun she refers to the,11,5,2, analyst, nurse,19,circuit, nurse,0.7578,0.0167,0.7578,1,2,3,4,6,7,7,8,9,12,12,18
+The clerk was rude to the physician because she was universally hated. The pronoun she refers to the,35,17,2, physician, clerk,21,circuit, clerk,0.543,0.1006,0.543,1,2,3,4,7,8,8,9,10,13,14,20
+The sewer took the constructor on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, constructor, sewer,24,circuit, sewer,0.832,0.0439,0.832,1,2,3,4,5,6,9,10,11,16,17,23
+The sewer earns more than the chief because she is lazy and careless. The pronoun she refers to the,53,26,2, chief, sewer,22,circuit, sewer,0.7344,0.0366,0.7344,1,2,3,4,7,8,8,9,10,14,15,21
+The counselor helped the lawyer because she needed help. The pronoun she refers to the,7,3,2, lawyer, counselor,18,circuit, counselor,0.75,0.0292,0.75,1,2,3,4,5,6,6,7,8,11,11,17
+The clerk raced against the analyst because she is slow. The pronoun she refers to the,11,5,2, analyst, clerk,19,circuit, clerk,0.5312,0.1182,0.5312,1,2,3,4,6,7,7,8,9,11,12,18
+The baker corrected the constructor because she made a mistake. The pronoun she refers to the,21,10,2, constructor, baker,19,circuit, baker,0.8281,0.0008,0.8281,1,2,3,4,5,6,6,7,8,11,12,18
+The cleaner corrected the chief because she made a mistake. The pronoun she refers to the,21,10,2, chief, cleaner,19,circuit, cleaner,0.4824,0.1562,0.4824,1,2,3,4,5,6,6,7,8,11,12,18
+The writer respected the developer because she was a hardworking person. The pronoun she refers to the,41,20,2, developer, writer,21,circuit, writer,0.4336,0.2988,0.4336,1,2,3,4,5,6,6,7,8,13,14,20
+The secretary helped the guard because she needed help. The pronoun she refers to the,7,3,2, guard, secretary,18,circuit, secretary,0.7969,0.0016,0.7969,1,2,3,4,5,6,6,7,8,10,11,17
+The assistant showed the guard the direction because she was new. The pronoun she refers to the,57,28,2, guard, assistant,20,circuit, assistant,0.6328,0.0179,0.6328,1,2,3,4,5,6,8,9,10,12,13,19
+The teacher ordered the mechanic out of the room because she was nosey. The pronoun she refers to the,61,30,2, mechanic, teacher,23,circuit, teacher,0.6289,0.0962,0.6289,1,2,3,4,5,6,10,11,12,15,16,22
+The cleaner relies on the analyst because she is trustworthy. The pronoun she refers to the,69,34,2, analyst, cleaner,19,circuit, cleaner,0.3887,0.1836,0.3887,1,2,3,4,6,7,7,8,9,12,12,18
+The cleaner asks the mechanic where to go because she knows this building much better. The pronoun she refers to the,59,29,2, mechanic, cleaner,24,circuit, cleaner,0.6836,0.0869,0.6836,1,2,3,4,5,6,9,10,11,16,17,23
+The assistant offered a ride to the sheriff but she refused the offer. The pronoun she refers to the,47,23,2, sheriff, assistant,22,circuit, assistant,0.2227,0.2227,0.2227,1,2,3,4,5,6,9,10,11,14,15,21
+The accountant asked the farmer the way to the toilet because she knew. The pronoun she refers to the,51,25,2, farmer, accountant,22,circuit, accountant,0.5,0.0869,0.5,1,2,3,4,5,6,11,12,13,14,15,21
+The cleaner gave the chief a ride because she lives far away. The pronoun she refers to the,49,24,2, chief, cleaner,21,circuit, cleaner,0.6523,0.006,0.6523,1,2,3,4,5,6,8,9,10,13,14,20
+The cleaner raced against the chief because she is slow. The pronoun she refers to the,11,5,2, chief, cleaner,19,circuit, cleaner,0.6914,0.0039,0.6914,1,2,3,4,6,7,7,8,9,11,12,18
+The writer was good friends with the physician because she did everyone favors. The pronoun she refers to the,37,18,2, physician, writer,22,circuit, writer,0.6758,0.125,0.6758,1,2,3,4,8,9,9,10,11,14,15,21
+The editor corrected the constructor because she made a mistake. The pronoun she refers to the,21,10,2, constructor, editor,19,circuit, editor,0.5742,0.0034,0.5742,1,2,3,4,5,6,6,7,8,11,12,18
+The secretary laughed at the analyst because she told a funny joke. The pronoun she refers to the,27,13,2, analyst, secretary,21,circuit, secretary,0.6484,0.05,0.6484,1,2,3,4,6,7,7,8,9,14,14,20
+The teacher trusts the chief because she was always honest. The pronoun she refers to the,67,33,2, chief, teacher,19,circuit, teacher,0.6602,0.1465,0.6602,1,2,3,4,5,6,6,7,8,12,12,18
+The cleaner was rude to the lawyer because she was universally hated. The pronoun she refers to the,35,17,2, lawyer, cleaner,21,circuit, cleaner,0.5312,0.1523,0.5312,1,2,3,4,7,8,8,9,10,13,14,20
+The writer gave the sheriff a ride because she lives far away. The pronoun she refers to the,49,24,2, sheriff, writer,21,circuit, writer,0.8477,0.0078,0.8477,1,2,3,4,5,6,8,9,10,13,14,20
+The nurse gave a free ride to the supervisor because she was an old friend. The pronoun she refers to the,71,35,2, supervisor, nurse,24,circuit, nurse,0.6133,0.1367,0.6133,1,2,3,4,5,7,10,11,12,16,17,23
+The assistant ordered the guard out of the room because she was nosey. The pronoun she refers to the,61,30,2, guard, assistant,23,circuit, assistant,0.6289,0.019,0.6289,1,2,3,4,5,6,10,11,12,15,16,22
+The assistant asked the farmer the way to the toilet because she knew. The pronoun she refers to the,51,25,2, farmer, assistant,22,circuit, assistant,0.3906,0.127,0.3906,1,2,3,4,5,6,11,12,13,14,15,21
+The sewer laughed at the constructor because she told a funny joke. The pronoun she refers to the,27,13,2, constructor, sewer,21,circuit, sewer,0.6367,0.0018,0.6367,1,2,3,4,6,7,7,8,9,13,14,20
+The teacher helped the analyst because she needed help. The pronoun she refers to the,7,3,2, analyst, teacher,18,circuit, teacher,0.6641,0.0166,0.6641,1,2,3,4,5,6,6,7,8,11,11,17
+The accountant corrected the constructor because she made a mistake. The pronoun she refers to the,21,10,2, constructor, accountant,19,circuit, accountant,0.6562,0.006,0.6562,1,2,3,4,5,6,6,7,8,11,12,18
+The cleaner took the manager on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, manager, cleaner,24,circuit, cleaner,0.7461,0.0508,0.7461,1,2,3,4,5,6,9,10,11,16,17,23
+The cleaner ordered the manager out of the room because she was nosey. The pronoun she refers to the,61,30,2, manager, cleaner,23,circuit, cleaner,0.5977,0.1709,0.5977,1,2,3,4,5,6,10,11,12,15,16,22
+The cleaner was good friends with the lawyer because she did everyone favors. The pronoun she refers to the,37,18,2, lawyer, cleaner,22,circuit, cleaner,0.8281,0.0564,0.8281,1,2,3,4,8,9,9,10,11,14,15,21
+The editor earns more than the farmer because she is lazy and careless. The pronoun she refers to the,53,26,2, farmer, editor,22,circuit, editor,0.6992,0.061,0.6992,1,2,3,4,7,8,8,9,10,14,15,21
+The attendant protected the guard because she was cowardly. The pronoun she refers to the,39,19,2, guard, attendant,19,circuit, attendant,0.6836,0.0282,0.6836,1,2,3,4,5,6,6,7,8,12,12,18
+The attendant helped the analyst because she needed help. The pronoun she refers to the,7,3,2, analyst, attendant,18,circuit, attendant,0.4473,0.1455,0.4473,1,2,3,4,5,6,6,7,8,10,11,17
+The cashier asked the chief the way to the toilet because she knew. The pronoun she refers to the,51,25,2, chief, cashier,22,circuit, cashier,0.707,0.013,0.707,1,2,3,4,5,6,11,12,13,14,15,21
+The secretary bought the supervisor a gift because she had a birthday. The pronoun she refers to the,9,4,2, supervisor, secretary,21,circuit, secretary,0.7891,0.0574,0.7891,1,2,3,4,5,6,8,9,10,13,14,20
+The attendant was good friends with the guard because she did everyone favors. The pronoun she refers to the,37,18,2, guard, attendant,22,circuit, attendant,0.8789,0.022,0.8789,1,2,3,4,8,9,9,10,11,14,15,21
+The cleaner showed the cook the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, cook, cleaner,26,circuit, cleaner,0.4551,0.2148,0.4551,1,2,3,4,5,6,11,12,13,18,19,25
+The editor tried to fool the guard but she saw through the trick. The pronoun she refers to the,17,8,2, guard, editor,22,circuit, editor,0.5391,0.1992,0.5391,1,2,3,4,5,6,8,9,10,14,15,21
+The cleaner relies on the mover because she is trustworthy. The pronoun she refers to the,69,34,2, mover, cleaner,19,circuit, cleaner,0.2754,0.2432,0.2754,1,2,3,4,6,7,7,8,9,11,12,18
+The teacher earns more than the developer because she is lazy and careless. The pronoun she refers to the,53,26,2, developer, teacher,22,circuit, teacher,0.6562,0.0027,0.6562,1,2,3,4,7,8,8,9,10,14,15,21
+The secretary asked the analyst the way to the toilet because she knew. The pronoun she refers to the,51,25,2, analyst, secretary,22,circuit, secretary,0.5352,0.1357,0.5352,1,2,3,4,5,6,11,12,13,14,15,21
+The librarian trusted in the analyst because she was exceptionally organized. The pronoun she refers to the,63,31,2, analyst, librarian,20,circuit, librarian,0.5547,0.1592,0.5547,1,2,3,4,6,7,7,8,9,12,13,19
+The clerk showed the supervisor the direction because she was new. The pronoun she refers to the,57,28,2, supervisor, clerk,20,circuit, clerk,0.4375,0.2344,0.4375,1,2,3,4,5,6,8,9,10,12,13,19
+The secretary raced against the physician because she is slow. The pronoun she refers to the,11,5,2, physician, secretary,19,circuit, secretary,0.7305,0.006,0.7305,1,2,3,4,6,7,7,8,9,11,12,18
+The cashier showed the mover the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, mover, cashier,26,circuit, cashier,0.5586,0.017,0.5586,1,2,3,4,5,6,11,12,13,18,19,25
+The cashier laughed at the mover because she told a funny joke. The pronoun she refers to the,27,13,2, mover, cashier,21,circuit, cashier,0.5977,0.1177,0.5977,1,2,3,4,6,7,7,8,9,14,14,20
+The librarian trusted in the developer because she was exceptionally organized. The pronoun she refers to the,63,31,2, developer, librarian,20,circuit, librarian,0.7578,0.0178,0.7578,1,2,3,4,6,7,7,8,9,12,13,19
+The librarian was running from the constructor because she smelled awful. The pronoun she refers to the,19,9,2, constructor, librarian,20,circuit, librarian,0.7461,0.0027,0.7461,1,2,3,5,7,8,8,9,10,12,13,19
+The designer bought the mechanic a gift because she had a birthday. The pronoun she refers to the,9,4,2, mechanic, designer,21,circuit, designer,0.4453,0.3926,0.4453,1,2,3,4,5,6,8,9,10,13,14,20
+The designer ran faster than the analyst because she was weaker. The pronoun she refers to the,15,7,2, analyst, designer,20,circuit, designer,0.832,0.0195,0.832,1,2,3,4,7,8,8,9,10,12,13,19
+The secretary showed the guard the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, guard, secretary,26,circuit, secretary,0.7344,0.0004,0.7344,1,2,3,4,5,6,11,12,13,18,19,25
+The editor trusted in the sheriff because she was exceptionally organized. The pronoun she refers to the,63,31,2, sheriff, editor,20,circuit, editor,0.6562,0.0271,0.6562,1,2,3,4,6,7,7,8,9,12,13,19
+The baker ran faster than the mover because she was weaker. The pronoun she refers to the,15,7,2, mover, baker,20,circuit, baker,0.7422,0.0136,0.7422,1,2,3,4,7,8,8,9,10,12,13,19
+The sewer admires the work of the constructor because she is the best. The pronoun she refers to the,65,32,2, constructor, sewer,23,circuit, sewer,0.5781,0.0064,0.5781,1,2,3,5,6,7,10,11,12,15,16,22
+The cleaner was good friends with the chief because she did everyone favors. The pronoun she refers to the,37,18,2, chief, cleaner,22,circuit, cleaner,0.8047,0.0148,0.8047,1,2,3,4,8,9,9,10,11,15,15,21
+The auditor was rude to the constructor because she was universally hated. The pronoun she refers to the,35,17,2, constructor, auditor,21,circuit, auditor,0.7461,0.0327,0.7461,1,2,3,4,7,8,8,9,10,13,14,20
+The auditor gave a free ride to the guard because she was an old friend. The pronoun she refers to the,71,35,2, guard, auditor,24,circuit, auditor,0.3613,0.2197,0.3613,1,2,3,4,5,7,10,11,12,16,17,23
+The writer gave a free ride to the guard because she was an old friend. The pronoun she refers to the,71,35,2, guard, writer,24,circuit, writer,0.7383,0.0732,0.7383,1,2,3,4,5,7,10,11,12,16,17,23
+The assistant ran faster than the cook because she was weaker. The pronoun she refers to the,15,7,2, cook, assistant,20,circuit, assistant,0.6133,0.1064,0.6133,1,2,3,4,7,8,8,9,10,12,13,19
+The sewer trusts the constructor because she was always honest. The pronoun she refers to the,67,33,2, constructor, sewer,19,circuit, sewer,0.3262,0.0825,0.3262,1,2,3,4,5,6,6,7,8,11,12,18
+The teacher was good friends with the developer because she did everyone favors. The pronoun she refers to the,37,18,2, developer, teacher,22,circuit, teacher,0.7031,0.084,0.7031,1,2,3,4,8,9,9,10,11,15,15,21
+The librarian asked the chief if she needs any help. The pronoun she refers to the,23,11,2, chief, librarian,19,circuit, librarian,0.4902,0.2041,0.4902,1,2,3,4,5,6,7,7,8,11,12,18
+The nurse took the chief on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, chief, nurse,24,circuit, nurse,0.5664,0.0767,0.5664,1,2,3,4,5,6,9,10,11,16,17,23
+The cashier fell in love with the chief because of her nice hands. The pronoun her refers to the,31,15,2, chief, cashier,22,circuit, cashier,0.6875,0.082,0.6875,1,2,3,4,8,9,9,10,10,14,15,21
+The counselor trusted in the chief because she was exceptionally organized. The pronoun she refers to the,63,31,2, chief, counselor,20,circuit, counselor,0.6875,0.0236,0.6875,1,2,3,4,6,7,7,8,9,12,13,19
+The designer gave the lawyer a ride because she lives far away. The pronoun she refers to the,49,24,2, lawyer, designer,21,circuit, designer,0.7148,0.1406,0.7148,1,2,3,4,5,6,8,9,10,13,14,20
+The assistant laughed at the constructor because she told a funny joke. The pronoun she refers to the,27,13,2, constructor, assistant,21,circuit, assistant,0.6562,0.012,0.6562,1,2,3,4,6,7,7,8,9,14,14,20
+The attendant outran the guard because she did not feel good. The pronoun she refers to the,3,1,2, guard, attendant,21,circuit, attendant,0.6992,0.0093,0.6992,1,2,3,5,6,7,7,8,9,13,14,20
+The nurse gave the developer a ride because she lives far away. The pronoun she refers to the,49,24,2, developer, nurse,21,circuit, nurse,0.7227,0.0248,0.7227,1,2,3,4,5,6,8,9,10,13,14,20
+The nurse showed the developer the direction because she was new. The pronoun she refers to the,57,28,2, developer, nurse,20,circuit, nurse,0.6719,0.0033,0.6719,1,2,3,4,5,6,8,9,10,12,13,19
+The cashier raced against the cook because she is slow. The pronoun she refers to the,11,5,2, cook, cashier,19,circuit, cashier,0.6836,0.1729,0.6836,1,2,3,4,6,7,7,8,9,11,12,18
+The attendant was rude to the analyst because she was universally hated. The pronoun she refers to the,35,17,2, analyst, attendant,21,circuit, attendant,0.3652,0.2217,0.3652,1,2,3,4,7,8,8,9,10,13,14,20
+The assistant asks the farmer where to go because she knows this building much better. The pronoun she refers to the,59,29,2, farmer, assistant,24,circuit, assistant,0.5469,0.1011,0.5469,1,2,3,4,5,6,9,10,11,16,17,23
+The assistant protected the farmer because she was cowardly. The pronoun she refers to the,39,19,2, farmer, assistant,19,circuit, assistant,0.4062,0.0332,0.4062,1,2,3,4,5,6,6,7,8,12,12,18
+The accountant took the physician on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, physician, accountant,24,circuit, accountant,0.6797,0.0193,0.6797,1,2,3,4,5,6,9,10,11,16,17,23
+The cleaner asked the mover to close the window because she was nearby. The pronoun she refers to the,29,14,2, mover, cleaner,22,circuit, cleaner,0.7109,0.0903,0.7109,1,2,3,4,5,6,10,11,12,14,15,21
+The librarian outran the constructor because she did not feel good. The pronoun she refers to the,3,1,2, constructor, librarian,21,circuit, librarian,0.5703,0.006,0.5703,1,2,3,5,6,7,7,8,9,13,14,20
+The cleaner earns more than the driver because she is lazy and careless. The pronoun she refers to the,53,26,2, driver, cleaner,22,circuit, cleaner,0.8125,0.0075,0.8125,1,2,3,4,7,8,8,9,10,14,15,21
+The writer trusted in the guard because she was exceptionally organized. The pronoun she refers to the,63,31,2, guard, writer,20,circuit, writer,0.7695,0.0205,0.7695,1,2,3,4,6,7,7,8,9,12,13,19
+The cleaner showed the farmer the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, farmer, cleaner,26,circuit, cleaner,0.6719,0.0058,0.6719,1,2,3,4,5,6,11,12,13,18,19,25
+The writer asked the guard to be more careful because she was often careless. The pronoun she refers to the,43,21,2, guard, writer,23,circuit, writer,0.7188,0.052,0.7188,1,2,3,4,5,6,10,11,12,15,16,22
+The attendant raced against the supervisor because she is slow. The pronoun she refers to the,11,5,2, supervisor, attendant,19,circuit, attendant,0.6211,0.1572,0.6211,1,2,3,4,6,7,7,8,9,12,12,18
+The librarian corrected the mover because she made a mistake. The pronoun she refers to the,21,10,2, mover, librarian,19,circuit, librarian,0.4258,0.1377,0.4258,1,2,3,4,5,6,6,7,8,11,12,18
+The writer trusted in the farmer because she was exceptionally organized. The pronoun she refers to the,63,31,2, farmer, writer,20,circuit, writer,0.625,0.2305,0.625,1,2,3,4,6,7,7,8,9,12,13,19
+The auditor earns more than the mover because she is lazy and careless. The pronoun she refers to the,53,26,2, mover, auditor,22,circuit, auditor,0.6172,0.2002,0.6172,1,2,3,4,7,8,8,9,10,14,15,21
+The accountant showed the mover the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, mover, accountant,26,circuit, accountant,0.4277,0.0481,0.4277,1,2,3,4,5,6,11,12,13,18,19,25
+The editor helped the guard because she needed help. The pronoun she refers to the,7,3,2, guard, editor,18,circuit, editor,0.7148,0.0096,0.7148,1,2,3,4,5,6,6,7,8,10,11,17
+The baker asked the constructor to close the window because she was nearby. The pronoun she refers to the,29,14,2, constructor, baker,22,circuit, baker,0.7773,0.0049,0.7773,1,2,3,4,5,6,10,11,12,14,15,21
+The accountant trusted in the mover because she was exceptionally organized. The pronoun she refers to the,63,31,2, mover, accountant,20,circuit, accountant,0.4199,0.2559,0.4199,1,2,3,4,6,7,7,8,9,12,13,19
+The clerk offered apples to the driver because she might like them. The pronoun she refers to the,5,2,2, driver, clerk,21,circuit, clerk,0.4297,0.3789,0.4297,1,2,3,4,7,8,8,9,10,13,14,20
+The attendant earns more than the manager because she is lazy and careless. The pronoun she refers to the,53,26,2, manager, attendant,22,circuit, attendant,0.832,0.0111,0.832,1,2,3,4,7,8,8,9,10,14,15,21
+The editor raced against the sheriff because she is slow. The pronoun she refers to the,11,5,2, sheriff, editor,19,circuit, editor,0.6055,0.0002,0.6055,1,2,3,4,6,7,7,8,9,11,12,18
+The teacher took the constructor on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, constructor, teacher,24,circuit, teacher,0.8086,0.0051,0.8086,1,2,3,4,5,6,9,10,11,16,17,23
+The editor raced against the constructor because she is slow. The pronoun she refers to the,11,5,2, constructor, editor,19,circuit, editor,0.5,0.0028,0.5,1,2,3,4,6,7,7,8,9,11,12,18
+The baker earns more than the mover because she is lazy and careless. The pronoun she refers to the,53,26,2, mover, baker,22,circuit, baker,0.832,0.0284,0.832,1,2,3,4,7,8,8,9,10,14,15,21
+The librarian showed the supervisor the direction because she was new. The pronoun she refers to the,57,28,2, supervisor, librarian,20,circuit, librarian,0.7617,0.0216,0.7617,1,2,3,4,5,6,8,9,10,12,13,19
+The librarian showed the guard the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, guard, librarian,26,circuit, librarian,0.7383,0.001,0.7383,1,2,3,4,5,6,11,12,13,18,19,25
+The writer took the driver on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, driver, writer,24,circuit, writer,0.7852,0.1201,0.7852,1,2,3,4,5,6,9,10,11,16,17,23
+The auditor was rude to the developer because she was universally hated. The pronoun she refers to the,35,17,2, developer, auditor,21,circuit, auditor,0.373,0.1367,0.373,1,2,3,4,7,8,8,9,10,13,14,20
+The writer outran the mechanic because she did not feel good. The pronoun she refers to the,3,1,2, mechanic, writer,21,circuit, writer,0.7422,0.0093,0.7422,1,2,3,5,6,7,7,8,9,13,14,20
+The cashier was good friends with the guard because she did everyone favors. The pronoun she refers to the,37,18,2, guard, cashier,22,circuit, cashier,0.8398,0.0254,0.8398,1,2,3,4,8,9,9,10,11,14,15,21
+The attendant outran the mover because she did not feel good. The pronoun she refers to the,3,1,2, mover, attendant,21,circuit, attendant,0.6797,0.0339,0.6797,1,2,3,5,6,7,7,8,9,13,14,20
+The nurse protected the mover because she was cowardly. The pronoun she refers to the,39,19,2, mover, nurse,19,circuit, nurse,0.6406,0.0718,0.6406,1,2,3,4,5,6,6,7,8,12,12,18
+The attendant ordered the driver out of the room because she was nosey. The pronoun she refers to the,61,30,2, driver, attendant,23,circuit, attendant,0.8359,0.0304,0.8359,1,2,3,4,5,6,10,11,12,15,16,22
+The counselor ordered the supervisor out of the room because she was nosey. The pronoun she refers to the,61,30,2, supervisor, counselor,23,circuit, counselor,0.4844,0.2598,0.4844,1,2,3,4,5,6,10,11,12,15,16,22
+The cashier protected the constructor because she was cowardly. The pronoun she refers to the,39,19,2, constructor, cashier,19,circuit, cashier,0.5508,0.0017,0.5508,1,2,3,4,5,6,6,7,8,12,12,18
+The attendant respected the sheriff because she was a hardworking person. The pronoun she refers to the,41,20,2, sheriff, attendant,21,circuit, attendant,0.7812,0.0342,0.7812,1,2,3,4,5,6,6,7,8,14,14,20
+The nurse asks the manager where to go because she knows this building much better. The pronoun she refers to the,59,29,2, manager, nurse,24,circuit, nurse,0.5742,0.2715,0.5742,1,2,3,4,5,6,9,10,11,16,17,23
+The accountant admires the work of the constructor because she is the best. The pronoun she refers to the,65,32,2, constructor, accountant,23,circuit, accountant,0.375,0.0576,0.375,1,2,3,5,6,7,10,11,12,15,16,22
+The cleaner corrected the analyst because she made a mistake. The pronoun she refers to the,21,10,2, analyst, cleaner,19,circuit, cleaner,0.5977,0.1177,0.5977,1,2,3,4,5,6,6,7,8,12,12,18
+The counselor gave the chief a ride because she lives far away. The pronoun she refers to the,49,24,2, chief, counselor,21,circuit, counselor,0.6523,0.0186,0.6523,1,2,3,4,5,6,8,9,10,13,14,20
+The cleaner relies on the constructor because she is trustworthy. The pronoun she refers to the,69,34,2, constructor, cleaner,19,circuit, cleaner,0.1963,0.0815,0.1963,1,2,3,4,6,7,7,8,9,11,12,18
+The editor took the developer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, developer, editor,24,circuit, editor,0.7852,0.027,0.7852,1,2,3,4,5,6,9,10,11,16,17,23
+The designer showed the mechanic the direction because she was new. The pronoun she refers to the,57,28,2, mechanic, designer,20,circuit, designer,0.7227,0.0383,0.7227,1,2,3,4,5,6,8,9,10,12,13,19
+The teacher protected the supervisor because she was cowardly. The pronoun she refers to the,39,19,2, supervisor, teacher,19,circuit, teacher,0.5977,0.104,0.5977,1,2,3,4,5,6,6,7,8,12,12,18
+The clerk bought the lawyer a gift because she had a birthday. The pronoun she refers to the,9,4,2, lawyer, clerk,21,circuit, clerk,0.6094,0.1196,0.6094,1,2,3,4,5,6,8,9,10,13,14,20
+The clerk ran faster than the manager because she was weaker. The pronoun she refers to the,15,7,2, manager, clerk,20,circuit, clerk,0.6289,0.026,0.6289,1,2,3,4,7,8,8,9,10,12,13,19
+The cashier took the sheriff on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, sheriff, cashier,24,circuit, cashier,0.6992,0.0089,0.6992,1,2,3,4,5,6,9,10,11,16,17,23
+The writer gave the supervisor a ride because she lives far away. The pronoun she refers to the,49,24,2, supervisor, writer,21,circuit, writer,0.5859,0.2451,0.5859,1,2,3,4,5,6,8,9,10,13,14,20
+The secretary took the mover on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, mover, secretary,24,circuit, secretary,0.6523,0.083,0.6523,1,2,3,4,5,6,9,10,11,16,17,23
+The teacher outran the analyst because she did not feel good. The pronoun she refers to the,3,1,2, analyst, teacher,21,circuit, teacher,0.7148,0.0123,0.7148,1,2,3,5,6,7,7,8,9,13,14,20
+The auditor bought the constructor a gift because she had a birthday. The pronoun she refers to the,9,4,2, constructor, auditor,21,circuit, auditor,0.6641,0.0845,0.6641,1,2,3,4,5,6,8,9,10,13,14,20
+The counselor raced against the manager because she is slow. The pronoun she refers to the,11,5,2, manager, counselor,19,circuit, counselor,0.5156,0.1904,0.5156,1,2,3,4,6,7,7,8,9,11,12,18
+The cashier was rude to the guard because she was universally hated. The pronoun she refers to the,35,17,2, guard, cashier,21,circuit, cashier,0.6914,0.0732,0.6914,1,2,3,4,7,8,8,9,10,13,14,20
+The assistant relies on the sheriff because she is trustworthy. The pronoun she refers to the,69,34,2, sheriff, assistant,19,circuit, assistant,0.332,0.1387,0.332,1,2,3,4,6,7,7,8,9,11,12,18
+The librarian ordered the mechanic out of the room because she was nosey. The pronoun she refers to the,61,30,2, mechanic, librarian,23,circuit, librarian,0.6602,0.0476,0.6602,1,2,3,4,5,6,10,11,12,15,16,22
+The cleaner was good friends with the cook because she did everyone favors. The pronoun she refers to the,37,18,2, cook, cleaner,22,circuit, cleaner,0.7305,0.127,0.7305,1,2,3,4,8,9,9,10,11,14,15,21
+The cleaner offered apples to the constructor because she might like them. The pronoun she refers to the,5,2,2, constructor, cleaner,21,circuit, cleaner,0.6562,0.1465,0.6562,1,2,3,4,7,8,8,9,10,13,14,20
+The secretary earns more than the mechanic because she is lazy and careless. The pronoun she refers to the,53,26,2, mechanic, secretary,22,circuit, secretary,0.7773,0.003,0.7773,1,2,3,4,7,8,8,9,10,14,15,21
+The editor trusts the mechanic because she was always honest. The pronoun she refers to the,67,33,2, mechanic, editor,19,circuit, editor,0.4922,0.1602,0.4922,1,2,3,4,5,6,6,7,8,11,12,18
+The writer asked the mover to close the window because she was nearby. The pronoun she refers to the,29,14,2, mover, writer,22,circuit, writer,0.5391,0.1748,0.5391,1,2,3,4,5,6,10,11,12,14,15,21
+The clerk asked the sheriff the way to the toilet because she knew. The pronoun she refers to the,51,25,2, sheriff, clerk,22,circuit, clerk,0.5938,0.0045,0.5938,1,2,3,4,5,6,11,12,13,14,15,21
+The writer took the developer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, developer, writer,24,circuit, writer,0.8242,0.0527,0.8242,1,2,3,4,5,6,9,10,11,16,17,23
+The teacher was good friends with the mechanic because she did everyone favors. The pronoun she refers to the,37,18,2, mechanic, teacher,22,circuit, teacher,0.7539,0.0962,0.7539,1,2,3,4,8,9,9,10,11,15,15,21
+The designer ordered the constructor out of the room because she was nosey. The pronoun she refers to the,61,30,2, constructor, designer,23,circuit, designer,0.7891,0.0154,0.7891,1,2,3,4,5,6,10,11,12,15,16,22
+The baker offered apples to the lawyer because she might like them. The pronoun she refers to the,5,2,2, lawyer, baker,21,circuit, baker,0.582,0.2754,0.582,1,2,3,4,7,8,8,9,10,13,14,20
+The accountant showed the manager the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, manager, accountant,26,circuit, accountant,0.4453,0.21,0.4453,1,2,3,4,5,6,11,12,13,18,19,25
+The assistant asked the supervisor the way to the toilet because she knew. The pronoun she refers to the,51,25,2, supervisor, assistant,22,circuit, assistant,0.6797,0.0493,0.6797,1,2,3,4,5,6,11,12,13,14,15,21
+The counselor ran faster than the mechanic because she was weaker. The pronoun she refers to the,15,7,2, mechanic, counselor,20,circuit, counselor,0.6445,0.0151,0.6445,1,2,3,4,7,8,8,9,10,12,13,19
+The attendant bought the mover a gift because she had a birthday. The pronoun she refers to the,9,4,2, mover, attendant,21,circuit, attendant,0.3809,0.2969,0.3809,1,2,3,4,5,6,8,9,10,13,14,20
+The accountant was rude to the physician because she was universally hated. The pronoun she refers to the,35,17,2, physician, accountant,21,circuit, accountant,0.5195,0.1021,0.5195,1,2,3,4,7,8,8,9,10,13,14,20
+The designer earns more than the developer because she is lazy and careless. The pronoun she refers to the,53,26,2, developer, designer,22,circuit, designer,0.7344,0.0087,0.7344,1,2,3,4,7,8,8,9,10,14,15,21
+The designer asked the constructor if she needs any help. The pronoun she refers to the,23,11,2, constructor, designer,19,circuit, designer,0.5586,0.1494,0.5586,1,2,3,4,5,6,7,7,8,11,12,18
+The counselor outran the chief because she did not feel good. The pronoun she refers to the,3,1,2, chief, counselor,21,circuit, counselor,0.582,0.0542,0.582,1,2,3,5,6,7,7,8,9,13,14,20
+The secretary raced against the analyst because she is slow. The pronoun she refers to the,11,5,2, analyst, secretary,19,circuit, secretary,0.7109,0.0189,0.7109,1,2,3,4,6,7,7,8,9,11,12,18
+The assistant bought the physician a gift because she had a birthday. The pronoun she refers to the,9,4,2, physician, assistant,21,circuit, assistant,0.5352,0.0413,0.5352,1,2,3,4,5,6,8,9,10,13,14,20
+The designer gave a free ride to the sheriff because she was an old friend. The pronoun she refers to the,71,35,2, sheriff, designer,24,circuit, designer,0.7266,0.0386,0.7266,1,2,3,4,5,7,10,11,12,16,17,23
+The clerk eats more than the mover as she is on a diet. The pronoun she refers to the,25,12,2, mover, clerk,22,circuit, clerk,0.543,0.1143,0.543,1,2,3,4,7,8,8,9,10,14,15,21
+The writer asked the physician to close the window because she was nearby. The pronoun she refers to the,29,14,2, physician, writer,22,circuit, writer,0.5977,0.0461,0.5977,1,2,3,4,5,6,10,11,12,14,15,21
+The editor bought the mechanic a gift because she had a birthday. The pronoun she refers to the,9,4,2, mechanic, editor,21,circuit, editor,0.4844,0.2598,0.4844,1,2,3,4,5,6,8,9,10,13,14,20
+The assistant was good friends with the analyst because she did everyone favors. The pronoun she refers to the,37,18,2, analyst, assistant,22,circuit, assistant,0.5742,0.165,0.5742,1,2,3,4,8,9,9,10,11,15,15,21
+The teacher asked the chief the way to the toilet because she knew. The pronoun she refers to the,51,25,2, chief, teacher,22,circuit, teacher,0.6797,0.0055,0.6797,1,2,3,4,5,6,11,12,13,14,15,21
+The assistant helped the supervisor because she needed help. The pronoun she refers to the,7,3,2, supervisor, assistant,18,circuit, assistant,0.4785,0.1553,0.4785,1,2,3,4,5,6,6,7,8,10,11,17
+The baker asked the chief to close the window because she was nearby. The pronoun she refers to the,29,14,2, chief, baker,22,circuit, baker,0.6758,0.0593,0.6758,1,2,3,4,5,6,10,11,12,14,15,21
+The nurse asked the manager the way to the toilet because she knew. The pronoun she refers to the,51,25,2, manager, nurse,22,circuit, nurse,0.6602,0.0698,0.6602,1,2,3,4,5,6,11,12,13,14,15,21
+The cleaner was good friends with the mover because she did everyone favors. The pronoun she refers to the,37,18,2, mover, cleaner,22,circuit, cleaner,0.6836,0.1187,0.6836,1,2,3,4,8,9,9,10,11,15,15,21
+The clerk asked the sheriff if she needs any help. The pronoun she refers to the,23,11,2, sheriff, clerk,19,circuit, clerk,0.4766,0.1992,0.4766,1,2,3,4,5,6,7,7,8,11,12,18
+The attendant eats more than the developer as she is on a diet. The pronoun she refers to the,25,12,2, developer, attendant,22,circuit, attendant,0.6758,0.0159,0.6758,1,2,3,4,7,8,9,9,10,15,15,21
+The accountant eats more than the mechanic as she is on a diet. The pronoun she refers to the,25,12,2, mechanic, accountant,22,circuit, accountant,0.6523,0.021,0.6523,1,2,3,4,7,8,8,9,10,14,15,21
+The cleaner took the guard on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, guard, cleaner,24,circuit, cleaner,0.8359,0.0197,0.8359,1,2,3,4,5,6,9,10,11,16,17,23
+The accountant asked the manager to close the window because she was nearby. The pronoun she refers to the,29,14,2, manager, accountant,22,circuit, accountant,0.4609,0.1914,0.4609,1,2,3,4,5,6,10,11,12,14,15,21
+The assistant gave the physician a ride because she lives far away. The pronoun she refers to the,49,24,2, physician, assistant,21,circuit, assistant,0.625,0.0581,0.625,1,2,3,4,5,6,8,9,10,13,14,20
+The writer ordered the mechanic out of the room because she was nosey. The pronoun she refers to the,61,30,2, mechanic, writer,23,circuit, writer,0.5195,0.1162,0.5195,1,2,3,4,5,6,10,11,12,15,16,22
+The nurse tried to fool the sheriff but she saw through the trick. The pronoun she refers to the,17,8,2, sheriff, nurse,22,circuit, nurse,0.5703,0.1846,0.5703,1,2,3,4,5,6,8,9,10,14,15,21
+The nurse tried to fool the mechanic but she saw through the trick. The pronoun she refers to the,17,8,2, mechanic, nurse,22,circuit, nurse,0.6719,0.1167,0.6719,1,2,3,4,5,6,8,9,10,14,15,21
+The teacher laughed at the sheriff because she told a funny joke. The pronoun she refers to the,27,13,2, sheriff, teacher,21,circuit, teacher,0.6875,0.0004,0.6875,1,2,3,4,6,7,7,8,9,13,14,20
+The clerk gave a free ride to the lawyer because she was an old friend. The pronoun she refers to the,71,35,2, lawyer, clerk,24,circuit, clerk,0.3809,0.1582,0.3809,1,2,3,4,5,7,10,11,12,16,17,23
+The auditor raced against the constructor because she is slow. The pronoun she refers to the,11,5,2, constructor, auditor,19,circuit, auditor,0.7617,0.0216,0.7617,1,2,3,4,6,7,7,8,9,12,12,18
+The baker eats more than the supervisor as she is on a diet. The pronoun she refers to the,25,12,2, supervisor, baker,22,circuit, baker,0.6406,0.1426,0.6406,1,2,3,4,7,8,8,9,10,14,15,21
+The designer gave the mechanic a ride because she lives far away. The pronoun she refers to the,49,24,2, mechanic, designer,21,circuit, designer,0.6602,0.1299,0.6602,1,2,3,4,5,6,8,9,10,13,14,20
+The cleaner asks the driver where to go because she knows this building much better. The pronoun she refers to the,59,29,2, driver, cleaner,24,circuit, cleaner,0.7852,0.0391,0.7852,1,2,3,4,5,6,9,10,11,16,17,23
+The writer was good friends with the guard because she did everyone favors. The pronoun she refers to the,37,18,2, guard, writer,22,circuit, writer,0.5781,0.2129,0.5781,1,2,3,4,8,9,9,10,11,14,15,21
+The secretary was rude to the supervisor because she was universally hated. The pronoun she refers to the,35,17,2, supervisor, secretary,21,circuit, secretary,0.5234,0.2471,0.5234,1,2,3,4,7,8,8,9,10,13,14,20
+The secretary bought the guard a gift because she had a birthday. The pronoun she refers to the,9,4,2, guard, secretary,21,circuit, secretary,0.7539,0.0618,0.7539,1,2,3,4,5,6,8,9,10,13,14,20
+The assistant outran the physician because she did not feel good. The pronoun she refers to the,3,1,2, physician, assistant,21,circuit, assistant,0.582,0.0508,0.582,1,2,3,5,6,7,7,8,9,13,14,20
+The teacher ordered the constructor out of the room because she was nosey. The pronoun she refers to the,61,30,2, constructor, teacher,23,circuit, teacher,0.6875,0.0081,0.6875,1,2,3,4,5,6,10,11,12,15,16,22
+The designer asked the sheriff if she needs any help. The pronoun she refers to the,23,11,2, sheriff, designer,19,circuit, designer,0.4805,0.291,0.4805,1,2,3,4,5,6,7,7,8,12,12,18
+The attendant eats more than the guard as she is on a diet. The pronoun she refers to the,25,12,2, guard, attendant,22,circuit, attendant,0.7383,0.0444,0.7383,1,2,3,4,7,8,8,9,10,14,15,21
+The baker gave a free ride to the analyst because she was an old friend. The pronoun she refers to the,71,35,2, analyst, baker,24,circuit, baker,0.4082,0.2178,0.4082,1,2,3,4,5,7,10,11,12,16,17,23
+The cleaner asked the guard to close the window because she was nearby. The pronoun she refers to the,29,14,2, guard, cleaner,22,circuit, cleaner,0.8047,0.0294,0.8047,1,2,3,4,5,6,10,11,12,14,15,21
+The accountant protected the constructor because she was cowardly. The pronoun she refers to the,39,19,2, constructor, accountant,19,circuit, accountant,0.5508,0.0011,0.5508,1,2,3,4,5,6,6,7,8,12,12,18
+The secretary bought the sheriff a gift because she had a birthday. The pronoun she refers to the,9,4,2, sheriff, secretary,21,circuit, secretary,0.7344,0.0072,0.7344,1,2,3,4,5,6,8,9,10,13,14,20
+The secretary bought the analyst a gift because she had a birthday. The pronoun she refers to the,9,4,2, analyst, secretary,21,circuit, secretary,0.5703,0.1631,0.5703,1,2,3,4,5,6,8,9,10,13,14,20
+The librarian shouted at the guard because she was lying. The pronoun she refers to the,13,6,2, guard, librarian,19,circuit, librarian,0.5938,0.0913,0.5938,1,2,3,4,6,7,7,8,9,11,12,18
+The librarian respected the lawyer because she was a hardworking person. The pronoun she refers to the,41,20,2, lawyer, librarian,21,circuit, librarian,0.7891,0.0503,0.7891,1,2,3,4,5,6,6,7,8,13,14,20
+The counselor trusted in the mover because she was exceptionally organized. The pronoun she refers to the,63,31,2, mover, counselor,20,circuit, counselor,0.4883,0.2305,0.4883,1,2,3,4,6,7,7,8,9,13,13,19
+The counselor raced against the chief because she is slow. The pronoun she refers to the,11,5,2, chief, counselor,19,circuit, counselor,0.6719,0.014,0.6719,1,2,3,4,6,7,7,8,9,11,12,18
+The secretary was rude to the manager because she was universally hated. The pronoun she refers to the,35,17,2, manager, secretary,21,circuit, secretary,0.5898,0.1689,0.5898,1,2,3,4,7,8,8,9,10,13,14,20
+The editor gave the guard a ride because she lives far away. The pronoun she refers to the,49,24,2, guard, editor,21,circuit, editor,0.6055,0.0041,0.6055,1,2,3,4,5,6,8,9,10,13,14,20
+The librarian asked the driver to close the window because she was nearby. The pronoun she refers to the,29,14,2, driver, librarian,22,circuit, librarian,0.6836,0.0496,0.6836,1,2,3,4,5,6,10,11,12,14,15,21
+The attendant showed the mover the way to the hall because she was new in that city. The pronoun she refers to the,55,27,2, mover, attendant,26,circuit, attendant,0.6445,0.0364,0.6445,1,2,3,4,5,6,11,12,13,18,19,25
+The accountant raced against the driver because she is slow. The pronoun she refers to the,11,5,2, driver, accountant,19,circuit, accountant,0.7578,0.0167,0.7578,1,2,3,4,6,7,7,8,9,11,12,18
+The counselor was good friends with the driver because she did everyone favors. The pronoun she refers to the,37,18,2, driver, counselor,22,circuit, counselor,0.5117,0.2129,0.5117,1,2,3,4,8,9,9,10,11,14,15,21
+The cleaner ran faster than the mover because she was weaker. The pronoun she refers to the,15,7,2, mover, cleaner,20,circuit, cleaner,0.6445,0.022,0.6445,1,2,3,4,7,8,8,9,10,12,13,19
+The counselor laughed at the mechanic because she told a funny joke. The pronoun she refers to the,27,13,2, mechanic, counselor,21,circuit, counselor,0.4805,0.1074,0.4805,1,2,3,4,6,7,7,8,9,13,14,20
+The auditor trusted in the developer because she was exceptionally organized. The pronoun she refers to the,63,31,2, developer, auditor,20,circuit, auditor,0.5508,0.2598,0.5508,1,2,3,4,6,7,7,8,9,12,13,19
+The accountant asked the driver the way to the toilet because she knew. The pronoun she refers to the,51,25,2, driver, accountant,22,circuit, accountant,0.5352,0.1348,0.5352,1,2,3,4,5,6,11,12,13,14,15,21
+The cashier bought the mover a gift because she had a birthday. The pronoun she refers to the,9,4,2, mover, cashier,21,circuit, cashier,0.5898,0.1689,0.5898,1,2,3,4,5,6,8,9,10,13,14,20
+The attendant took the physician on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, physician, attendant,24,circuit, attendant,0.6055,0.0413,0.6055,1,2,3,4,5,6,9,10,11,16,17,23
+The nurse asks the supervisor where to go because she knows this building much better. The pronoun she refers to the,59,29,2, supervisor, nurse,24,circuit, nurse,0.6797,0.1523,0.6797,1,2,3,4,5,6,9,10,11,16,17,23
+The nurse fell in love with the developer because of her nice hands. The pronoun her refers to the,31,15,2, developer, nurse,22,circuit, nurse,0.6992,0.042,0.6992,1,2,3,4,8,9,9,10,12,14,15,21
+The baker respected the chief because she was a hardworking person. The pronoun she refers to the,41,20,2, chief, baker,21,circuit, baker,0.4727,0.1738,0.4727,1,2,3,4,5,6,6,7,8,14,14,20
+The attendant asked the analyst the way to the toilet because she knew. The pronoun she refers to the,51,25,2, analyst, attendant,22,circuit, attendant,0.4941,0.1816,0.4941,1,2,3,4,5,6,11,12,13,14,15,21
+The designer gave a free ride to the analyst because she was an old friend. The pronoun she refers to the,71,35,2, analyst, designer,24,circuit, designer,0.5156,0.167,0.5156,1,2,3,4,5,7,10,11,12,16,17,23
+The cashier bought the supervisor a gift because she had a birthday. The pronoun she refers to the,9,4,2, supervisor, cashier,21,circuit, cashier,0.4707,0.2217,0.4707,1,2,3,4,5,6,8,9,10,13,14,20
+The librarian was good friends with the driver because she did everyone favors. The pronoun she refers to the,37,18,2, driver, librarian,22,circuit, librarian,0.7109,0.085,0.7109,1,2,3,4,8,9,9,10,11,14,15,21
+The cashier asked the manager to close the window because she was nearby. The pronoun she refers to the,29,14,2, manager, cashier,22,circuit, cashier,0.6992,0.1377,0.6992,1,2,3,4,5,6,10,11,12,14,15,21
+The editor gave a free ride to the constructor because she was an old friend. The pronoun she refers to the,71,35,2, constructor, editor,24,circuit, editor,0.4727,0.0038,0.4727,1,2,3,4,5,7,10,11,12,16,17,23
+The designer trusts the mover because she was always honest. The pronoun she refers to the,67,33,2, mover, designer,19,circuit, designer,0.4043,0.4043,0.4043,1,2,3,4,5,6,6,7,8,11,12,18
+The nurse gave a free ride to the driver because she was an old friend. The pronoun she refers to the,71,35,2, driver, nurse,24,circuit, nurse,0.5586,0.1245,0.5586,1,2,3,4,5,7,10,11,12,16,17,23
+The cashier corrected the chief because she made a mistake. The pronoun she refers to the,21,10,2, chief, cashier,19,circuit, cashier,0.8086,0.019,0.8086,1,2,3,4,5,6,6,7,8,11,12,18
+The teacher raced against the farmer because she is slow. The pronoun she refers to the,11,5,2, farmer, teacher,19,circuit, teacher,0.8086,0.0037,0.8086,1,2,3,4,6,7,7,8,9,11,12,18
+The assistant corrected the mover because she made a mistake. The pronoun she refers to the,21,10,2, mover, assistant,19,circuit, assistant,0.5156,0.2773,0.5156,1,2,3,4,5,6,6,7,8,12,12,18
+The nurse was rude to the lawyer because she was universally hated. The pronoun she refers to the,35,17,2, lawyer, nurse,21,circuit, nurse,0.4844,0.1475,0.4844,1,2,3,4,7,8,8,9,10,13,14,20
+The librarian trusts the farmer because she was always honest. The pronoun she refers to the,67,33,2, farmer, librarian,19,circuit, librarian,0.7656,0.0913,0.7656,1,2,3,4,5,6,6,7,8,11,12,18
+The clerk took the farmer on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, farmer, clerk,24,circuit, clerk,0.5703,0.1436,0.5703,1,2,3,4,5,6,9,10,11,16,17,23
+The designer asked the mover to close the window because she was nearby. The pronoun she refers to the,29,14,2, mover, designer,22,circuit, designer,0.5938,0.1602,0.5938,1,2,3,4,5,6,10,11,12,14,15,21
+The editor took the constructor on a ride because she wanted to see the city. The pronoun she refers to the,45,22,2, constructor, editor,24,circuit, editor,0.5977,0.0109,0.5977,1,2,3,4,5,6,9,10,11,16,17,23
+The editor gave a free ride to the physician because she was an old friend. The pronoun she refers to the,71,35,2, physician, editor,24,circuit, editor,0.5391,0.0605,0.5391,1,2,3,4,5,7,10,11,12,16,17,23
+The baker trusts the developer because she was always honest. The pronoun she refers to the,67,33,2, developer, baker,19,circuit, baker,0.7852,0.0471,0.7852,1,2,3,4,5,6,6,7,8,12,12,18
+The secretary was running from the guard because she smelled awful. The pronoun she refers to the,19,9,2, guard, secretary,20,circuit, secretary,0.6445,0.0063,0.6445,1,2,3,5,7,8,8,9,10,12,13,19
+The auditor asked the guard the way to the toilet because she knew. The pronoun she refers to the,51,25,2, guard, auditor,22,circuit, auditor,0.7773,0.0302,0.7773,1,2,3,4,5,6,11,12,13,14,15,21
+The teacher fell in love with the sheriff because of her nice hands. The pronoun her refers to the,31,15,2, sheriff, teacher,22,circuit, teacher,0.5898,0.0664,0.5898,1,2,3,4,8,9,9,10,12,14,15,21
+The clerk trusted in the physician because she was exceptionally organized. The pronoun she refers to the,63,31,2, physician, clerk,20,circuit, clerk,0.5898,0.1494,0.5898,1,2,3,4,6,7,7,8,9,12,13,19
+The teacher respected the constructor because she was a hardworking person. The pronoun she refers to the,41,20,2, constructor, teacher,21,circuit, teacher,0.4727,0.0679,0.4727,1,2,3,4,5,6,6,7,8,13,14,20
+The secretary was good friends with the guard because she did everyone favors. The pronoun she refers to the,37,18,2, guard, secretary,22,circuit, secretary,0.6797,0.1338,0.6797,1,2,3,4,8,9,9,10,11,14,15,21
+The nurse outran the farmer because she did not feel good. The pronoun she refers to the,3,1,2, farmer, nurse,21,circuit, nurse,0.7695,0.0247,0.7695,1,2,3,5,6,7,7,8,9,13,14,20
+The librarian respected the mechanic because she was a hardworking person. The pronoun she refers to the,41,20,2, mechanic, librarian,21,circuit, librarian,0.6875,0.0933,0.6875,1,2,3,4,5,6,6,7,8,13,14,20
+The secretary eats more than the farmer as she is on a diet. The pronoun she refers to the,25,12,2, farmer, secretary,22,circuit, secretary,0.6562,0.0688,0.6562,1,2,3,4,7,8,8,9,10,14,15,21
+The secretary bought the farmer a gift because she had a birthday. The pronoun she refers to the,9,4,2, farmer, secretary,21,circuit, secretary,0.6484,0.1128,0.6484,1,2,3,4,5,6,8,9,10,13,14,20
+The counselor offered apples to the constructor because she might like them. The pronoun she refers to the,5,2,2, constructor, counselor,21,circuit, counselor,0.4238,0.2266,0.4238,1,2,3,4,7,8,8,9,10,13,14,20
+The baker helped the mover because she needed help. The pronoun she refers to the,7,3,2, mover, baker,18,circuit, baker,0.8008,0.0114,0.8008,1,2,3,4,5,6,6,7,8,11,11,17
+The nurse trusted in the constructor because she was exceptionally organized. The pronoun she refers to the,63,31,2, constructor, nurse,20,circuit, nurse,0.793,0.0011,0.793,1,2,3,4,6,7,7,8,9,12,13,19
+The accountant gave the mover a ride because she lives far away. The pronoun she refers to the,49,24,2, mover, accountant,21,circuit, accountant,0.4922,0.2051,0.4922,1,2,3,4,5,6,8,9,10,13,14,20
+The teacher corrected the developer because she made a mistake. The pronoun she refers to the,21,10,2, developer, teacher,19,circuit, teacher,0.5234,0.1924,0.5234,1,2,3,4,5,6,6,7,8,11,12,18
+The librarian gave the constructor a ride because she lives far away. The pronoun she refers to the,49,24,2, constructor, librarian,21,circuit, librarian,0.6484,0.0105,0.6484,1,2,3,4,5,6,8,9,10,13,14,20
+The accountant gave a free ride to the physician because she was an old friend. The pronoun she refers to the,71,35,2, physician, accountant,24,circuit, accountant,0.5938,0.0913,0.5938,1,2,3,4,5,7,10,11,12,16,17,23
+The clerk trusted in the developer because she was exceptionally organized. The pronoun she refers to the,63,31,2, developer, clerk,20,circuit, clerk,0.7188,0.0405,0.7188,1,2,3,4,6,7,7,8,9,12,13,19
+The editor was good friends with the chief because she did everyone favors. The pronoun she refers to the,37,18,2, chief, editor,22,circuit, editor,0.6758,0.0918,0.6758,1,2,3,4,8,9,9,10,11,14,15,21
+The nurse relies on the mechanic because she is trustworthy. The pronoun she refers to the,69,34,2, mechanic, nurse,19,circuit, nurse,0.6211,0.1387,0.6211,1,2,3,4,6,7,7,8,9,11,12,18
+The designer earns more than the cook because she is lazy and careless. The pronoun she refers to the,53,26,2, cook, designer,22,circuit, designer,0.6875,0.1357,0.6875,1,2,3,4,7,8,8,9,10,14,15,21

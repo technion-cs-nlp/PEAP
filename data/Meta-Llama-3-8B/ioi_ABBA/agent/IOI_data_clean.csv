@@ -1,0 +1,500 @@
+prompt,prompt_id,length,wrong_token,correct_token,S1_token,S2_token,IO_token,label,split,top_answer,top_answer_prob,correct_prob,wrong_prob,Initial_Context,Subject_1,Conjunction,Subject_2,Primary_Action,Action_Context,Narrative_Break,Active_Subject,Secondary_Action,Transfer_Object,Final_Token
+"Then, Brandon and Jennifer went to the station. Jennifer gave a kiss to",57,16, Jennifer, Brandon, Jennifer, Jennifer, Brandon, Brandon,circuit, Brandon,0.2812,0.2812,0.0014,1,3,4,5,6,8,10,11,12,13,15
+"Then, Eric and Brandon had a long argument. Afterwards Brandon said to",771,15, Brandon, Eric, Brandon, Brandon, Eric, Eric,circuit, Eric,0.7422,0.7422,0.0006,1,3,4,5,6,10,10,12,13,14,14
+"While Jennifer and Matthew were commuting to the office, Matthew gave a drink to",622,16, Matthew, Jennifer, Matthew, Matthew, Jennifer, Jennifer,circuit, Jennifer,0.3027,0.3027,0.0003,1,2,3,4,5,7,10,11,12,13,15
+"After the lunch, Brandon and James went to the school. James gave a ring to",664,18, James, Brandon, James, James, Brandon, Brandon,circuit, Brandon,0.3652,0.3652,0.002,1,5,6,7,8,10,12,13,14,15,17
+"After Kyle and Joseph went to the store, Joseph gave a snack to",327,15, Joseph, Kyle, Joseph, Joseph, Kyle, Kyle,circuit, Kyle,0.4316,0.4316,0.0008,1,2,3,4,5,7,9,10,11,12,14
+"Then, David and Christopher had a lot of fun at the house. Christopher gave a basketball to",115,20, Christopher, David, Christopher, Christopher, David, David,circuit, David,0.4219,0.4219,0.0012,1,3,4,5,6,11,14,15,16,17,19
+"While Jonathan and Jennifer were working at the restaurant, Jennifer gave a kiss to",529,16, Jennifer, Jonathan, Jennifer, Jennifer, Jonathan, Jonathan,circuit, Jonathan,0.1943,0.1943,0.0011,1,2,3,4,5,8,10,11,12,13,15
+Friends Elizabeth and Eric found a drink at the station. Eric gave it to,958,16, Eric, Elizabeth, Eric, Eric, Elizabeth, Elizabeth,circuit, Elizabeth,0.4551,0.4551,0.0004,1,2,3,4,5,6,11,12,13,14,15
+The garden Kevin and Joseph went to had a necklace. Joseph gave it to,845,16, Joseph, Kevin, Joseph, Joseph, Kevin, Kevin,circuit, Kevin,0.3086,0.3086,0.0027,1,3,4,5,6,9,11,12,13,14,15
+"Then, Andrew and Michael went to the store. Michael gave a snack to",7,16, Michael, Andrew, Michael, Michael, Andrew, Andrew,circuit, Andrew,0.3535,0.3535,0.0009,1,3,4,5,6,8,10,11,12,13,15
+"After David and Jessica went to the restaurant, Jessica gave a computer to",340,15, Jessica, David, Jessica, Jessica, David, David,circuit, David,0.4688,0.4688,0.0028,1,2,3,4,5,7,9,10,11,12,14
+"Then, Matthew and Jessica went to the house. Jessica gave a computer to",52,16, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.2734,0.2734,0.0034,1,3,4,5,6,8,10,11,12,13,15
+The restaurant Andrew and Michael went to had a bone. Michael gave it to,850,16, Michael, Andrew, Michael, Michael, Andrew, Andrew,circuit, Andrew,0.3379,0.3379,0.0018,1,3,4,5,6,9,11,12,13,14,15
+"Then, Justin and Matthew had a long argument, and afterwards Matthew said to",305,16, Matthew, Justin, Matthew, Matthew, Justin, Justin,circuit, Justin,0.6836,0.6836,0.0006,1,3,4,5,6,10,10,13,14,15,15
+"Then, Jennifer and Jessica had a long argument, and afterwards Jessica said to",316,16, Jessica, Jennifer, Jessica, Jessica, Jennifer, Jennifer,circuit, Jennifer,0.7539,0.7539,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"Then, Eric and Matthew were working at the station. Matthew decided to give a basketball to",187,19, Matthew, Eric, Matthew, Matthew, Eric, Eric,circuit, Eric,0.4746,0.4746,0.0016,1,3,4,5,6,9,11,12,13,16,18
+"When Rachel and Steven got a ring at the house, Steven decided to give the ring to",496,19, Steven, Rachel, Steven, Steven, Rachel, Rachel,circuit, Rachel,0.6367,0.6367,0.0036,1,2,3,4,5,6,11,12,13,16,18
+"After the lunch, James and Matthew went to the restaurant. Matthew gave a kiss to",657,18, Matthew, James, Matthew, Matthew, James, James,circuit, James,0.4453,0.4453,0.0011,1,5,6,7,8,10,12,13,14,15,17
+"When Matthew and Jessica got a necklace at the school, Jessica decided to give it to",413,18, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.2295,0.2295,0.0024,1,2,3,4,5,6,11,12,13,16,17
+"After Joseph and James went to the station, James gave a basketball to",379,15, James, Joseph, James, James, Joseph, Joseph,circuit, Joseph,0.2207,0.2207,0.0071,1,2,3,4,5,7,9,10,11,12,14
+The hospital John and Michael went to had a ring. Michael gave it to,864,16, Michael, John, Michael, Michael, John, John,circuit, John,0.377,0.377,0.002,1,3,4,5,6,9,11,12,13,14,15
+"Then, Eric and Christopher were working at the hospital. Christopher decided to give a kiss to",161,19, Christopher, Eric, Christopher, Christopher, Eric, Eric,circuit, Eric,0.4434,0.4434,0.0005,1,3,4,5,6,9,11,12,13,16,18
+"Then, Adam and Jonathan had a long argument, and afterwards Jonathan said to",257,16, Jonathan, Adam, Jonathan, Jonathan, Adam, Adam,circuit, Adam,0.334,0.334,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"While Sarah and Brandon were commuting to the station, Brandon gave a drink to",638,16, Brandon, Sarah, Brandon, Brandon, Sarah, Sarah,circuit, Sarah,0.2695,0.2695,0.0019,1,2,3,4,5,7,10,11,12,13,15
+The garden William and Jessica went to had a necklace. Jessica gave it to,845,16, Jessica, William, Jessica, Jessica, William, William,circuit, William,0.4707,0.4707,0.0076,1,3,4,5,6,9,11,12,13,14,15
+"Then, Jason and Matthew had a long argument, and afterwards Matthew said to",293,16, Matthew, Jason, Matthew, Matthew, Jason, Jason,circuit, Jason,0.6406,0.6406,0.0004,1,3,4,5,6,10,10,13,14,15,15
+"Then, Joseph and Christopher were working at the store. Christopher decided to give a bone to",130,19, Christopher, Joseph, Christopher, Christopher, Joseph, Joseph,circuit, Joseph,0.2949,0.2949,0.0005,1,3,4,5,6,9,11,12,13,16,18
+"Then, Robert and Jessica had a lot of fun at the house. Jessica gave a snack to",119,20, Jessica, Robert, Jessica, Jessica, Robert, Robert,circuit, Robert,0.3828,0.3828,0.0042,1,3,4,5,6,11,14,15,16,17,19
+"Afterwards, John and Jessica went to the house. Jessica gave a computer to",756,17, Jessica, John, Jessica, Jessica, John, John,circuit, John,0.4336,0.4336,0.0038,1,4,5,6,7,9,11,12,13,14,16
+"After the lunch, Eric and Robert went to the garden. Robert gave a drink to",654,18, Robert, Eric, Robert, Robert, Eric, Eric,circuit, Eric,0.4375,0.4375,0.0006,1,5,6,7,8,10,12,13,14,15,17
+The store John and Matthew went to had a snack. Matthew gave it to,839,16, Matthew, John, Matthew, Matthew, John, John,circuit, John,0.4316,0.4316,0.0051,1,3,4,5,6,9,11,12,13,14,15
+"Then, Brandon and Michael were working at the restaurant. Michael decided to give a drink to",150,19, Michael, Brandon, Michael, Michael, Brandon, Brandon,circuit, Brandon,0.4023,0.4023,0.0033,1,3,4,5,6,9,11,12,13,16,18
+The office Sarah and James went to had a bone. James gave it to,874,16, James, Sarah, James, James, Sarah, Sarah,circuit, Sarah,0.2773,0.2773,0.0024,1,3,4,5,6,9,11,12,13,14,15
+"Then, Elizabeth and David had a lot of fun at the station. David gave a drink to",126,20, David, Elizabeth, David, David, Elizabeth, Elizabeth,circuit, Elizabeth,0.3145,0.3145,0.0008,1,3,4,5,6,11,14,15,16,17,19
+"While Richard and Elizabeth were commuting to the restaurant, Elizabeth gave a drink to",598,16, Elizabeth, Richard, Elizabeth, Elizabeth, Richard, Richard,circuit, Richard,0.2637,0.2637,0.0015,1,2,3,4,5,7,10,11,12,13,15
+"Then, James and Jennifer had a long argument, and afterwards Jennifer said to",287,16, Jennifer, James, Jennifer, Jennifer, James, James,circuit, James,0.6484,0.6484,0.0003,1,3,4,5,6,10,10,13,14,15,15
+Friends Brandon and Robert found a bone at the hospital. Robert gave it to,930,16, Robert, Brandon, Robert, Robert, Brandon, Brandon,circuit, Brandon,0.3281,0.3281,0.0032,1,2,3,4,5,6,11,12,13,14,15
+"After the lunch, Brandon and James went to the store. James gave a ring to",640,18, James, Brandon, James, James, Brandon, Brandon,circuit, Brandon,0.4961,0.4961,0.0018,1,5,6,7,8,10,12,13,14,15,17
+The house Brandon and Jessica went to had a basketball. Jessica gave it to,883,16, Jessica, Brandon, Jessica, Jessica, Brandon, Brandon,circuit, Brandon,0.4512,0.4512,0.0034,1,3,4,5,6,9,11,12,13,14,15
+The office Laura and Ryan went to had a drink. Ryan gave it to,878,16, Ryan, Laura, Ryan, Ryan, Laura, Laura,circuit, Laura,0.4727,0.4727,0.0046,1,3,4,5,6,11,11,12,13,14,15
+"After the lunch, Thomas and Jennifer went to the garden. Jennifer gave a bone to",650,18, Jennifer, Thomas, Jennifer, Jennifer, Thomas, Thomas,circuit, Thomas,0.5469,0.5469,0.0004,1,5,6,7,8,9,12,13,14,15,17
+"Then, Jennifer and Christopher had a lot of fun at the office. Christopher gave a basketball to",107,20, Christopher, Jennifer, Christopher, Christopher, Jennifer, Jennifer,circuit, Jennifer,0.5625,0.5625,0.0022,1,3,4,5,6,11,14,15,16,17,19
+"While Anthony and William were working at the house, William gave a ring to",560,16, William, Anthony, William, William, Anthony, Anthony,circuit, Anthony,0.3594,0.3594,0.0033,1,2,3,4,5,8,10,11,12,13,15
+"Then, Anthony and Robert went to the house. Robert gave a drink to",54,16, Robert, Anthony, Robert, Robert, Anthony, Anthony,circuit, Anthony,0.3574,0.3574,0.0027,1,3,4,5,6,8,10,11,12,13,15
+"While Ryan and Joseph were commuting to the house, Joseph gave a drink to",630,16, Joseph, Ryan, Joseph, Joseph, Ryan, Ryan,circuit, Ryan,0.4102,0.4102,0.0012,1,2,3,4,5,7,10,11,12,13,15
+"After Ryan and James went to the hospital, James gave a kiss to",353,15, James, Ryan, James, James, Ryan, Ryan,circuit, Ryan,0.3066,0.3066,0.0034,1,2,3,4,5,7,9,10,11,12,14
+"Then, Laura and Matthew were working at the office. Matthew decided to give a kiss to",169,19, Matthew, Laura, Matthew, Matthew, Laura, Laura,circuit, Laura,0.7852,0.7852,0.0014,1,3,4,5,6,9,11,12,13,16,18
+"When William and Matthew got a drink at the station, Matthew decided to give it to",446,18, Matthew, William, Matthew, Matthew, William, William,circuit, William,0.1963,0.1963,0.001,1,2,3,4,5,6,11,12,13,16,17
+"Then, Ryan and David had a lot of fun at the garden. David gave a necklace to",77,20, David, Ryan, David, David, Ryan, Ryan,circuit, Ryan,0.4531,0.4531,0.0015,1,3,4,5,6,11,14,15,16,17,19
+"When David and Matthew got a basketball at the school, Matthew decided to give it to",411,18, Matthew, David, Matthew, Matthew, David, David,circuit, David,0.3203,0.3203,0.0005,1,2,3,4,5,6,11,12,13,16,17
+"After Michelle and Jason went to the office, Jason gave a computer to",364,15, Jason, Michelle, Jason, Jason, Michelle, Michelle,circuit, Michelle,0.416,0.416,0.0172,1,2,3,4,5,7,9,10,11,12,14
+"Then, Jonathan and Robert had a lot of fun at the garden. Robert gave a kiss to",73,20, Robert, Jonathan, Robert, Robert, Jonathan, Jonathan,circuit, Jonathan,0.3086,0.3086,0.0016,1,3,4,5,6,11,14,15,16,17,19
+"After Laura and Michael went to the house, Michael gave a kiss to",369,15, Michael, Laura, Michael, Michael, Laura, Laura,circuit, Laura,0.5391,0.5391,0.0018,1,2,3,4,5,7,9,10,11,12,14
+"Then, Elizabeth and Sarah had a long argument, and afterwards Sarah said to",294,16, Sarah, Elizabeth, Sarah, Sarah, Elizabeth, Elizabeth,circuit, Elizabeth,0.6406,0.6406,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"Then, Matthew and Jessica had a long argument. Afterwards Jessica said to",823,15, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.7734,0.7734,0.0003,1,3,4,5,6,10,10,11,13,14,14
+"Then, Jennifer and Michael had a long argument. Afterwards Michael said to",798,15, Michael, Jennifer, Michael, Michael, Jennifer, Jennifer,circuit, Jennifer,0.7461,0.7461,0.0017,1,3,4,5,6,10,10,12,13,14,14
+"While Kevin and Adam were commuting to the office, Adam gave a snack to",623,16, Adam, Kevin, Adam, Adam, Kevin, Kevin,circuit, Kevin,0.4746,0.4746,0.0005,1,2,3,4,5,7,10,11,12,13,15
+"When Mark and Daniel got a kiss at the hospital, Daniel decided to give it to",417,18, Daniel, Mark, Daniel, Daniel, Mark, Mark,circuit, Mark,0.5078,0.5078,0.0018,1,2,3,4,5,6,11,12,13,16,17
+"When Brian and Justin got a drink at the office, Justin decided to give it to",430,18, Justin, Brian, Justin, Justin, Brian, Brian,circuit, Brian,0.4355,0.4355,0.0062,1,2,3,4,5,8,11,12,13,16,17
+"While John and Daniel were working at the restaurant, Daniel gave a bone to",530,16, Daniel, John, Daniel, Daniel, John, John,circuit, John,0.3965,0.3965,0.0002,1,2,3,4,5,8,10,11,12,13,15
+"While Jessica and Christopher were working at the garden, Christopher gave a bone to",522,16, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.5586,0.5586,0.0001,1,2,3,4,5,8,10,11,12,13,15
+Friends Michelle and Jessica found a necklace at the hospital. Jessica gave it to,933,16, Jessica, Michelle, Jessica, Jessica, Michelle, Michelle,circuit, Michelle,0.4238,0.4238,0.0005,1,2,3,4,5,6,11,12,13,14,15
+"Afterwards, Justin and Andrew went to the house. Andrew gave a basketball to",755,17, Andrew, Justin, Andrew, Andrew, Justin, Justin,circuit, Justin,0.377,0.377,0.0045,1,4,5,6,7,9,11,12,13,14,16
+"Then, Sarah and Daniel went to the store. Daniel gave a necklace to",5,16, Daniel, Sarah, Daniel, Daniel, Sarah, Sarah,circuit, Sarah,0.668,0.668,0.0102,1,3,4,5,6,8,10,11,12,13,15
+"While Richard and Michael were working at the restaurant, Michael gave a computer to",532,16, Michael, Richard, Michael, Michael, Richard, Richard,circuit, Richard,0.416,0.416,0.001,1,2,3,4,5,8,10,11,12,13,15
+The hospital James and Matthew went to had a kiss. Matthew gave it to,865,16, Matthew, James, Matthew, Matthew, James, James,circuit, James,0.6133,0.6133,0.0004,1,3,4,5,6,9,11,12,13,14,15
+"After the lunch, Daniel and Michael went to the school. Michael gave a kiss to",665,18, Michael, Daniel, Michael, Michael, Daniel, Daniel,circuit, Daniel,0.4551,0.4551,0.0029,1,5,6,7,8,10,12,13,14,15,17
+"Afterwards, Rachel and Michael went to the house. Michael gave a kiss to",753,17, Michael, Rachel, Michael, Michael, Rachel, Rachel,circuit, Rachel,0.5703,0.5703,0.0034,1,4,5,6,7,8,11,12,13,14,16
+"Then, Elizabeth and Robert were thinking about going to the restaurant. Robert wanted to give a ring to",208,21, Robert, Elizabeth, Robert, Robert, Elizabeth, Elizabeth,circuit, Elizabeth,0.2812,0.2812,0.0062,1,3,4,5,6,10,13,14,15,18,20
+"Then, David and Michael had a lot of fun at the office. Michael gave a snack to",111,20, Michael, David, Michael, Michael, David, David,circuit, David,0.4121,0.4121,0.0017,1,3,4,5,6,11,14,15,16,17,19
+"Then, David and Matthew had a long argument, and afterwards Matthew said to",263,16, Matthew, David, Matthew, Matthew, David, David,circuit, David,0.6797,0.6797,0.0004,1,3,4,5,6,10,10,13,14,15,15
+"While Sarah and Matthew were commuting to the restaurant, Matthew gave a bone to",594,16, Matthew, Sarah, Matthew, Matthew, Sarah, Sarah,circuit, Sarah,0.2441,0.2441,0.0002,1,2,3,4,5,7,10,11,12,13,15
+Friends David and Michael found a computer at the hospital. Michael gave it to,932,16, Michael, David, Michael, Michael, David, David,circuit, David,0.6641,0.6641,0.001,1,2,3,4,5,6,11,12,13,14,15
+"Afterwards, Andrew and Matthew went to the store. Matthew gave a kiss to",705,17, Matthew, Andrew, Matthew, Matthew, Andrew, Andrew,circuit, Andrew,0.4219,0.4219,0.0011,1,4,5,6,7,9,11,12,13,14,16
+Friends Brandon and Jessica found a kiss at the house. Jessica gave it to,945,16, Jessica, Brandon, Jessica, Jessica, Brandon, Brandon,circuit, Brandon,0.498,0.498,0.0014,1,2,3,4,5,6,11,12,13,14,15
+"When Jennifer and Matthew got a ring at the office, Matthew decided to give the ring to",488,19, Matthew, Jennifer, Matthew, Matthew, Jennifer, Jennifer,circuit, Jennifer,0.6094,0.6094,0.0005,1,2,3,4,5,6,11,12,13,16,18
+Friends Steven and Elizabeth found a ring at the house. Elizabeth gave it to,944,16, Elizabeth, Steven, Elizabeth, Elizabeth, Steven, Steven,circuit, Steven,0.7539,0.7539,0.0004,1,2,3,4,5,6,11,12,13,14,15
+"Then, Justin and Andrew were working at the garden. Andrew decided to give a basketball to",139,19, Andrew, Justin, Andrew, Andrew, Justin, Justin,circuit, Justin,0.7852,0.7852,0.0028,1,3,4,5,6,9,11,12,13,16,18
+"Then, Kyle and Michael were working at the garden. Michael decided to give a computer to",140,19, Michael, Kyle, Michael, Michael, Kyle, Kyle,circuit, Kyle,0.5195,0.5195,0.0029,1,3,4,5,6,9,11,12,13,16,18
+"When Jonathan and Robert got a kiss at the restaurant, Robert decided to give the kiss to",465,19, Robert, Jonathan, Robert, Robert, Jonathan, Jonathan,circuit, Jonathan,0.3379,0.3379,0.0178,1,2,3,4,5,6,11,12,13,16,18
+"While Christopher and Michael were working at the office, Michael gave a drink to",558,16, Michael, Christopher, Michael, Michael, Christopher, Christopher,circuit, Christopher,0.4355,0.4355,0.0003,1,2,3,4,5,8,10,11,12,13,15
+"After David and Michael went to the house, Michael gave a computer to",372,15, Michael, David, Michael, Michael, David, David,circuit, David,0.3594,0.3594,0.0026,1,2,3,4,5,7,9,10,11,12,14
+"While Joseph and David were commuting to the house, David gave a kiss to",625,16, David, Joseph, David, David, Joseph, Joseph,circuit, Joseph,0.4102,0.4102,0.001,1,2,3,4,5,7,10,11,12,13,15
+"When Brian and Joseph got a ring at the hospital, Joseph decided to give it to",416,18, Joseph, Brian, Joseph, Joseph, Brian, Brian,circuit, Brian,0.4297,0.4297,0.0015,1,2,3,4,5,6,11,12,13,16,17
+"When Rachel and James got a kiss at the station, James decided to give it to",441,18, James, Rachel, James, James, Rachel, Rachel,circuit, Rachel,0.3262,0.3262,0.0014,1,2,3,4,5,6,11,12,13,16,17
+"When Jonathan and James got a basketball at the restaurant, James decided to give it to",403,18, James, Jonathan, James, James, Jonathan, Jonathan,circuit, Jonathan,0.1406,0.1406,0.0029,1,2,3,4,5,6,11,12,13,16,17
+"When Amy and Eric got a ring at the store, Eric decided to give it to",384,18, Eric, Amy, Eric, Eric, Amy, Amy,circuit, Amy,0.6758,0.6758,0.0003,1,2,3,4,5,6,11,12,13,16,17
+"While William and Ryan were working at the house, Ryan gave a necklace to",565,16, Ryan, William, Ryan, Ryan, William, William,circuit, William,0.4238,0.4238,0.0042,1,2,3,4,5,8,10,11,12,13,15
+"Afterwards, Thomas and Jessica went to the office. Jessica gave a ring to",744,17, Jessica, Thomas, Jessica, Jessica, Thomas, Thomas,circuit, Thomas,0.3906,0.3906,0.0046,1,4,5,6,7,9,11,12,13,14,16
+"Then, Rachel and James had a long argument. Afterwards James said to",794,15, James, Rachel, James, James, Rachel, Rachel,circuit, Rachel,0.6211,0.6211,0.0005,1,3,4,5,6,10,10,12,13,14,14
+"Then, Robert and Matthew were working at the school. Matthew decided to give a computer to",156,19, Matthew, Robert, Matthew, Matthew, Robert, Robert,circuit, Robert,0.3477,0.3477,0.0011,1,3,4,5,6,9,11,12,13,16,18
+"After William and Sarah went to the garden, Sarah gave a kiss to",329,15, Sarah, William, Sarah, Sarah, William, William,circuit, William,0.3906,0.3906,0.003,1,2,3,4,5,7,9,10,11,12,14
+The school Andrew and Jennifer went to had a kiss. Jennifer gave it to,857,16, Jennifer, Andrew, Jennifer, Jennifer, Andrew, Andrew,circuit, Andrew,0.5898,0.5898,0.001,1,3,4,5,6,9,11,12,13,14,15
+"Then, David and Matthew were working at the station. Matthew decided to give a drink to",190,19, Matthew, David, Matthew, Matthew, David, David,circuit, David,0.4023,0.4023,0.0006,1,3,4,5,6,9,11,12,13,16,18
+The house Elizabeth and Jason went to had a kiss. Jason gave it to,881,16, Jason, Elizabeth, Jason, Jason, Elizabeth, Elizabeth,circuit, Elizabeth,0.5508,0.5508,0.0008,1,3,4,5,6,9,11,12,13,14,15
+"Then, James and Jessica went to the house. Jessica gave a kiss to",49,16, Jessica, James, Jessica, Jessica, James, James,circuit, James,0.4297,0.4297,0.0035,1,3,4,5,6,8,10,11,12,13,15
+"When Kyle and David got a ring at the station, David decided to give the ring to",504,19, David, Kyle, David, David, Kyle, Kyle,circuit, Kyle,0.2422,0.2422,0.0078,1,2,3,4,5,6,11,12,13,16,18
+Friends Andrew and Jessica found a basketball at the store. Jessica gave it to,899,16, Jessica, Andrew, Jessica, Jessica, Andrew, Andrew,circuit, Andrew,0.7148,0.7148,0.002,1,2,3,4,5,6,11,12,13,14,15
+"After the lunch, James and Jennifer went to the restaurant. Jennifer gave a drink to",662,18, Jennifer, James, Jennifer, Jennifer, James, James,circuit, James,0.8008,0.8008,0.0156,1,5,6,7,8,10,12,13,14,15,17
+"Afterwards, Brandon and Michael went to the school. Michael gave a drink to",734,17, Michael, Brandon, Michael, Michael, Brandon, Brandon,circuit, Brandon,0.2695,0.2695,0.0019,1,4,5,6,7,8,11,12,13,14,16
+Friends Brandon and David found a drink at the restaurant. David gave it to,918,16, David, Brandon, David, David, Brandon, Brandon,circuit, Brandon,0.6523,0.6523,0.0027,1,2,3,4,5,6,11,12,13,14,15
+"When Jeremy and Matthew got a ring at the garden, Matthew decided to give it to",392,18, Matthew, Jeremy, Matthew, Matthew, Jeremy, Jeremy,circuit, Jeremy,0.4316,0.4316,0.0006,1,2,3,4,5,6,11,12,13,16,17
+"When Christopher and Michael got a basketball at the school, Michael decided to give it to",411,18, Michael, Christopher, Michael, Michael, Christopher, Christopher,circuit, Christopher,0.3203,0.3203,0.002,1,2,3,4,5,6,11,12,13,16,17
+"After Jason and David went to the office, David gave a kiss to",361,15, David, Jason, David, David, Jason, Jason,circuit, Jason,0.3945,0.3945,0.0009,1,2,3,4,5,7,9,10,11,12,14
+The station David and Matthew went to had a necklace. Matthew gave it to,893,16, Matthew, David, Matthew, Matthew, David, David,circuit, David,0.2988,0.2988,0.0023,1,3,4,5,6,9,11,12,13,14,15
+"Then, Jennifer and Michael had a long argument, and afterwards Michael said to",292,16, Michael, Jennifer, Michael, Michael, Jennifer, Jennifer,circuit, Jennifer,0.6562,0.6562,0.0011,1,3,4,5,6,10,10,13,14,15,15
+The school Kevin and Brandon went to had a bone. Brandon gave it to,858,16, Brandon, Kevin, Brandon, Brandon, Kevin, Kevin,circuit, Kevin,0.3848,0.3848,0.0022,1,3,4,5,6,9,11,12,13,14,15
+"While William and Brandon were working at the house, Brandon gave a kiss to",561,16, Brandon, William, Brandon, Brandon, William, William,circuit, William,0.1904,0.1904,0.0024,1,2,3,4,5,8,10,11,12,13,15
+The restaurant Rachel and Justin went to had a drink. Justin gave it to,854,16, Justin, Rachel, Justin, Justin, Rachel, Rachel,circuit, Rachel,0.4473,0.4473,0.0222,1,3,4,5,6,9,11,12,13,14,15
+"After Jennifer and Matthew went to the house, Matthew gave a necklace to",373,15, Matthew, Jennifer, Matthew, Matthew, Jennifer, Jennifer,circuit, Jennifer,0.7461,0.7461,0.0005,1,2,3,4,5,7,9,10,11,12,14
+Friends David and Christopher found a drink at the garden. Christopher gave it to,910,16, Christopher, David, Christopher, Christopher, David, David,circuit, David,0.6133,0.6133,0.0006,1,2,3,4,5,6,11,12,13,14,15
+The restaurant Brian and James went to had a kiss. James gave it to,849,16, James, Brian, James, James, Brian, Brian,circuit, Brian,0.5117,0.5117,0.0017,1,3,4,5,6,9,11,12,13,14,15
+"Afterwards, Rachel and Brian went to the school. Brian gave a kiss to",729,17, Brian, Rachel, Brian, Brian, Rachel, Rachel,circuit, Rachel,0.4023,0.4023,0.0051,1,4,5,6,7,9,11,12,13,14,16
+"While Thomas and Anthony were commuting to the office, Anthony gave a necklace to",621,16, Anthony, Thomas, Anthony, Anthony, Thomas, Thomas,circuit, Thomas,0.3887,0.3887,0.0002,1,2,3,4,5,7,10,11,12,13,15
+"When Sarah and Jennifer got a basketball at the hospital, Jennifer decided to give the basketball to",483,19, Jennifer, Sarah, Jennifer, Jennifer, Sarah, Sarah,circuit, Sarah,0.2178,0.2178,0.0018,1,2,3,4,5,6,11,12,13,16,18
+"While Jason and Daniel were commuting to the hospital, Daniel gave a bone to",610,16, Daniel, Jason, Daniel, Daniel, Jason, Jason,circuit, Jason,0.3203,0.3203,0.0001,1,2,3,4,5,7,10,11,12,13,15
+"Then, Matthew and Christopher had a long argument. Afterwards Christopher said to",820,15, Christopher, Matthew, Christopher, Christopher, Matthew, Matthew,circuit, Matthew,0.7617,0.7617,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"After Jeremy and Daniel went to the garden, Daniel gave a ring to",328,15, Daniel, Jeremy, Daniel, Daniel, Jeremy, Jeremy,circuit, Jeremy,0.6914,0.6914,0.0009,1,2,3,4,5,7,9,10,11,12,14
+"Then, Andrew and Jessica had a long argument, and afterwards Jessica said to",318,16, Jessica, Andrew, Jessica, Jessica, Andrew, Andrew,circuit, Andrew,0.6211,0.6211,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"Afterwards, Brian and Jason went to the garden. Jason gave a necklace to",717,17, Jason, Brian, Jason, Jason, Brian, Brian,circuit, Brian,0.4219,0.4219,0.0015,1,4,5,6,7,9,11,12,13,14,16
+"Then, Jennifer and Matthew were thinking about going to the office. Matthew wanted to give a snack to",239,21, Matthew, Jennifer, Matthew, Matthew, Jennifer, Jennifer,circuit, Jennifer,0.2578,0.2578,0.0024,1,3,4,5,6,10,13,14,15,18,20
+"While Daniel and Christopher were commuting to the restaurant, Christopher gave a kiss to",593,16, Christopher, Daniel, Christopher, Christopher, Daniel, Daniel,circuit, Daniel,0.3125,0.3125,0.0003,1,2,3,4,5,7,10,11,12,13,15
+"Then, David and Christopher were working at the restaurant. Christopher decided to give a kiss to",145,19, Christopher, David, Christopher, Christopher, David, David,circuit, David,0.3164,0.3164,0.0009,1,3,4,5,6,9,11,12,13,16,18
+"After the lunch, Brandon and Jennifer went to the office. Jennifer gave a kiss to",681,18, Jennifer, Brandon, Jennifer, Jennifer, Brandon, Brandon,circuit, Brandon,0.7305,0.7305,0.0016,1,5,6,7,8,10,12,13,14,15,17
+"While Brian and Daniel were working at the restaurant, Daniel gave a necklace to",533,16, Daniel, Brian, Daniel, Daniel, Brian, Brian,circuit, Brian,0.3613,0.3613,0.0006,1,2,3,4,5,8,10,11,12,13,15
+"After Robert and David went to the store, David gave a snack to",327,15, David, Robert, David, David, Robert, Robert,circuit, Robert,0.3574,0.3574,0.0008,1,2,3,4,5,7,9,10,11,12,14
+"While Elizabeth and Daniel were working at the restaurant, Daniel gave a kiss to",529,16, Daniel, Elizabeth, Daniel, Daniel, Elizabeth, Elizabeth,circuit, Elizabeth,0.6914,0.6914,0.0006,1,2,3,4,5,8,10,11,12,13,15
+"Then, Elizabeth and Daniel had a long argument. Afterwards Daniel said to",823,15, Daniel, Elizabeth, Daniel, Daniel, Elizabeth, Elizabeth,circuit, Elizabeth,0.6953,0.6953,0.0006,1,3,4,5,6,10,10,12,13,14,14
+"After the lunch, Eric and Anthony went to the hospital. Anthony gave a kiss to",673,18, Anthony, Eric, Anthony, Anthony, Eric, Eric,circuit, Eric,0.2461,0.2461,0.0008,1,5,6,7,8,10,12,13,14,15,17
+"While Mark and Rachel were working at the station, Rachel gave a necklace to",573,16, Rachel, Mark, Rachel, Rachel, Mark, Mark,circuit, Mark,0.3125,0.3125,0.0014,1,2,3,4,5,8,10,11,12,13,15
+The office Matthew and Christopher went to had a ring. Christopher gave it to,872,16, Christopher, Matthew, Christopher, Christopher, Matthew, Matthew,circuit, Matthew,0.3672,0.3672,0.0013,1,3,4,5,6,9,11,12,13,14,15
+"Then, Richard and Anthony had a long argument, and afterwards Anthony said to",259,16, Anthony, Richard, Anthony, Anthony, Richard, Richard,circuit, Richard,0.6602,0.6602,0.0001,1,3,4,5,6,10,10,13,14,15,15
+"Then, Laura and Adam had a long argument, and afterwards Adam said to",319,16, Adam, Laura, Adam, Adam, Laura, Laura,circuit, Laura,0.5977,0.5977,0.0006,1,3,4,5,6,10,10,13,14,15,15
+"After the lunch, Brandon and Robert went to the house. Robert gave a computer to",692,18, Robert, Brandon, Robert, Robert, Brandon, Brandon,circuit, Brandon,0.5352,0.5352,0.0043,1,5,6,7,8,9,12,13,14,15,17
+"Then, Eric and Michael had a long argument. Afterwards Michael said to",813,15, Michael, Eric, Michael, Michael, Eric, Eric,circuit, Eric,0.7617,0.7617,0.0009,1,3,4,5,6,10,10,12,13,14,14
+"While Anthony and John were commuting to the school, John gave a ring to",600,16, John, Anthony, John, John, Anthony, Anthony,circuit, Anthony,0.4473,0.4473,0.0006,1,2,3,4,5,7,10,11,12,13,15
+"Then, Kyle and Brandon were working at the store. Brandon decided to give a bone to",130,19, Brandon, Kyle, Brandon, Brandon, Kyle, Kyle,circuit, Kyle,0.3477,0.3477,0.0014,1,3,4,5,6,9,11,12,13,16,18
+"When Jennifer and Christopher got a necklace at the restaurant, Christopher decided to give it to",405,18, Christopher, Jennifer, Christopher, Christopher, Jennifer, Jennifer,circuit, Jennifer,0.4453,0.4453,0.0003,1,2,3,4,5,6,11,12,13,16,17
+The store Justin and Ryan went to had a computer. Ryan gave it to,836,16, Ryan, Justin, Ryan, Ryan, Justin, Justin,circuit, Justin,0.4277,0.4277,0.0029,1,3,4,5,6,9,11,12,13,14,15
+"While Joseph and John were commuting to the house, John gave a snack to",631,16, John, Joseph, John, John, Joseph, Joseph,circuit, Joseph,0.4141,0.4141,0.0015,1,2,3,4,5,7,10,11,12,13,15
+"While Thomas and Joseph were working at the store, Joseph gave a computer to",516,16, Joseph, Thomas, Joseph, Joseph, Thomas, Thomas,circuit, Thomas,0.2871,0.2871,0.0021,1,2,3,4,5,8,10,11,12,13,15
+"Then, Justin and Andrew had a long argument, and afterwards Andrew said to",303,16, Andrew, Justin, Andrew, Andrew, Justin, Justin,circuit, Justin,0.7305,0.7305,0.0007,1,3,4,5,6,10,10,13,14,15,15
+"When Amy and David got a snack at the office, David decided to give the snack to",495,19, David, Amy, David, David, Amy, Amy,circuit, Amy,0.2734,0.2734,0.0011,1,2,3,4,5,8,11,12,13,16,18
+"When Jessica and Michael got a ring at the garden, Michael decided to give the ring to",456,19, Michael, Jessica, Michael, Michael, Jessica, Jessica,circuit, Jessica,0.625,0.625,0.0022,1,2,3,4,5,6,11,12,13,16,18
+"While Brandon and David were working at the office, David gave a bone to",554,16, David, Brandon, David, David, Brandon, Brandon,circuit, Brandon,0.5078,0.5078,0.0002,1,2,3,4,5,8,10,11,12,13,15
+"While John and Christopher were commuting to the school, Christopher gave a ring to",600,16, Christopher, John, Christopher, Christopher, John, John,circuit, John,0.2559,0.2559,0.0011,1,2,3,4,5,7,10,11,12,13,15
+"After Brandon and David went to the office, David gave a necklace to",365,15, David, Brandon, David, David, Brandon, Brandon,circuit, Brandon,0.3086,0.3086,0.0014,1,2,3,4,5,7,9,10,11,12,14
+"Then, Joseph and Jessica had a long argument, and afterwards Jessica said to",314,16, Jessica, Joseph, Jessica, Jessica, Joseph, Joseph,circuit, Joseph,0.7422,0.7422,0.0001,1,3,4,5,6,10,10,13,14,15,15
+"Then, Jamie and Joseph had a lot of fun at the garden. Joseph gave a computer to",76,20, Joseph, Jamie, Joseph, Joseph, Jamie, Jamie,circuit, Jamie,0.3926,0.3926,0.0009,1,3,4,5,6,11,14,15,16,17,19
+"After Sarah and Brandon went to the office, Brandon gave a bone to",362,15, Brandon, Sarah, Brandon, Brandon, Sarah, Sarah,circuit, Sarah,0.291,0.291,0.0008,1,2,3,4,5,7,9,10,11,12,14
+"After James and David went to the hospital, David gave a ring to",352,15, David, James, David, David, James, James,circuit, James,0.332,0.332,0.0005,1,2,3,4,5,7,9,10,11,12,14
+"When Robert and Christopher got a computer at the restaurant, Christopher decided to give it to",404,18, Christopher, Robert, Christopher, Christopher, Robert, Robert,circuit, Robert,0.209,0.209,0.0009,1,2,3,4,5,6,11,12,13,16,17
+"Then, Eric and Brian had a long argument, and afterwards Brian said to",301,16, Brian, Eric, Brian, Brian, Eric, Eric,circuit, Eric,0.7852,0.7852,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"While John and Jennifer were working at the store, Jennifer gave a kiss to",513,16, Jennifer, John, Jennifer, Jennifer, John, John,circuit, John,0.5508,0.5508,0.0004,1,2,3,4,5,8,10,11,12,13,15
+"While Eric and Ryan were commuting to the hospital, Ryan gave a drink to",614,16, Ryan, Eric, Ryan, Ryan, Eric, Eric,circuit, Eric,0.3066,0.3066,0.0007,1,2,3,4,5,7,10,11,12,13,15
+"After Jonathan and Matthew went to the restaurant, Matthew gave a drink to",342,15, Matthew, Jonathan, Matthew, Matthew, Jonathan, Jonathan,circuit, Jonathan,0.6094,0.6094,0.0014,1,2,3,4,5,7,9,10,11,12,14
+"After Sarah and David went to the garden, David gave a kiss to",329,15, David, Sarah, David, David, Sarah, Sarah,circuit, Sarah,0.5664,0.5664,0.0008,1,2,3,4,5,7,9,10,11,12,14
+"Then, Anthony and Justin went to the garden. Justin gave a necklace to",13,16, Justin, Anthony, Justin, Justin, Anthony, Anthony,circuit, Anthony,0.5508,0.5508,0.0003,1,3,4,5,6,8,10,11,12,13,15
+The hospital Elizabeth and Brandon went to had a bone. Brandon gave it to,866,16, Brandon, Elizabeth, Brandon, Brandon, Elizabeth, Elizabeth,circuit, Elizabeth,0.2129,0.2129,0.0057,1,3,4,5,6,8,11,12,13,14,15
+"After Anthony and Daniel went to the house, Daniel gave a bone to",370,15, Daniel, Anthony, Daniel, Daniel, Anthony, Anthony,circuit, Anthony,0.4121,0.4121,0.0013,1,2,3,4,5,7,9,10,11,12,14
+"Then, Michelle and Jessica had a long argument. Afterwards Jessica said to",827,15, Jessica, Michelle, Jessica, Jessica, Michelle, Michelle,circuit, Michelle,0.6562,0.6562,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"Then, Christopher and Michael had a long argument, and afterwards Michael said to",309,16, Michael, Christopher, Michael, Michael, Christopher, Christopher,circuit, Christopher,0.6641,0.6641,0.0005,1,3,4,5,6,10,10,13,14,15,15
+"After the lunch, Thomas and Eric went to the office. Eric gave a necklace to",685,18, Eric, Thomas, Eric, Eric, Thomas, Thomas,circuit, Thomas,0.4082,0.4082,0.0024,1,5,6,7,8,10,12,13,14,15,17
+"After Robert and David went to the office, David gave a basketball to",363,15, David, Robert, David, David, Robert, Robert,circuit, Robert,0.4785,0.4785,0.0011,1,2,3,4,5,7,9,10,11,12,14
+"When Daniel and Jessica got a kiss at the station, Jessica decided to give the kiss to",505,19, Jessica, Daniel, Jessica, Jessica, Daniel, Daniel,circuit, Daniel,0.1543,0.1543,0.003,1,2,3,4,5,6,11,12,13,16,18
+"Afterwards, Jeremy and Amy went to the restaurant. Amy gave a necklace to",725,17, Amy, Jeremy, Amy, Amy, Jeremy, Jeremy,circuit, Jeremy,0.7383,0.7383,0.0119,1,4,5,6,7,9,11,12,13,14,16
+"Afterwards, Steven and William went to the store. William gave a snack to",711,17, William, Steven, William, William, Steven, Steven,circuit, Steven,0.5742,0.5742,0.0022,1,4,5,6,7,9,11,12,13,14,16
+"Then, Steven and William went to the house. William gave a ring to",48,16, William, Steven, William, William, Steven, Steven,circuit, Steven,0.3867,0.3867,0.0028,1,3,4,5,6,8,10,11,12,13,15
+"Then, William and Jason were working at the station. Jason decided to give a drink to",190,19, Jason, William, Jason, Jason, William, William,circuit, William,0.5586,0.5586,0.0019,1,3,4,5,6,9,11,12,13,16,18
+The office Jason and John went to had a snack. John gave it to,879,16, John, Jason, John, John, Jason, Jason,circuit, Jason,0.4473,0.4473,0.0016,1,3,4,5,6,8,11,12,13,14,15
+"While Robert and James were working at the hospital, James gave a kiss to",545,16, James, Robert, James, James, Robert, Robert,circuit, Robert,0.2812,0.2812,0.001,1,2,3,4,5,8,10,11,12,13,15
+The store Matthew and Christopher went to had a kiss. Christopher gave it to,833,16, Christopher, Matthew, Christopher, Christopher, Matthew, Matthew,circuit, Matthew,0.5938,0.5938,0.0003,1,3,4,5,6,9,11,12,13,14,15
+"After John and Matthew went to the school, Matthew gave a basketball to",347,15, Matthew, John, Matthew, Matthew, John, John,circuit, John,0.416,0.416,0.0003,1,2,3,4,5,7,9,10,11,12,14
+The store James and Jessica went to had a drink. Jessica gave it to,838,16, Jessica, James, Jessica, Jessica, James, James,circuit, James,0.5781,0.5781,0.0145,1,3,4,5,6,9,11,12,13,14,15
+"Then, Michelle and Jessica had a long argument. Afterwards Jessica said to",789,15, Jessica, Michelle, Jessica, Jessica, Michelle, Michelle,circuit, Michelle,0.6719,0.6719,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"Afterwards, Jason and Andrew went to the office. Andrew gave a bone to",746,17, Andrew, Jason, Andrew, Andrew, Jason, Jason,circuit, Jason,0.3691,0.3691,0.0014,1,4,5,6,7,9,11,12,13,14,16
+"After David and Jennifer went to the garden, Jennifer gave a drink to",334,15, Jennifer, David, Jennifer, Jennifer, David, David,circuit, David,0.4941,0.4941,0.0004,1,2,3,4,5,7,9,10,11,12,14
+"Then, Brandon and Michael went to the school. Michael gave a kiss to",25,16, Michael, Brandon, Michael, Michael, Brandon, Brandon,circuit, Brandon,0.1904,0.1904,0.0016,1,3,4,5,6,8,10,11,12,13,15
+"When Robert and Jessica got a ring at the garden, Jessica decided to give the ring to",456,19, Jessica, Robert, Jessica, Jessica, Robert, Robert,circuit, Robert,0.3301,0.3301,0.0042,1,2,3,4,5,6,11,12,13,16,18
+"Then, James and Christopher were working at the store. Christopher decided to give a snack to",135,19, Christopher, James, Christopher, Christopher, James, James,circuit, James,0.4922,0.4922,0.0008,1,3,4,5,6,9,11,12,13,16,18
+"After the lunch, Jonathan and Justin went to the garden. Justin gave a computer to",652,18, Justin, Jonathan, Justin, Justin, Jonathan, Jonathan,circuit, Jonathan,0.7344,0.7344,0.0011,1,5,6,7,8,9,12,13,14,15,17
+Friends Elizabeth and Daniel found a basketball at the store. Daniel gave it to,899,16, Daniel, Elizabeth, Daniel, Daniel, Elizabeth, Elizabeth,circuit, Elizabeth,0.6133,0.6133,0.0007,1,2,3,4,5,6,11,12,13,14,15
+"While Sarah and Brandon were working at the store, Brandon gave a ring to",512,16, Brandon, Sarah, Brandon, Brandon, Sarah, Sarah,circuit, Sarah,0.5469,0.5469,0.0033,1,2,3,4,5,8,10,11,12,13,15
+"Then, Steven and Joseph were working at the store. Joseph decided to give a snack to",135,19, Joseph, Steven, Joseph, Joseph, Steven, Steven,circuit, Steven,0.4316,0.4316,0.0004,1,3,4,5,6,9,11,12,13,16,18
+"Then, Kevin and Andrew were working at the office. Andrew decided to give a snack to",175,19, Andrew, Kevin, Andrew, Andrew, Kevin, Kevin,circuit, Kevin,0.7461,0.7461,0.0027,1,3,4,5,6,9,11,12,13,16,18
+"Then, Jessica and Michael had a lot of fun at the restaurant. Michael gave a drink to",86,20, Michael, Jessica, Michael, Michael, Jessica, Jessica,circuit, Jessica,0.6406,0.6406,0.0086,1,3,4,5,6,11,14,15,16,17,19
+"Then, Joseph and David had a long argument. Afterwards David said to",796,15, David, Joseph, David, David, Joseph, Joseph,circuit, Joseph,0.8281,0.8281,0.0005,1,3,4,5,6,10,10,12,13,14,14
+"After Adam and Andrew went to the house, Andrew gave a necklace to",373,15, Andrew, Adam, Andrew, Andrew, Adam, Adam,circuit, Adam,0.3438,0.3438,0.0006,1,2,3,4,5,7,9,10,11,12,14
+"Then, Anthony and Brian had a long argument. Afterwards Brian said to",814,15, Brian, Anthony, Brian, Brian, Anthony, Anthony,circuit, Anthony,0.7656,0.7656,0.0012,1,3,4,5,6,10,10,12,13,14,14
+"While Rachel and Jonathan were commuting to the station, Jonathan gave a drink to",638,16, Jonathan, Rachel, Jonathan, Jonathan, Rachel, Rachel,circuit, Rachel,0.3203,0.3203,0.0005,1,2,3,4,5,7,10,11,12,13,15
+"Then, Eric and Brian had a long argument, and afterwards Brian said to",309,16, Brian, Eric, Brian, Brian, Eric, Eric,circuit, Eric,0.7852,0.7852,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"Then, Daniel and Matthew had a long argument, and afterwards Matthew said to",302,16, Matthew, Daniel, Matthew, Matthew, Daniel, Daniel,circuit, Daniel,0.7227,0.7227,0.0003,1,3,4,5,6,10,10,13,14,15,15
+"When Stephen and David got a ring at the garden, David decided to give it to",392,18, David, Stephen, David, David, Stephen, Stephen,circuit, Stephen,0.2168,0.2168,0.0009,1,2,3,4,5,6,11,12,13,16,17
+"While Jonathan and Daniel were commuting to the garden, Daniel gave a drink to",590,16, Daniel, Jonathan, Daniel, Daniel, Jonathan, Jonathan,circuit, Jonathan,0.2812,0.2812,0.0005,1,2,3,4,5,7,10,11,12,13,15
+The store Jason and Daniel went to had a computer. Daniel gave it to,836,16, Daniel, Jason, Daniel, Daniel, Jason, Jason,circuit, Jason,0.459,0.459,0.0027,1,3,4,5,6,9,11,12,13,14,15
+"When Justin and Matthew got a snack at the restaurant, Matthew decided to give the snack to",471,19, Matthew, Justin, Matthew, Matthew, Justin, Justin,circuit, Justin,0.2754,0.2754,0.0015,1,2,3,4,5,6,11,12,13,16,18
+"After the lunch, Steven and Brandon went to the office. Brandon gave a bone to",682,18, Brandon, Steven, Brandon, Brandon, Steven, Steven,circuit, Steven,0.377,0.377,0.0025,1,5,6,7,8,10,12,13,14,15,17
+"Then, Justin and John had a lot of fun at the house. John gave a basketball to",115,20, John, Justin, John, John, Justin, Justin,circuit, Justin,0.4863,0.4863,0.0051,1,3,4,5,6,11,14,15,16,17,19
+"When Andrew and Christopher got a ring at the school, Christopher decided to give the ring to",472,19, Christopher, Andrew, Christopher, Christopher, Andrew, Andrew,circuit, Andrew,0.416,0.416,0.0014,1,2,3,4,5,6,11,12,13,16,18
+"After Daniel and Christopher went to the house, Christopher gave a necklace to",373,15, Christopher, Daniel, Christopher, Christopher, Daniel, Daniel,circuit, Daniel,0.2773,0.2773,0.0014,1,2,3,4,5,7,9,10,11,12,14
+"Then, Kyle and Adam had a long argument. Afterwards Adam said to",794,15, Adam, Kyle, Adam, Adam, Kyle, Kyle,circuit, Kyle,0.8008,0.8008,0.0008,1,3,4,5,6,10,10,12,13,14,14
+"Then, Sarah and Ryan went to the house. Ryan gave a drink to",54,16, Ryan, Sarah, Ryan, Ryan, Sarah, Sarah,circuit, Sarah,0.6484,0.6484,0.0014,1,3,4,5,6,7,10,11,12,13,15
+"Then, Sarah and Brandon had a long argument, and afterwards Brandon said to",298,16, Brandon, Sarah, Brandon, Brandon, Sarah, Sarah,circuit, Sarah,0.5547,0.5547,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"After Sarah and John went to the station, John gave a kiss to",377,15, John, Sarah, John, John, Sarah, Sarah,circuit, Sarah,0.6484,0.6484,0.0014,1,2,3,4,5,7,9,10,11,12,14
+"After Anthony and Joseph went to the house, Joseph gave a bone to",370,15, Joseph, Anthony, Joseph, Joseph, Anthony, Anthony,circuit, Anthony,0.293,0.293,0.0156,1,2,3,4,5,7,9,10,11,12,14
+"After Adam and Brian went to the store, Brian gave a computer to",324,15, Brian, Adam, Brian, Brian, Adam, Adam,circuit, Adam,0.5781,0.5781,0.0037,1,2,3,4,5,7,9,10,11,12,14
+Friends Adam and Daniel found a bone at the office. Daniel gave it to,938,16, Daniel, Adam, Daniel, Daniel, Adam, Adam,circuit, Adam,0.4629,0.4629,0.0016,1,2,3,4,5,6,11,12,13,14,15
+"Then, Robert and Matthew had a long argument. Afterwards Matthew said to",823,15, Matthew, Robert, Matthew, Matthew, Robert, Robert,circuit, Robert,0.6914,0.6914,0.0005,1,3,4,5,6,10,10,12,13,14,14
+"Then, Brandon and Joseph went to the store. Joseph gave a ring to",0,16, Joseph, Brandon, Joseph, Joseph, Brandon, Brandon,circuit, Brandon,0.3262,0.3262,0.001,1,3,4,5,6,8,10,11,12,13,15
+"Then, Daniel and Jennifer had a long argument. Afterwards Jennifer said to",796,15, Jennifer, Daniel, Jennifer, Jennifer, Daniel, Daniel,circuit, Daniel,0.7969,0.7969,0.0001,1,3,4,5,6,10,10,12,13,14,14
+"Afterwards, Jason and Jessica went to the garden. Jessica gave a snack to",719,17, Jessica, Jason, Jessica, Jessica, Jason, Jason,circuit, Jason,0.3516,0.3516,0.0047,1,4,5,6,7,9,11,12,13,14,16
+"After the lunch, Adam and Jason went to the office. Jason gave a ring to",680,18, Jason, Adam, Jason, Jason, Adam, Adam,circuit, Adam,0.3984,0.3984,0.0044,1,5,6,7,8,10,12,13,14,15,17
+"Then, Adam and Elizabeth were working at the station. Elizabeth decided to give a basketball to",187,19, Elizabeth, Adam, Elizabeth, Elizabeth, Adam, Adam,circuit, Adam,0.3828,0.3828,0.0015,1,3,4,5,6,9,11,12,13,16,18
+"Then, Adam and Elizabeth went to the house. Elizabeth gave a snack to",55,16, Elizabeth, Adam, Elizabeth, Elizabeth, Adam, Adam,circuit, Adam,0.2754,0.2754,0.0037,1,3,4,5,6,8,10,11,12,13,15
+"When Eric and Jonathan got a drink at the hospital, Jonathan decided to give it to",422,18, Jonathan, Eric, Jonathan, Jonathan, Eric, Eric,circuit, Eric,0.2988,0.2988,0.0035,1,2,3,4,5,6,11,12,13,16,17
+"While Christopher and Michael were working at the house, Michael gave a kiss to",561,16, Michael, Christopher, Michael, Michael, Christopher, Christopher,circuit, Christopher,0.3027,0.3027,0.0012,1,2,3,4,5,8,10,11,12,13,15
+"Then, Brian and Christopher had a lot of fun at the restaurant. Christopher gave a bone to",82,20, Christopher, Brian, Christopher, Christopher, Brian, Brian,circuit, Brian,0.3066,0.3066,0.0022,1,3,4,5,6,11,14,15,16,17,19
+"When Joseph and Michael got a ring at the garden, Michael decided to give the ring to",456,19, Michael, Joseph, Michael, Michael, Joseph, Joseph,circuit, Joseph,0.3906,0.3906,0.0011,1,2,3,4,5,6,11,12,13,16,18
+"Afterwards, Justin and Jennifer went to the office. Jennifer gave a ring to",744,17, Jennifer, Justin, Jennifer, Jennifer, Justin, Justin,circuit, Justin,0.3652,0.3652,0.0049,1,4,5,6,7,9,11,12,13,14,16
+"Then, Robert and Jennifer had a long argument. Afterwards Jennifer said to",791,15, Jennifer, Robert, Jennifer, Jennifer, Robert, Robert,circuit, Robert,0.8164,0.8164,0.0001,1,3,4,5,6,10,10,12,13,14,14
+Friends Brian and James found a snack at the hospital. James gave it to,935,16, James, Brian, James, James, Brian, Brian,circuit, Brian,0.5195,0.5195,0.0008,1,2,3,4,5,6,11,12,13,14,15
+"Then, Jonathan and Daniel had a long argument. Afterwards Daniel said to",781,15, Daniel, Jonathan, Daniel, Daniel, Jonathan, Jonathan,circuit, Jonathan,0.8398,0.8398,0.0006,1,3,4,5,6,10,10,12,13,14,14
+"Then, William and David were thinking about going to the restaurant. David wanted to give a drink to",214,21, David, William, David, David, William, William,circuit, William,0.3145,0.3145,0.0037,1,3,4,5,6,10,13,14,15,18,20
+"Then, Sarah and Justin had a long argument, and afterwards Justin said to",274,16, Justin, Sarah, Justin, Justin, Sarah, Sarah,circuit, Sarah,0.5312,0.5312,0.0001,1,3,4,5,6,10,10,13,14,15,15
+"Afterwards, Jason and Matthew went to the store. Matthew gave a snack to",711,17, Matthew, Jason, Matthew, Matthew, Jason, Jason,circuit, Jason,0.3281,0.3281,0.0009,1,4,5,6,7,9,11,12,13,14,16
+"Then, Kyle and Brian had a long argument. Afterwards Brian said to",789,15, Brian, Kyle, Brian, Brian, Kyle, Kyle,circuit, Kyle,0.8242,0.8242,0.001,1,3,4,5,6,10,10,12,13,14,14
+Friends Joseph and James found a ring at the station. James gave it to,952,16, James, Joseph, James, James, Joseph, Joseph,circuit, Joseph,0.4785,0.4785,0.0001,1,2,3,4,5,6,11,12,13,14,15
+"When Steven and James got a necklace at the station, James decided to give it to",445,18, James, Steven, James, James, Steven, Steven,circuit, Steven,0.1191,0.1191,0.0023,1,2,3,4,5,6,11,12,13,16,17
+"While Thomas and Justin were working at the restaurant, Justin gave a basketball to",531,16, Justin, Thomas, Justin, Justin, Thomas, Thomas,circuit, Thomas,0.3672,0.3672,0.0012,1,2,3,4,5,8,10,11,12,13,15
+"Then, Ryan and Matthew were working at the store. Matthew decided to give a kiss to",129,19, Matthew, Ryan, Matthew, Matthew, Ryan, Ryan,circuit, Ryan,0.3633,0.3633,0.0014,1,3,4,5,6,9,11,12,13,16,18
+"Afterwards, William and Andrew went to the restaurant. Andrew gave a kiss to",721,17, Andrew, William, Andrew, Andrew, William, William,circuit, William,0.3906,0.3906,0.0016,1,4,5,6,7,9,11,12,13,14,16
+"While Jennifer and Christopher were working at the restaurant, Christopher gave a ring to",528,16, Christopher, Jennifer, Christopher, Christopher, Jennifer, Jennifer,circuit, Jennifer,0.6289,0.6289,0.0005,1,2,3,4,5,8,10,11,12,13,15
+"When Ryan and Andrew got a computer at the garden, Andrew decided to give the computer to",460,19, Andrew, Ryan, Andrew, Andrew, Ryan, Ryan,circuit, Ryan,0.249,0.249,0.0038,1,2,3,4,5,6,11,12,13,16,18
+"While Joseph and James were working at the restaurant, James gave a ring to",528,16, James, Joseph, James, James, Joseph, Joseph,circuit, Joseph,0.3906,0.3906,0.001,1,2,3,4,5,8,10,11,12,13,15
+"Then, Christopher and Michael had a long argument, and afterwards Michael said to",284,16, Michael, Christopher, Michael, Michael, Christopher, Christopher,circuit, Christopher,0.6641,0.6641,0.0005,1,3,4,5,6,10,10,13,14,15,15
+The station Thomas and Sarah went to had a kiss. Sarah gave it to,889,16, Sarah, Thomas, Sarah, Sarah, Thomas, Thomas,circuit, Thomas,0.5,0.5,0.0005,1,3,4,5,6,9,11,12,13,14,15
+"Then, Steven and Sarah were thinking about going to the office. Sarah wanted to give a kiss to",233,21, Sarah, Steven, Sarah, Sarah, Steven, Steven,circuit, Steven,0.4141,0.4141,0.0043,1,3,4,5,6,11,13,14,15,18,20
+"While Jessica and Christopher were working at the restaurant, Christopher gave a bone to",530,16, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.4355,0.4355,0.0001,1,2,3,4,5,8,10,11,12,13,15
+"Then, John and Matthew were working at the station. Matthew decided to give a basketball to",187,19, Matthew, John, Matthew, Matthew, John, John,circuit, John,0.498,0.498,0.0006,1,3,4,5,6,9,11,12,13,16,18
+Friends Andrew and John found a computer at the store. John gave it to,900,16, John, Andrew, John, John, Andrew, Andrew,circuit, Andrew,0.7109,0.7109,0.0014,1,2,3,4,5,6,11,12,13,14,15
+The store Steven and James went to had a drink. James gave it to,838,16, James, Steven, James, James, Steven, Steven,circuit, Steven,0.5312,0.5312,0.0063,1,3,4,5,6,9,11,12,13,14,15
+"Then, Jason and Robert had a lot of fun at the store. Robert gave a ring to",64,20, Robert, Jason, Robert, Robert, Jason, Jason,circuit, Jason,0.3711,0.3711,0.0019,1,3,4,5,6,11,14,15,16,17,19
+"Then, Sarah and Brandon had a long argument. Afterwards Brandon said to",819,15, Brandon, Sarah, Brandon, Brandon, Sarah, Sarah,circuit, Sarah,0.6445,0.6445,0.0004,1,3,4,5,6,10,10,12,13,14,14
+The restaurant Robert and David went to had a snack. David gave it to,855,16, David, Robert, David, David, Robert, Robert,circuit, Robert,0.5469,0.5469,0.0027,1,3,4,5,6,9,11,12,13,14,15
+Friends Brian and Brandon found a basketball at the house. Brandon gave it to,947,16, Brandon, Brian, Brandon, Brandon, Brian, Brian,circuit, Brian,0.6602,0.6602,0.0042,1,2,3,4,5,6,11,12,13,14,15
+"Afterwards, Elizabeth and Ryan went to the office. Ryan gave a necklace to",749,17, Ryan, Elizabeth, Ryan, Ryan, Elizabeth, Elizabeth,circuit, Elizabeth,0.7227,0.7227,0.0022,1,4,5,6,7,9,11,12,13,14,16
+"While Brian and Jason were commuting to the garden, Jason gave a necklace to",589,16, Jason, Brian, Jason, Jason, Brian, Brian,circuit, Brian,0.3477,0.3477,0.0009,1,2,3,4,5,7,10,11,12,13,15
+"Then, Brian and James went to the garden. James gave a basketball to",11,16, James, Brian, James, James, Brian, Brian,circuit, Brian,0.6641,0.6641,0.0037,1,3,4,5,6,8,10,11,12,13,15
+The office John and Daniel went to had a computer. Daniel gave it to,876,16, Daniel, John, Daniel, Daniel, John, John,circuit, John,0.3613,0.3613,0.0045,1,3,4,5,6,9,11,12,13,14,15
+"Then, Andrew and Jessica had a long argument, and afterwards Jessica said to",298,16, Jessica, Andrew, Jessica, Jessica, Andrew, Andrew,circuit, Andrew,0.6211,0.6211,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"After Kevin and Michael went to the restaurant, Michael gave a snack to",343,15, Michael, Kevin, Michael, Michael, Kevin, Kevin,circuit, Kevin,0.373,0.373,0.0005,1,2,3,4,5,7,9,10,11,12,14
+The house Jessica and Christopher went to had a drink. Christopher gave it to,886,16, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.3984,0.3984,0.0225,1,3,4,5,6,8,11,12,13,14,15
+The office Jennifer and Michael went to had a basketball. Michael gave it to,875,16, Michael, Jennifer, Michael, Michael, Jennifer, Jennifer,circuit, Jennifer,0.3164,0.3164,0.0084,1,3,4,5,6,9,11,12,13,14,15
+"Then, Emily and David had a long argument. Afterwards David said to",780,15, David, Emily, David, David, Emily, Emily,circuit, Emily,0.707,0.707,0.0015,1,3,4,5,6,10,10,12,13,14,14
+"Afterwards, Sarah and David went to the garden. David gave a snack to",719,17, David, Sarah, David, David, Sarah, Sarah,circuit, Sarah,0.4414,0.4414,0.001,1,4,5,6,7,9,11,12,13,14,16
+"While Steven and Robert were commuting to the restaurant, Robert gave a snack to",599,16, Robert, Steven, Robert, Robert, Steven, Steven,circuit, Steven,0.3496,0.3496,0.0011,1,2,3,4,5,7,10,11,12,13,15
+"Then, Emily and Jessica had a lot of fun at the office. Jessica gave a kiss to",105,20, Jessica, Emily, Jessica, Jessica, Emily, Emily,circuit, Emily,0.5234,0.5234,0.0035,1,3,4,5,6,11,14,15,16,17,19
+"Then, John and Jennifer had a lot of fun at the hospital. Jennifer gave a kiss to",97,20, Jennifer, John, Jennifer, Jennifer, John, John,circuit, John,0.2354,0.2354,0.0017,1,3,4,5,6,11,14,15,16,17,19
+"Then, Jonathan and Jennifer had a long argument. Afterwards Jennifer said to",830,15, Jennifer, Jonathan, Jennifer, Jennifer, Jonathan, Jonathan,circuit, Jonathan,0.7891,0.7891,0.0004,1,3,4,5,6,10,10,12,13,14,14
+"After the lunch, Anthony and Jonathan went to the school. Jonathan gave a kiss to",665,18, Jonathan, Anthony, Jonathan, Jonathan, Anthony, Anthony,circuit, Anthony,0.4805,0.4805,0.0007,1,5,6,7,8,9,12,13,14,15,17
+"Then, David and Christopher had a long argument. Afterwards Christopher said to",796,15, Christopher, David, Christopher, Christopher, David, David,circuit, David,0.7227,0.7227,0.0002,1,3,4,5,6,10,10,11,13,14,14
+"After the lunch, Justin and Jennifer went to the house. Jennifer gave a bone to",690,18, Jennifer, Justin, Jennifer, Jennifer, Justin, Justin,circuit, Justin,0.3633,0.3633,0.0012,1,5,6,7,8,9,12,13,14,15,17
+"Then, Andrew and Michael were working at the store. Michael decided to give a snack to",135,19, Michael, Andrew, Michael, Michael, Andrew, Andrew,circuit, Andrew,0.3906,0.3906,0.0015,1,3,4,5,6,9,11,12,13,16,18
+"Then, Andrew and Robert went to the store. Robert gave a snack to",7,16, Robert, Andrew, Robert, Robert, Andrew, Andrew,circuit, Andrew,0.3711,0.3711,0.0022,1,3,4,5,6,8,10,11,12,13,15
+"Then, William and Brandon were working at the store. Brandon decided to give a bone to",130,19, Brandon, William, Brandon, Brandon, William, William,circuit, William,0.2852,0.2852,0.0005,1,3,4,5,6,9,11,12,13,16,18
+"While Jonathan and Jessica were working at the house, Jessica gave a drink to",566,16, Jessica, Jonathan, Jessica, Jessica, Jonathan, Jonathan,circuit, Jonathan,0.334,0.334,0.0011,1,2,3,4,5,8,10,11,12,13,15
+"While Jason and John were working at the restaurant, John gave a ring to",528,16, John, Jason, John, John, Jason, Jason,circuit, Jason,0.3984,0.3984,0.0008,1,2,3,4,5,8,10,11,12,13,15
+"Then, Jennifer and Jessica had a long argument. Afterwards Jessica said to",823,15, Jessica, Jennifer, Jessica, Jessica, Jennifer, Jennifer,circuit, Jennifer,0.7852,0.7852,0.0006,1,3,4,5,6,10,10,12,13,14,14
+"Afterwards, Kevin and Sarah went to the office. Sarah gave a basketball to",747,17, Sarah, Kevin, Sarah, Sarah, Kevin, Kevin,circuit, Kevin,0.2949,0.2949,0.0048,1,4,5,6,7,9,11,12,13,14,16
+The store Ryan and John went to had a computer. John gave it to,836,16, John, Ryan, John, John, Ryan, Ryan,circuit, Ryan,0.4395,0.4395,0.0025,1,3,4,5,6,9,11,12,13,14,15
+"When Richard and Jason got a computer at the restaurant, Jason decided to give the computer to",468,19, Jason, Richard, Jason, Jason, Richard, Richard,circuit, Richard,0.2559,0.2559,0.0082,1,2,3,4,5,6,11,12,13,16,18
+"When Brandon and David got a drink at the station, David decided to give the drink to",510,19, David, Brandon, David, David, Brandon, Brandon,circuit, Brandon,0.2305,0.2305,0.0029,1,2,3,4,5,8,11,12,13,16,18
+Friends Kyle and Jonathan found a drink at the office. Jonathan gave it to,942,16, Jonathan, Kyle, Jonathan, Jonathan, Kyle, Kyle,circuit, Kyle,0.6484,0.6484,0.0002,1,2,3,4,5,6,11,12,13,14,15
+"Then, Steven and William were working at the hospital. William decided to give a ring to",160,19, William, Steven, William, William, Steven, Steven,circuit, Steven,0.2148,0.2148,0.0014,1,3,4,5,6,9,11,12,13,16,18
+"When William and Ryan got a kiss at the store, Ryan decided to give it to",385,18, Ryan, William, Ryan, Ryan, William, William,circuit, William,0.3535,0.3535,0.0027,1,2,3,4,5,6,11,12,13,16,17
+"Afterwards, Thomas and Adam went to the school. Adam gave a kiss to",729,17, Adam, Thomas, Adam, Adam, Thomas, Thomas,circuit, Thomas,0.2451,0.2451,0.0054,1,4,5,6,7,9,11,12,13,14,16
+"When Eric and Justin got a kiss at the school, Justin decided to give the kiss to",473,19, Justin, Eric, Justin, Justin, Eric, Eric,circuit, Eric,0.2275,0.2275,0.0065,1,2,3,4,5,6,11,12,13,16,18
+"Afterwards, William and James went to the restaurant. James gave a computer to",724,17, James, William, James, James, William, William,circuit, William,0.4648,0.4648,0.0043,1,4,5,6,7,9,11,12,13,14,16
+"After Thomas and Jason went to the restaurant, Jason gave a bone to",338,15, Jason, Thomas, Jason, Jason, Thomas, Thomas,circuit, Thomas,0.373,0.373,0.0008,1,2,3,4,5,7,9,10,11,12,14
+"While Jonathan and Michael were commuting to the school, Michael gave a necklace to",605,16, Michael, Jonathan, Michael, Michael, Jonathan, Jonathan,circuit, Jonathan,0.4668,0.4668,0.0005,1,2,3,4,5,7,10,11,12,13,15
+"Then, Steven and Adam went to the store. Adam gave a snack to",7,16, Adam, Steven, Adam, Adam, Steven, Steven,circuit, Steven,0.4199,0.4199,0.0023,1,3,4,5,6,8,10,11,12,13,15
+"When Ryan and James got a computer at the station, James decided to give it to",444,18, James, Ryan, James, James, Ryan, Ryan,circuit, Ryan,0.1826,0.1826,0.0036,1,2,3,4,5,6,11,12,13,16,17
+"Then, Kevin and Brian were working at the garden. Brian decided to give a necklace to",141,19, Brian, Kevin, Brian, Brian, Kevin, Kevin,circuit, Kevin,0.3516,0.3516,0.002,1,3,4,5,6,9,11,12,13,16,18
+"After the lunch, Andrew and John went to the station. John gave a computer to",700,18, John, Andrew, John, John, Andrew, Andrew,circuit, Andrew,0.5078,0.5078,0.0068,1,5,6,7,8,9,12,13,14,15,17
+"After the lunch, Brandon and John went to the house. John gave a kiss to",689,18, John, Brandon, John, John, Brandon, Brandon,circuit, Brandon,0.1699,0.1699,0.0026,1,5,6,7,8,10,12,13,14,15,17
+The restaurant Jason and Michael went to had a computer. Michael gave it to,852,16, Michael, Jason, Michael, Michael, Jason, Jason,circuit, Jason,0.3359,0.3359,0.002,1,3,4,5,6,9,11,12,13,14,15
+"While Adam and Daniel were commuting to the restaurant, Daniel gave a bone to",594,16, Daniel, Adam, Daniel, Daniel, Adam, Adam,circuit, Adam,0.4395,0.4395,0.0002,1,2,3,4,5,7,10,11,12,13,15
+"While Jason and Andrew were commuting to the house, Andrew gave a snack to",631,16, Andrew, Jason, Andrew, Andrew, Jason, Jason,circuit, Jason,0.2207,0.2207,0.0002,1,2,3,4,5,7,10,11,12,13,15
+"When Jason and Christopher got a computer at the school, Christopher decided to give it to",412,18, Christopher, Jason, Christopher, Christopher, Jason, Jason,circuit, Jason,0.4141,0.4141,0.0006,1,2,3,4,5,6,11,12,13,16,17
+"Then, Elizabeth and Anthony had a long argument. Afterwards Anthony said to",803,15, Anthony, Elizabeth, Anthony, Anthony, Elizabeth, Elizabeth,circuit, Elizabeth,0.707,0.707,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"Then, Eric and Brian had a long argument, and afterwards Brian said to",263,16, Brian, Eric, Brian, Brian, Eric, Eric,circuit, Eric,0.7812,0.7812,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"While Laura and Jonathan were commuting to the station, Jonathan gave a computer to",636,16, Jonathan, Laura, Jonathan, Jonathan, Laura, Laura,circuit, Laura,0.3145,0.3145,0.0031,1,2,3,4,5,7,10,11,12,13,15
+"After the lunch, Jessica and Michael went to the garden. Michael gave a ring to",648,18, Michael, Jessica, Michael, Michael, Jessica, Jessica,circuit, Jessica,0.9062,0.9062,0.0009,1,5,6,7,8,10,12,13,14,15,17
+The station Jessica and Christopher went to had a snack. Christopher gave it to,895,16, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.459,0.459,0.001,1,3,4,5,6,9,11,12,13,14,15
+The hospital Adam and Jonathan went to had a kiss. Jonathan gave it to,865,16, Jonathan, Adam, Jonathan, Jonathan, Adam, Adam,circuit, Adam,0.7148,0.7148,0.0002,1,3,4,5,6,9,11,12,13,14,15
+"While Joseph and David were working at the hospital, David gave a necklace to",549,16, David, Joseph, David, David, Joseph, Joseph,circuit, Joseph,0.3242,0.3242,0.0001,1,2,3,4,5,8,10,11,12,13,15
+"After David and Michael went to the garden, Michael gave a bone to",330,15, Michael, David, Michael, Michael, David, David,circuit, David,0.5469,0.5469,0.0005,1,2,3,4,5,7,9,10,11,12,14
+"After Kyle and Christopher went to the school, Christopher gave a basketball to",347,15, Christopher, Kyle, Christopher, Christopher, Kyle, Kyle,circuit, Kyle,0.3633,0.3633,0.0005,1,2,3,4,5,7,9,10,11,12,14
+"When Robert and Daniel got a computer at the store, Daniel decided to give it to",388,18, Daniel, Robert, Daniel, Daniel, Robert, Robert,circuit, Robert,0.2275,0.2275,0.002,1,2,3,4,5,6,11,12,13,16,17
+"Then, Joseph and Matthew had a long argument. Afterwards Matthew said to",819,15, Matthew, Joseph, Matthew, Matthew, Joseph, Joseph,circuit, Joseph,0.8008,0.8008,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"While John and Daniel were commuting to the house, Daniel gave a kiss to",625,16, Daniel, John, Daniel, Daniel, John, John,circuit, John,0.4219,0.4219,0.0015,1,2,3,4,5,7,10,11,12,13,15
+"After Kevin and William went to the hospital, William gave a drink to",358,15, William, Kevin, William, William, Kevin, Kevin,circuit, Kevin,0.2754,0.2754,0.0017,1,2,3,4,5,7,9,10,11,12,14
+"Then, Justin and Matthew had a lot of fun at the office. Matthew gave a bone to",106,20, Matthew, Justin, Matthew, Matthew, Justin, Justin,circuit, Justin,0.5586,0.5586,0.0021,1,3,4,5,6,11,14,15,16,17,19
+"Then, James and Michael had a long argument. Afterwards Michael said to",816,15, Michael, James, Michael, Michael, James, James,circuit, James,0.8242,0.8242,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"While Charles and Jeremy were commuting to the office, Jeremy gave a computer to",620,16, Jeremy, Charles, Jeremy, Jeremy, Charles, Charles,circuit, Charles,0.4121,0.4121,0.0009,1,2,3,4,5,7,10,11,12,13,15
+"Afterwards, Jonathan and Joseph went to the restaurant. Joseph gave a computer to",724,17, Joseph, Jonathan, Joseph, Joseph, Jonathan, Jonathan,circuit, Jonathan,0.3555,0.3555,0.0031,1,4,5,6,7,9,11,12,13,14,16
+"Then, Thomas and Ryan had a lot of fun at the garden. Ryan gave a basketball to",75,20, Ryan, Thomas, Ryan, Ryan, Thomas, Thomas,circuit, Thomas,0.5664,0.5664,0.0049,1,3,4,5,6,11,14,15,16,17,19
+"After the lunch, Steven and James went to the school. James gave a snack to",671,18, James, Steven, James, James, Steven, Steven,circuit, Steven,0.3652,0.3652,0.0023,1,5,6,7,8,10,12,13,14,15,17
+The house Jonathan and Jason went to had a bone. Jason gave it to,882,16, Jason, Jonathan, Jason, Jason, Jonathan, Jonathan,circuit, Jonathan,0.2734,0.2734,0.0039,1,3,4,5,6,9,11,12,13,14,15
+"Then, Kelly and Rachel had a long argument. Afterwards Rachel said to",810,15, Rachel, Kelly, Rachel, Rachel, Kelly, Kelly,circuit, Kelly,0.5469,0.5469,0.0017,1,3,4,5,6,10,10,12,13,14,14
+"Then, Brandon and James were working at the school. James decided to give a bone to",154,19, James, Brandon, James, James, Brandon, Brandon,circuit, Brandon,0.3516,0.3516,0.0017,1,3,4,5,6,9,11,12,13,16,18
+"After Justin and Jason went to the office, Jason gave a necklace to",365,15, Jason, Justin, Jason, Jason, Justin, Justin,circuit, Justin,0.2754,0.2754,0.0156,1,2,3,4,5,7,9,10,11,12,14
+"After the lunch, Robert and Jennifer went to the station. Jennifer gave a drink to",702,18, Jennifer, Robert, Jennifer, Jennifer, Robert, Robert,circuit, Robert,0.5859,0.5859,0.0006,1,5,6,7,8,10,12,13,14,15,17
+"Then, Matthew and Jessica went to the garden. Jessica gave a necklace to",13,16, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.6914,0.6914,0.0023,1,3,4,5,6,8,10,11,12,13,15
+The station Jason and Brandon went to had a basketball. Brandon gave it to,891,16, Brandon, Jason, Brandon, Brandon, Jason, Jason,circuit, Jason,0.4863,0.4863,0.0037,1,3,4,5,6,9,11,12,13,14,15
+"Then, Elizabeth and Brian had a lot of fun at the garden. Brian gave a kiss to",73,20, Brian, Elizabeth, Brian, Brian, Elizabeth, Elizabeth,circuit, Elizabeth,0.5664,0.5664,0.0017,1,3,4,5,6,11,14,15,16,17,19
+"After the lunch, Laura and Elizabeth went to the store. Elizabeth gave a kiss to",641,18, Elizabeth, Laura, Elizabeth, Elizabeth, Laura, Laura,circuit, Laura,0.2695,0.2695,0.0022,1,5,6,7,8,9,12,13,14,15,17
+"After Elizabeth and Brandon went to the office, Brandon gave a ring to",360,15, Brandon, Elizabeth, Brandon, Brandon, Elizabeth, Elizabeth,circuit, Elizabeth,0.5508,0.5508,0.0037,1,2,3,4,5,7,9,10,11,12,14
+"Afterwards, Ryan and Jessica went to the house. Jessica gave a computer to",756,17, Jessica, Ryan, Jessica, Jessica, Ryan, Ryan,circuit, Ryan,0.4355,0.4355,0.0049,1,4,5,6,7,9,11,12,13,14,16
+"Then, Jessica and Christopher went to the restaurant. Christopher gave a ring to",16,16, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.7891,0.7891,0.0018,1,3,4,5,6,8,10,11,12,13,15
+The hospital Justin and Ryan went to had a bone. Ryan gave it to,866,16, Ryan, Justin, Ryan, Ryan, Justin, Justin,circuit, Justin,0.4141,0.4141,0.0041,1,3,4,5,6,8,11,12,13,14,15
+The store Patrick and Sarah went to had a snack. Sarah gave it to,839,16, Sarah, Patrick, Sarah, Sarah, Patrick, Patrick,circuit, Patrick,0.5586,0.5586,0.0028,1,3,4,5,6,9,11,12,13,14,15
+The office Kevin and Justin went to had a drink. Justin gave it to,878,16, Justin, Kevin, Justin, Justin, Kevin, Kevin,circuit, Kevin,0.582,0.582,0.0013,1,3,4,5,6,11,11,12,13,14,15
+"Then, Jason and Jessica were working at the hospital. Jessica decided to give a drink to",166,19, Jessica, Jason, Jessica, Jessica, Jason, Jason,circuit, Jason,0.5977,0.5977,0.0009,1,3,4,5,6,9,11,12,13,16,18
+"Then, Emily and Jessica had a lot of fun at the garden. Jessica gave a snack to",79,20, Jessica, Emily, Jessica, Jessica, Emily, Emily,circuit, Emily,0.3223,0.3223,0.0015,1,3,4,5,6,11,14,15,16,17,19
+"Then, Eric and Brandon were thinking about going to the office. Brandon wanted to give a drink to",238,21, Brandon, Eric, Brandon, Brandon, Eric, Eric,circuit, Eric,0.2656,0.2656,0.0055,1,3,4,5,6,11,13,14,15,18,20
+"Then, Andrew and Joseph were thinking about going to the office. Joseph wanted to give a drink to",238,21, Joseph, Andrew, Joseph, Joseph, Andrew, Andrew,circuit, Andrew,0.3086,0.3086,0.0025,1,3,4,5,6,10,13,14,15,18,20
+The store Kevin and Robert went to had a bone. Robert gave it to,834,16, Robert, Kevin, Robert, Robert, Kevin, Kevin,circuit, Kevin,0.3672,0.3672,0.0032,1,3,4,5,6,9,11,12,13,14,15
+"Then, Daniel and Michael were working at the school. Michael decided to give a bone to",154,19, Michael, Daniel, Michael, Michael, Daniel, Daniel,circuit, Daniel,0.4023,0.4023,0.0027,1,3,4,5,6,9,11,12,13,16,18
+"Then, Jennifer and Jessica went to the garden. Jessica gave a computer to",12,16, Jessica, Jennifer, Jessica, Jessica, Jennifer, Jennifer,circuit, Jennifer,0.4316,0.4316,0.0026,1,3,4,5,6,8,10,11,12,13,15
+"After the lunch, Mark and Richard went to the station. Richard gave a drink to",702,18, Richard, Mark, Richard, Richard, Mark, Mark,circuit, Mark,0.4746,0.4746,0.0049,1,5,6,7,8,10,12,13,14,15,17
+"Then, Joseph and James had a long argument. Afterwards James said to",831,15, James, Joseph, James, James, Joseph, Joseph,circuit, Joseph,0.7695,0.7695,0.0003,1,3,4,5,6,10,10,11,13,14,14
+"Then, Joseph and David had a long argument. Afterwards David said to",800,15, David, Joseph, David, David, Joseph, Joseph,circuit, Joseph,0.832,0.832,0.0006,1,3,4,5,6,10,10,11,13,14,14
+"After Brian and Daniel went to the garden, Daniel gave a necklace to",333,15, Daniel, Brian, Daniel, Daniel, Brian, Brian,circuit, Brian,0.4629,0.4629,0.0012,1,2,3,4,5,7,9,10,11,12,14
+"After Ryan and Christopher went to the school, Christopher gave a ring to",344,15, Christopher, Ryan, Christopher, Christopher, Ryan, Ryan,circuit, Ryan,0.249,0.249,0.0007,1,2,3,4,5,7,9,10,11,12,14
+"Then, William and Michael had a long argument. Afterwards Michael said to",770,15, Michael, William, Michael, Michael, William, William,circuit, William,0.6953,0.6953,0.0009,1,3,4,5,6,10,10,12,13,14,14
+The school Justin and Jason went to had a drink. Jason gave it to,862,16, Jason, Justin, Jason, Jason, Justin, Justin,circuit, Justin,0.5703,0.5703,0.0118,1,3,4,5,6,8,11,12,13,14,15
+"Then, Sarah and Andrew were thinking about going to the hospital. Andrew wanted to give a necklace to",229,21, Andrew, Sarah, Andrew, Andrew, Sarah, Sarah,circuit, Sarah,0.2988,0.2988,0.0024,1,3,4,5,6,10,13,14,15,18,20
+"After Jennifer and Michael went to the store, Michael gave a necklace to",325,15, Michael, Jennifer, Michael, Michael, Jennifer, Jennifer,circuit, Jennifer,0.6484,0.6484,0.0019,1,2,3,4,5,7,9,10,11,12,14
+"When Adam and John got a basketball at the house, John decided to give the basketball to",499,19, John, Adam, John, John, Adam, Adam,circuit, Adam,0.3047,0.3047,0.0092,1,2,3,4,5,6,11,12,13,16,18
+"After the lunch, John and David went to the store. David gave a computer to",644,18, David, John, David, David, John, John,circuit, John,0.5859,0.5859,0.0019,1,5,6,7,8,10,12,13,14,15,17
+"Then, Steven and Daniel went to the restaurant. Daniel gave a necklace to",21,16, Daniel, Steven, Daniel, Daniel, Steven, Steven,circuit, Steven,0.4238,0.4238,0.0014,1,3,4,5,6,8,10,11,12,13,15
+The garden Andrew and Joseph went to had a ring. Joseph gave it to,840,16, Joseph, Andrew, Joseph, Joseph, Andrew, Andrew,circuit, Andrew,0.5039,0.5039,0.0025,1,3,4,5,6,8,11,12,13,14,15
+"While Andrew and Matthew were working at the station, Matthew gave a basketball to",571,16, Matthew, Andrew, Matthew, Matthew, Andrew, Andrew,circuit, Andrew,0.252,0.252,0.0004,1,2,3,4,5,8,10,11,12,13,15
+"Then, William and John were working at the hospital. John decided to give a bone to",162,19, John, William, John, John, William, William,circuit, William,0.4941,0.4941,0.0008,1,3,4,5,6,9,11,12,13,16,18
+"Afterwards, Anthony and Jennifer went to the office. Jennifer gave a computer to",748,17, Jennifer, Anthony, Jennifer, Jennifer, Anthony, Anthony,circuit, Anthony,0.5977,0.5977,0.0028,1,4,5,6,7,9,11,12,13,14,16
+"After Robert and Michael went to the school, Michael gave a ring to",344,15, Michael, Robert, Michael, Michael, Robert, Robert,circuit, Robert,0.2754,0.2754,0.0004,1,2,3,4,5,7,9,10,11,12,14
+Friends Sarah and Jessica found a ring at the house. Jessica gave it to,944,16, Jessica, Sarah, Jessica, Jessica, Sarah, Sarah,circuit, Sarah,0.3984,0.3984,0.0002,1,2,3,4,5,6,11,12,13,14,15
+"Then, William and Matthew had a long argument. Afterwards Matthew said to",796,15, Matthew, William, Matthew, Matthew, William, William,circuit, William,0.7188,0.7188,0.0008,1,3,4,5,6,10,10,12,13,14,14
+"While Elizabeth and Andrew were commuting to the garden, Andrew gave a basketball to",587,16, Andrew, Elizabeth, Andrew, Andrew, Elizabeth, Elizabeth,circuit, Elizabeth,0.2734,0.2734,0.0037,1,2,3,4,5,7,10,11,12,13,15
+"Then, Jason and David were working at the station. David decided to give a kiss to",185,19, David, Jason, David, David, Jason, Jason,circuit, Jason,0.4414,0.4414,0.0028,1,3,4,5,6,9,11,12,13,16,18
+"While Patrick and James were working at the store, James gave a kiss to",513,16, James, Patrick, James, James, Patrick, Patrick,circuit, Patrick,0.3047,0.3047,0.0016,1,2,3,4,5,8,10,11,12,13,15
+"Then, Rachel and Robert had a long argument. Afterwards Robert said to",827,15, Robert, Rachel, Robert, Robert, Rachel, Rachel,circuit, Rachel,0.7695,0.7695,0.0023,1,3,4,5,6,10,10,11,13,14,14
+"Afterwards, Adam and Brandon went to the station. Brandon gave a drink to",766,17, Brandon, Adam, Brandon, Brandon, Adam, Adam,circuit, Adam,0.3027,0.3027,0.0007,1,4,5,6,7,9,11,12,13,14,16
+"Then, Anthony and Joseph had a long argument. Afterwards Joseph said to",801,15, Joseph, Anthony, Joseph, Joseph, Anthony, Anthony,circuit, Anthony,0.4707,0.4707,0.0015,1,3,4,5,6,10,10,12,13,14,14
+"While Andrew and John were commuting to the house, John gave a drink to",630,16, John, Andrew, John, John, Andrew, Andrew,circuit, Andrew,0.3223,0.3223,0.0028,1,2,3,4,5,7,10,11,12,13,15
+"While Brian and Jennifer were working at the station, Jennifer gave a drink to",574,16, Jennifer, Brian, Jennifer, Jennifer, Brian, Brian,circuit, Brian,0.3945,0.3945,0.0004,1,2,3,4,5,8,10,11,12,13,15
+"After the lunch, Andrew and Matthew went to the store. Matthew gave a kiss to",641,18, Matthew, Andrew, Matthew, Matthew, Andrew, Andrew,circuit, Andrew,0.5742,0.5742,0.0005,1,5,6,7,8,10,12,13,14,15,17
+"Then, Jonathan and Robert were working at the office. Robert decided to give a bone to",170,19, Robert, Jonathan, Robert, Robert, Jonathan, Jonathan,circuit, Jonathan,0.7266,0.7266,0.0016,1,3,4,5,6,9,11,12,13,16,18
+"While Jason and Jessica were working at the office, Jessica gave a drink to",558,16, Jessica, Jason, Jessica, Jessica, Jason, Jason,circuit, Jason,0.75,0.75,0.0006,1,2,3,4,5,8,10,11,12,13,15
+"After Jason and Jessica went to the station, Jessica gave a necklace to",381,15, Jessica, Jason, Jessica, Jessica, Jason, Jason,circuit, Jason,0.2695,0.2695,0.0056,1,2,3,4,5,7,9,10,11,12,14
+"Then, Anthony and Andrew had a lot of fun at the house. Andrew gave a ring to",112,20, Andrew, Anthony, Andrew, Andrew, Anthony, Anthony,circuit, Anthony,0.4473,0.4473,0.0014,1,3,4,5,6,11,14,15,16,17,19
+"When Richard and William got a drink at the restaurant, William decided to give the drink to",470,19, William, Richard, William, William, Richard, Richard,circuit, Richard,0.291,0.291,0.005,1,2,3,4,5,6,11,12,13,16,18
+"While Elizabeth and David were commuting to the office, David gave a kiss to",617,16, David, Elizabeth, David, David, Elizabeth, Elizabeth,circuit, Elizabeth,0.4863,0.4863,0.0001,1,2,3,4,5,7,10,11,12,13,15
+The school Adam and Sarah went to had a kiss. Sarah gave it to,857,16, Sarah, Adam, Sarah, Sarah, Adam, Adam,circuit, Adam,0.6758,0.6758,0.0003,1,3,4,5,6,9,11,12,13,14,15
+"Afterwards, Crystal and Daniel went to the office. Daniel gave a computer to",748,17, Daniel, Crystal, Daniel, Daniel, Crystal, Crystal,circuit, Crystal,0.6797,0.6797,0.0091,1,4,5,6,7,9,11,12,13,14,16
+"When Matthew and Jessica got a kiss at the garden, Jessica decided to give the kiss to",457,19, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.1348,0.1348,0.0072,1,2,3,4,5,6,11,12,13,16,18
+The store Jamie and Kevin went to had a drink. Kevin gave it to,838,16, Kevin, Jamie, Kevin, Kevin, Jamie, Jamie,circuit, Jamie,0.416,0.416,0.0046,1,3,4,5,6,9,11,12,13,14,15
+"Then, Joseph and Robert had a long argument. Afterwards Robert said to",810,15, Robert, Joseph, Robert, Robert, Joseph, Joseph,circuit, Joseph,0.7773,0.7773,0.0004,1,3,4,5,6,10,10,12,13,14,14
+Friends Kevin and Elizabeth found a basketball at the station. Elizabeth gave it to,955,16, Elizabeth, Kevin, Elizabeth, Elizabeth, Kevin, Kevin,circuit, Kevin,0.3789,0.3789,0.0006,1,2,3,4,5,6,11,12,13,14,15
+"Then, Andrew and Michael had a long argument, and afterwards Michael said to",261,16, Michael, Andrew, Michael, Michael, Andrew, Andrew,circuit, Andrew,0.6758,0.6758,0.0004,1,3,4,5,6,10,10,13,14,15,15
+Friends Steven and William found a kiss at the store. William gave it to,897,16, William, Steven, William, William, Steven, Steven,circuit, Steven,0.7383,0.7383,0.0008,1,2,3,4,5,6,11,12,13,14,15
+"Then, Joseph and Jessica had a long argument, and afterwards Jessica said to",286,16, Jessica, Joseph, Jessica, Jessica, Joseph, Joseph,circuit, Joseph,0.7148,0.7148,0.0001,1,3,4,5,6,10,10,13,14,15,15
+"When Kyle and Joseph got a ring at the store, Joseph decided to give it to",384,18, Joseph, Kyle, Joseph, Joseph, Kyle, Kyle,circuit, Kyle,0.4453,0.4453,0.0009,1,2,3,4,5,6,11,12,13,16,17
+"Then, Sarah and Andrew had a lot of fun at the school. Andrew gave a ring to",88,20, Andrew, Sarah, Andrew, Andrew, Sarah, Sarah,circuit, Sarah,0.3145,0.3145,0.0025,1,3,4,5,6,11,14,15,16,17,19
+The hospital Andrew and Daniel went to had a kiss. Daniel gave it to,865,16, Daniel, Andrew, Daniel, Daniel, Andrew, Andrew,circuit, Andrew,0.5859,0.5859,0.0005,1,3,4,5,6,9,11,12,13,14,15
+"While Steven and Robert were commuting to the office, Robert gave a bone to",618,16, Robert, Steven, Robert, Robert, Steven, Steven,circuit, Steven,0.3262,0.3262,0.0004,1,2,3,4,5,7,10,11,12,13,15
+The hospital Brian and Jonathan went to had a basketball. Jonathan gave it to,867,16, Jonathan, Brian, Jonathan, Jonathan, Brian, Brian,circuit, Brian,0.5234,0.5234,0.002,1,3,4,5,6,9,11,12,13,14,15
+"Then, Andrew and Robert had a lot of fun at the office. Robert gave a bone to",106,20, Robert, Andrew, Robert, Robert, Andrew, Andrew,circuit, Andrew,0.5352,0.5352,0.0034,1,3,4,5,6,11,14,15,16,17,19
+"Then, Jonathan and William were working at the restaurant. William decided to give a computer to",148,19, William, Jonathan, William, William, Jonathan, Jonathan,circuit, Jonathan,0.582,0.582,0.0083,1,3,4,5,6,9,11,12,13,16,18
+"Afterwards, Matthew and Jessica went to the hospital. Jessica gave a kiss to",737,17, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.2412,0.2412,0.0016,1,4,5,6,7,9,11,12,13,14,16
+"Then, Amy and Jessica had a lot of fun at the restaurant. Jessica gave a kiss to",81,20, Jessica, Amy, Jessica, Jessica, Amy, Amy,circuit, Amy,0.3438,0.3438,0.0028,1,3,4,5,6,11,14,15,16,17,19
+"When James and Jennifer got a kiss at the station, Jennifer decided to give it to",441,18, Jennifer, James, Jennifer, Jennifer, James, James,circuit, James,0.377,0.377,0.0009,1,2,3,4,5,6,11,12,13,16,17
+"Then, Sarah and Robert had a long argument. Afterwards Robert said to",814,15, Robert, Sarah, Robert, Robert, Sarah, Sarah,circuit, Sarah,0.6484,0.6484,0.0018,1,3,4,5,6,10,10,12,13,14,14
+"Then, Amy and Andrew were working at the hospital. Andrew decided to give a necklace to",165,19, Andrew, Amy, Andrew, Andrew, Amy, Amy,circuit, Amy,0.7891,0.7891,0.0007,1,3,4,5,6,9,11,12,13,16,18
+Friends William and Andrew found a bone at the store. Andrew gave it to,898,16, Andrew, William, Andrew, Andrew, William, William,circuit, William,0.3555,0.3555,0.0014,1,2,3,4,5,6,11,12,13,14,15
+"Then, Andrew and Matthew had a long argument. Afterwards Matthew said to",783,15, Matthew, Andrew, Matthew, Matthew, Andrew, Andrew,circuit, Andrew,0.5156,0.5156,0.0004,1,3,4,5,6,10,10,12,13,14,14
+Friends James and Jennifer found a computer at the garden. Jennifer gave it to,908,16, Jennifer, James, Jennifer, Jennifer, James, James,circuit, James,0.4297,0.4297,0.0002,1,2,3,4,5,6,11,12,13,14,15
+"Then, Joseph and Michael had a long argument. Afterwards Michael said to",829,15, Michael, Joseph, Michael, Michael, Joseph, Joseph,circuit, Joseph,0.8359,0.8359,0.0003,1,3,4,5,6,10,10,12,13,14,14
+"Then, Kevin and Sarah were working at the station. Sarah decided to give a ring to",184,19, Sarah, Kevin, Sarah, Sarah, Kevin, Kevin,circuit, Kevin,0.416,0.416,0.0067,1,3,4,5,6,9,11,12,13,16,18
+Friends Jonathan and Brandon found a ring at the house. Brandon gave it to,944,16, Brandon, Jonathan, Brandon, Brandon, Jonathan, Jonathan,circuit, Jonathan,0.5859,0.5859,0.0007,1,2,3,4,5,6,11,12,13,14,15
+"Then, Rachel and Eric had a long argument. Afterwards Eric said to",828,15, Eric, Rachel, Eric, Eric, Rachel, Rachel,circuit, Rachel,0.7109,0.7109,0.0016,1,3,4,5,6,10,10,12,13,14,14
+"Then, William and John had a long argument. Afterwards John said to",774,15, John, William, John, John, William, William,circuit, William,0.75,0.75,0.0009,1,3,4,5,6,10,10,12,13,14,14
+"Then, James and Matthew had a long argument, and afterwards Matthew said to",297,16, Matthew, James, Matthew, Matthew, James, James,circuit, James,0.707,0.707,0.0006,1,3,4,5,6,10,10,13,14,15,15
+Friends James and Christopher found a necklace at the house. Christopher gave it to,949,16, Christopher, James, Christopher, Christopher, James, James,circuit, James,0.4551,0.4551,0.0003,1,2,3,4,5,6,11,12,13,14,15
+"After the lunch, Kyle and Sarah went to the restaurant. Sarah gave a snack to",663,18, Sarah, Kyle, Sarah, Sarah, Kyle, Kyle,circuit, Kyle,0.5039,0.5039,0.0081,1,5,6,7,8,10,12,13,14,15,17
+"After the lunch, John and James went to the store. James gave a basketball to",643,18, James, John, James, James, John, John,circuit, John,0.4707,0.4707,0.0071,1,5,6,7,8,10,12,13,14,15,17
+Friends David and Matthew found a snack at the house. Matthew gave it to,951,16, Matthew, David, Matthew, Matthew, David, David,circuit, David,0.668,0.668,0.0006,1,2,3,4,5,6,11,12,13,14,15
+"While Robert and Michael were commuting to the house, Michael gave a drink to",630,16, Michael, Robert, Michael, Michael, Robert, Robert,circuit, Robert,0.3594,0.3594,0.0006,1,2,3,4,5,7,10,11,12,13,15
+Friends James and Daniel found a snack at the house. Daniel gave it to,951,16, Daniel, James, Daniel, Daniel, James, James,circuit, James,0.707,0.707,0.001,1,2,3,4,5,6,11,12,13,14,15
+"After Matthew and Jessica went to the house, Jessica gave a bone to",370,15, Jessica, Matthew, Jessica, Jessica, Matthew, Matthew,circuit, Matthew,0.293,0.293,0.0014,1,2,3,4,5,7,9,10,11,12,14
+"Then, Christopher and Michael were working at the school. Michael decided to give a ring to",152,19, Michael, Christopher, Michael, Michael, Christopher, Christopher,circuit, Christopher,0.2295,0.2295,0.0019,1,3,4,5,6,9,11,12,13,16,18
+"After James and Matthew went to the hospital, Matthew gave a necklace to",357,15, Matthew, James, Matthew, Matthew, James, James,circuit, James,0.2891,0.2891,0.0022,1,2,3,4,5,7,9,10,11,12,14
+"While Brandon and Joseph were commuting to the station, Joseph gave a kiss to",633,16, Joseph, Brandon, Joseph, Joseph, Brandon, Brandon,circuit, Brandon,0.3555,0.3555,0.0011,1,2,3,4,5,7,10,11,12,13,15
+"While Sarah and David were commuting to the restaurant, David gave a kiss to",593,16, David, Sarah, David, David, Sarah, Sarah,circuit, Sarah,0.4512,0.4512,0.0008,1,2,3,4,5,7,10,11,12,13,15
+"Afterwards, Robert and James went to the office. James gave a drink to",750,17, James, Robert, James, James, Robert, Robert,circuit, Robert,0.5547,0.5547,0.004,1,4,5,6,7,9,11,12,13,14,16
+"Then, Daniel and Jessica had a long argument, and afterwards Jessica said to",297,16, Jessica, Daniel, Jessica, Jessica, Daniel, Daniel,circuit, Daniel,0.6992,0.6992,0.0001,1,3,4,5,6,10,10,13,14,15,15
+"While Andrew and Robert were commuting to the office, Robert gave a bone to",618,16, Robert, Andrew, Robert, Robert, Andrew, Andrew,circuit, Andrew,0.3672,0.3672,0.0004,1,2,3,4,5,7,10,11,12,13,15
+"When Adam and Eric got a computer at the store, Eric decided to give it to",388,18, Eric, Adam, Eric, Eric, Adam, Adam,circuit, Adam,0.2051,0.2051,0.0014,1,2,3,4,5,6,11,12,13,16,17
+"While Thomas and Brandon were working at the station, Brandon gave a snack to",575,16, Brandon, Thomas, Brandon, Brandon, Thomas, Thomas,circuit, Thomas,0.3926,0.3926,0.0007,1,2,3,4,5,8,10,11,12,13,15
+The school Anthony and Robert went to had a necklace. Robert gave it to,861,16, Robert, Anthony, Robert, Robert, Anthony, Anthony,circuit, Anthony,0.5391,0.5391,0.0064,1,3,4,5,6,9,11,12,13,14,15
+"Then, Joseph and David had a lot of fun at the restaurant. David gave a kiss to",81,20, David, Joseph, David, David, Joseph, Joseph,circuit, Joseph,0.4648,0.4648,0.001,1,3,4,5,6,11,14,15,16,17,19
+"Then, Rachel and Elizabeth had a long argument. Afterwards Elizabeth said to",802,15, Elizabeth, Rachel, Elizabeth, Elizabeth, Rachel, Rachel,circuit, Rachel,0.6133,0.6133,0.0001,1,3,4,5,6,10,10,12,13,14,14
+"While Adam and Robert were working at the restaurant, Robert gave a snack to",535,16, Robert, Adam, Robert, Robert, Adam, Adam,circuit, Adam,0.3691,0.3691,0.0018,1,2,3,4,5,7,10,11,12,13,15
+"Then, Ryan and Robert had a lot of fun at the station. Robert gave a drink to",126,20, Robert, Ryan, Robert, Robert, Ryan, Ryan,circuit, Ryan,0.2793,0.2793,0.0066,1,3,4,5,6,11,14,15,16,17,19
+Friends Amy and Andrew found a computer at the store. Andrew gave it to,900,16, Andrew, Amy, Andrew, Andrew, Amy, Amy,circuit, Amy,0.5977,0.5977,0.0003,1,2,3,4,5,6,11,12,13,14,15
+"Then, Justin and Christopher were working at the restaurant. Christopher decided to give a drink to",150,19, Christopher, Justin, Christopher, Christopher, Justin, Justin,circuit, Justin,0.625,0.625,0.0009,1,3,4,5,6,9,11,12,13,16,18
+"Then, James and Daniel had a long argument. Afterwards Daniel said to",795,15, Daniel, James, Daniel, Daniel, James, James,circuit, James,0.7852,0.7852,0.0003,1,3,4,5,6,10,10,12,13,14,14
+The station Richard and Kevin went to had a kiss. Kevin gave it to,889,16, Kevin, Richard, Kevin, Kevin, Richard, Richard,circuit, Richard,0.3887,0.3887,0.001,1,3,4,5,6,9,11,12,13,14,15
+"Then, David and Jessica were working at the restaurant. Jessica decided to give a necklace to",149,19, Jessica, David, Jessica, Jessica, David, David,circuit, David,0.6719,0.6719,0.0048,1,3,4,5,6,9,11,12,13,16,18
+The house Andrew and Jennifer went to had a computer. Jennifer gave it to,884,16, Jennifer, Andrew, Jennifer, Jennifer, Andrew, Andrew,circuit, Andrew,0.4844,0.4844,0.0035,1,3,4,5,6,9,11,12,13,14,15
+"While Andrew and Jennifer were commuting to the house, Jennifer gave a computer to",628,16, Jennifer, Andrew, Jennifer, Jennifer, Andrew, Andrew,circuit, Andrew,0.2637,0.2637,0.0017,1,2,3,4,5,7,10,11,12,13,15
+"After the lunch, Joseph and Christopher went to the restaurant. Christopher gave a necklace to",661,18, Christopher, Joseph, Christopher, Christopher, Joseph, Joseph,circuit, Joseph,0.582,0.582,0.0003,1,5,6,7,8,10,12,13,14,15,17
+"While William and Matthew were working at the garden, Matthew gave a drink to",526,16, Matthew, William, Matthew, Matthew, William, William,circuit, William,0.5781,0.5781,0.0002,1,2,3,4,5,8,10,11,12,13,15
+"Then, Robert and James were working at the station. James decided to give a snack to",191,19, James, Robert, James, James, Robert, Robert,circuit, Robert,0.4844,0.4844,0.0011,1,3,4,5,6,9,11,12,13,16,18
+"Then, Brandon and Matthew had a long argument. Afterwards Matthew said to",774,15, Matthew, Brandon, Matthew, Matthew, Brandon, Brandon,circuit, Brandon,0.7031,0.7031,0.0004,1,3,4,5,6,10,10,12,13,14,14
+"After David and Christopher went to the restaurant, Christopher gave a basketball to",339,15, Christopher, David, Christopher, Christopher, David, David,circuit, David,0.373,0.373,0.001,1,2,3,4,5,7,9,10,11,12,14
+"While Adam and William were commuting to the restaurant, William gave a snack to",599,16, William, Adam, William, William, Adam, Adam,circuit, Adam,0.4297,0.4297,0.0025,1,2,3,4,5,7,10,11,12,13,15
+"Afterwards, Jeremy and John went to the garden. John gave a computer to",716,17, John, Jeremy, John, John, Jeremy, Jeremy,circuit, Jeremy,0.5898,0.5898,0.0029,1,4,5,6,7,9,11,12,13,14,16
+"Afterwards, Thomas and Eric went to the station. Eric gave a kiss to",761,17, Eric, Thomas, Eric, Eric, Thomas, Thomas,circuit, Thomas,0.6289,0.6289,0.0015,1,4,5,6,7,9,11,12,13,14,16
+"Then, John and Jennifer had a long argument, and afterwards Jennifer said to",308,16, Jennifer, John, Jennifer, Jennifer, John, John,circuit, John,0.7148,0.7148,0.0001,1,3,4,5,6,10,10,13,14,15,15
+"Afterwards, Elizabeth and James went to the school. James gave a ring to",728,17, James, Elizabeth, James, James, Elizabeth, Elizabeth,circuit, Elizabeth,0.3652,0.3652,0.0014,1,4,5,6,7,9,11,12,13,14,16
+"Afterwards, Justin and David went to the garden. David gave a drink to",718,17, David, Justin, David, David, Justin, Justin,circuit, Justin,0.6562,0.6562,0.0008,1,4,5,6,7,9,11,12,13,14,16
+"While David and Jennifer were commuting to the restaurant, Jennifer gave a drink to",598,16, Jennifer, David, Jennifer, Jennifer, David, David,circuit, David,0.3086,0.3086,0.0011,1,2,3,4,5,7,10,11,12,13,15
+"After Emily and Michael went to the station, Michael gave a snack to",383,15, Michael, Emily, Michael, Michael, Emily, Emily,circuit, Emily,0.2988,0.2988,0.0005,1,2,3,4,5,7,9,10,11,12,14
+"After the lunch, Steven and Daniel went to the restaurant. Daniel gave a computer to",660,18, Daniel, Steven, Daniel, Daniel, Steven, Steven,circuit, Steven,0.5938,0.5938,0.0023,1,5,6,7,8,10,12,13,14,15,17
+Friends Justin and John found a computer at the school. John gave it to,924,16, John, Justin, John, John, Justin, Justin,circuit, Justin,0.7617,0.7617,0.001,1,2,3,4,5,6,11,12,13,14,15
+The hospital John and Jessica went to had a kiss. Jessica gave it to,865,16, Jessica, John, Jessica, Jessica, John, John,circuit, John,0.582,0.582,0.0006,1,3,4,5,6,9,11,12,13,14,15
+"Then, Jason and Jennifer went to the restaurant. Jennifer gave a drink to",22,16, Jennifer, Jason, Jennifer, Jennifer, Jason, Jason,circuit, Jason,0.668,0.668,0.0108,1,3,4,5,6,8,10,11,12,13,15
+"Then, William and James went to the station. James gave a snack to",63,16, James, William, James, James, William, William,circuit, William,0.3516,0.3516,0.0025,1,3,4,5,6,8,10,11,12,13,15
+"While Kevin and James were commuting to the office, James gave a ring to",616,16, James, Kevin, James, James, Kevin, Kevin,circuit, Kevin,0.2373,0.2373,0.0019,1,2,3,4,5,7,10,11,12,13,15
+"While Joseph and Matthew were commuting to the school, Matthew gave a kiss to",601,16, Matthew, Joseph, Matthew, Matthew, Joseph, Joseph,circuit, Joseph,0.5195,0.5195,0.0001,1,2,3,4,5,7,10,11,12,13,15
+"When Robert and James got a computer at the garden, James decided to give the computer to",460,19, James, Robert, James, James, Robert, Robert,circuit, Robert,0.2051,0.2051,0.0027,1,2,3,4,5,6,11,12,13,16,18
+"Then, Brian and Christopher had a long argument. Afterwards Christopher said to",821,15, Christopher, Brian, Christopher, Christopher, Brian, Brian,circuit, Brian,0.7578,0.7578,0.0004,1,3,4,5,6,10,10,12,13,14,14
+"When Brandon and David got a ring at the station, David decided to give the ring to",504,19, David, Brandon, David, David, Brandon, Brandon,circuit, Brandon,0.2393,0.2393,0.0047,1,2,3,4,5,6,11,12,13,16,18
+"After Daniel and Matthew went to the hospital, Matthew gave a ring to",352,15, Matthew, Daniel, Matthew, Matthew, Daniel, Daniel,circuit, Daniel,0.2236,0.2236,0.001,1,2,3,4,5,7,9,10,11,12,14
+Friends Adam and Anthony found a snack at the station. Anthony gave it to,959,16, Anthony, Adam, Anthony, Anthony, Adam, Adam,circuit, Adam,0.5078,0.5078,0.0001,1,2,3,4,5,6,11,12,13,14,15
+Friends David and Daniel found a snack at the school. Daniel gave it to,927,16, Daniel, David, Daniel, Daniel, David, David,circuit, David,0.5859,0.5859,0.0009,1,2,3,4,5,6,11,12,13,14,15
+"Then, Justin and Jessica had a long argument, and afterwards Jessica said to",270,16, Jessica, Justin, Jessica, Jessica, Justin, Justin,circuit, Justin,0.6211,0.6211,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"Afterwards, Anthony and Michael went to the store. Michael gave a ring to",704,17, Michael, Anthony, Michael, Michael, Anthony, Anthony,circuit, Anthony,0.4004,0.4004,0.0013,1,4,5,6,7,9,11,12,13,14,16
+"Then, Robert and Michael had a lot of fun at the restaurant. Michael gave a kiss to",81,20, Michael, Robert, Michael, Michael, Robert, Robert,circuit, Robert,0.3516,0.3516,0.0009,1,3,4,5,6,11,14,15,16,17,19
+"Then, Jason and Michael were working at the station. Michael decided to give a drink to",190,19, Michael, Jason, Michael, Michael, Jason, Jason,circuit, Jason,0.4043,0.4043,0.0033,1,3,4,5,6,9,11,12,13,16,18
+"When James and Daniel got a snack at the store, Daniel decided to give the snack to",455,19, Daniel, James, Daniel, Daniel, James, James,circuit, James,0.3809,0.3809,0.0012,1,2,3,4,5,6,11,12,13,16,18
+"While Brandon and Jennifer were commuting to the office, Jennifer gave a bone to",618,16, Jennifer, Brandon, Jennifer, Jennifer, Brandon, Brandon,circuit, Brandon,0.1709,0.1709,0.0002,1,2,3,4,5,7,10,11,12,13,15
+"After John and Daniel went to the restaurant, Daniel gave a computer to",340,15, Daniel, John, Daniel, Daniel, John, John,circuit, John,0.5,0.5,0.0023,1,2,3,4,5,7,9,10,11,12,14
+The office Jeremy and Amy went to had a kiss. Amy gave it to,873,16, Amy, Jeremy, Amy, Amy, Jeremy, Jeremy,circuit, Jeremy,0.6016,0.6016,0.0015,1,3,4,5,6,9,11,12,13,14,15
+"Then, Amy and Jennifer went to the house. Jennifer gave a kiss to",49,16, Jennifer, Amy, Jennifer, Jennifer, Amy, Amy,circuit, Amy,0.2148,0.2148,0.0037,1,3,4,5,6,8,10,11,12,13,15
+The house Steven and Ryan went to had a snack. Ryan gave it to,887,16, Ryan, Steven, Ryan, Ryan, Steven, Steven,circuit, Steven,0.4023,0.4023,0.0095,1,3,4,5,6,9,11,12,13,14,15
+"Then, Ryan and Andrew had a long argument, and afterwards Andrew said to",261,16, Andrew, Ryan, Andrew, Andrew, Ryan, Ryan,circuit, Ryan,0.5625,0.5625,0.0004,1,3,4,5,6,10,10,13,14,15,15
+"After David and Michael went to the station, Michael gave a computer to",380,15, Michael, David, Michael, Michael, David, David,circuit, David,0.3438,0.3438,0.0013,1,2,3,4,5,7,9,10,11,12,14
+"Then, Robert and David had a long argument, and afterwards David said to",280,16, David, Robert, David, David, Robert, Robert,circuit, Robert,0.6719,0.6719,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"While Andrew and Matthew were working at the garden, Matthew gave a computer to",524,16, Matthew, Andrew, Matthew, Matthew, Andrew, Andrew,circuit, Andrew,0.4512,0.4512,0.0003,1,2,3,4,5,8,10,11,12,13,15
+"Then, Robert and Christopher had a long argument. Afterwards Christopher said to",827,15, Christopher, Robert, Christopher, Christopher, Robert, Robert,circuit, Robert,0.7227,0.7227,0.0002,1,3,4,5,6,10,10,11,13,14,14
+"While Kevin and Michael were working at the garden, Michael gave a ring to",520,16, Michael, Kevin, Michael, Michael, Kevin, Kevin,circuit, Kevin,0.4492,0.4492,0.0002,1,2,3,4,5,8,10,11,12,13,15
+Friends Andrew and Christopher found a ring at the office. Christopher gave it to,936,16, Christopher, Andrew, Christopher, Christopher, Andrew, Andrew,circuit, Andrew,0.6914,0.6914,0.0001,1,2,3,4,5,6,11,12,13,14,15
+"Then, Aaron and Adam had a long argument. Afterwards Adam said to",794,15, Adam, Aaron, Adam, Adam, Aaron, Aaron,circuit, Aaron,0.7578,0.7578,0.0009,1,3,4,5,6,10,10,12,13,14,14
+"Then, Ryan and Jennifer had a long argument. Afterwards Jennifer said to",769,15, Jennifer, Ryan, Jennifer, Jennifer, Ryan, Ryan,circuit, Ryan,0.7188,0.7188,0.0005,1,3,4,5,6,10,10,12,13,14,14
+"After the lunch, William and Joseph went to the station. Joseph gave a drink to",702,18, Joseph, William, Joseph, Joseph, William, William,circuit, William,0.4453,0.4453,0.0028,1,5,6,7,8,10,12,13,14,15,17
+"Then, Brian and Robert had a long argument. Afterwards Robert said to",823,15, Robert, Brian, Robert, Robert, Brian, Brian,circuit, Brian,0.8047,0.8047,0.0002,1,3,4,5,6,10,10,12,13,14,14
+"Afterwards, Rachel and Kevin went to the hospital. Kevin gave a kiss to",737,17, Kevin, Rachel, Kevin, Kevin, Rachel, Rachel,circuit, Rachel,0.2988,0.2988,0.0035,1,4,5,6,7,9,11,12,13,14,16
+Friends Jeremy and John found a bone at the house. John gave it to,946,16, John, Jeremy, John, John, Jeremy, Jeremy,circuit, Jeremy,0.4785,0.4785,0.0024,1,2,3,4,5,6,11,12,13,14,15
+"Then, Andrew and Jennifer were working at the store. Jennifer decided to give a basketball to",131,19, Jennifer, Andrew, Jennifer, Jennifer, Andrew, Andrew,circuit, Andrew,0.4395,0.4395,0.0032,1,3,4,5,6,9,11,12,13,16,18
+The station Andrew and James went to had a bone. James gave it to,890,16, James, Andrew, James, James, Andrew, Andrew,circuit, Andrew,0.3418,0.3418,0.0033,1,3,4,5,6,9,11,12,13,14,15
+"Then, Andrew and Christopher were thinking about going to the office. Christopher wanted to give a basketball to",235,21, Christopher, Andrew, Christopher, Christopher, Andrew, Andrew,circuit, Andrew,0.2236,0.2236,0.0017,1,3,4,5,6,10,13,14,15,18,20
+The store Adam and Jessica went to had a computer. Jessica gave it to,836,16, Jessica, Adam, Jessica, Jessica, Adam, Adam,circuit, Adam,0.375,0.375,0.0065,1,3,4,5,6,9,11,12,13,14,15
+"Then, Joseph and Matthew had a long argument, and afterwards Matthew said to",267,16, Matthew, Joseph, Matthew, Matthew, Joseph, Joseph,circuit, Joseph,0.7656,0.7656,0.0004,1,3,4,5,6,10,10,13,14,15,15
+"After the lunch, David and Christopher went to the restaurant. Christopher gave a kiss to",657,18, Christopher, David, Christopher, Christopher, David, David,circuit, David,0.4746,0.4746,0.0008,1,5,6,7,8,10,12,13,14,15,17
+Friends Robert and Jessica found a necklace at the office. Jessica gave it to,941,16, Jessica, Robert, Jessica, Jessica, Robert, Robert,circuit, Robert,0.668,0.668,0.0002,1,2,3,4,5,6,11,12,13,14,15
+"After the lunch, Brandon and Matthew went to the store. Matthew gave a snack to",647,18, Matthew, Brandon, Matthew, Matthew, Brandon, Brandon,circuit, Brandon,0.4141,0.4141,0.001,1,5,6,7,8,9,12,13,14,15,17
+"When James and Jessica got a basketball at the office, Jessica decided to give the basketball to",491,19, Jessica, James, Jessica, Jessica, James, James,circuit, James,0.3262,0.3262,0.0087,1,2,3,4,5,6,11,12,13,16,18
+"Then, William and Jennifer had a lot of fun at the garden. Jennifer gave a necklace to",77,20, Jennifer, William, Jennifer, Jennifer, William, William,circuit, William,0.5898,0.5898,0.0065,1,3,4,5,6,11,14,15,16,17,19
+"Then, Jessica and Christopher had a long argument, and afterwards Christopher said to",303,16, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.5117,0.5117,0.0004,1,3,4,5,6,10,10,13,14,15,15
+"Then, Robert and David had a long argument, and afterwards David said to",292,16, David, Robert, David, David, Robert, Robert,circuit, Robert,0.6406,0.6406,0.0002,1,3,4,5,6,10,10,13,14,15,15
+"After Steven and Jason went to the house, Jason gave a basketball to",371,15, Jason, Steven, Jason, Jason, Steven, Steven,circuit, Steven,0.377,0.377,0.0065,1,2,3,4,5,7,9,10,11,12,14
+"After Rachel and Robert went to the house, Robert gave a necklace to",373,15, Robert, Rachel, Robert, Robert, Rachel, Rachel,circuit, Rachel,0.7539,0.7539,0.0054,1,2,3,4,5,7,9,10,11,12,14
+"Then, Joseph and Matthew had a long argument, and afterwards Matthew said to",283,16, Matthew, Joseph, Matthew, Matthew, Joseph, Joseph,circuit, Joseph,0.7656,0.7656,0.0004,1,3,4,5,6,10,10,13,14,15,15
+"After Brandon and Matthew went to the school, Matthew gave a kiss to",345,15, Matthew, Brandon, Matthew, Matthew, Brandon, Brandon,circuit, Brandon,0.3262,0.3262,0.0008,1,2,3,4,5,7,9,10,11,12,14
+"While Eric and Robert were commuting to the restaurant, Robert gave a computer to",596,16, Robert, Eric, Robert, Robert, Eric, Eric,circuit, Eric,0.4766,0.4766,0.0015,1,2,3,4,5,7,10,11,12,13,15
+"When Jason and Ryan got a kiss at the restaurant, Ryan decided to give the kiss to",465,19, Ryan, Jason, Ryan, Ryan, Jason, Jason,circuit, Jason,0.3613,0.3613,0.0116,1,2,3,4,5,6,11,12,13,16,18
+The garden Brian and William went to had a bone. William gave it to,842,16, William, Brian, William, William, Brian, Brian,circuit, Brian,0.3613,0.3613,0.0015,1,3,4,5,6,9,11,12,13,14,15
+"Then, Richard and Justin had a long argument. Afterwards Justin said to",815,15, Justin, Richard, Justin, Justin, Richard, Richard,circuit, Richard,0.6953,0.6953,0.0002,1,3,4,5,6,10,10,11,13,14,14
+"Then, Jessica and Christopher were working at the house. Christopher decided to give a necklace to",181,19, Christopher, Jessica, Christopher, Christopher, Jessica, Jessica,circuit, Jessica,0.7734,0.7734,0.0012,1,3,4,5,6,9,11,12,13,16,18
+"When Elizabeth and Michael got a kiss at the school, Michael decided to give the kiss to",473,19, Michael, Elizabeth, Michael, Michael, Elizabeth, Elizabeth,circuit, Elizabeth,0.4316,0.4316,0.0096,1,2,3,4,5,6,11,12,13,16,18
+"Afterwards, Kyle and David went to the house. David gave a computer to",756,17, David, Kyle, David, David, Kyle, Kyle,circuit, Kyle,0.5977,0.5977,0.004,1,4,5,6,7,9,11,12,13,14,16
+"Then, Amy and Kevin had a long argument, and afterwards Kevin said to",315,16, Kevin, Amy, Kevin, Kevin, Amy, Amy,circuit, Amy,0.5625,0.5625,0.0009,1,3,4,5,6,10,10,13,14,15,15
+"After the lunch, Anthony and Robert went to the restaurant. Robert gave a kiss to",657,18, Robert, Anthony, Robert, Robert, Anthony, Anthony,circuit, Anthony,0.5195,0.5195,0.0027,1,5,6,7,8,10,12,13,14,15,17
+"Then, Charles and Justin had a long argument. Afterwards Justin said to",771,15, Justin, Charles, Justin, Justin, Charles, Charles,circuit, Charles,0.6953,0.6953,0.0002,1,3,4,5,6,10,10,12,13,14,14
+"Then, Ryan and Michael had a long argument, and afterwards Michael said to",277,16, Michael, Ryan, Michael, Michael, Ryan, Ryan,circuit, Ryan,0.5859,0.5859,0.0008,1,3,4,5,6,10,10,13,14,15,15
+"Afterwards, William and Ryan went to the house. Ryan gave a ring to",752,17, Ryan, William, Ryan, Ryan, William, William,circuit, William,0.4785,0.4785,0.0034,1,4,5,6,7,9,11,12,13,14,16
