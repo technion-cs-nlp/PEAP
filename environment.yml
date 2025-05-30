@@ -1,0 +1,28 @@
+name: peap
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - accelerate==0.32.1
+    - anthropic==0.52.1
+    - datasets==2.11.0
+    - einops==0.6.1
+    - fire==0.5.0
+    - huggingface-hub==0.31.2
+    - matplotlib==3.10.3
+    - numpy==1.26.4
+    - openai==1.82.1
+    - pandas==2.2.3
+    - peft==0.5.0
+    - plotly==5.14.1
+    - scikit-learn==1.2.2
+    - scipy==1.15.3
+    - torch==2.7.0
+    - transformers==4.51.3
+    - transformer-lens==2.15.4
+    - wandb==0.19.11
+    - pyyaml==6.0.2
+    - requests==2.32.3
+    - tqdm==4.67.1
