@@ -946,7 +946,7 @@ if __name__ == "__main__":
     ap.add_argument("-sp", "--spans", nargs='+', required=True, type=str,
                     help="spans names. should be in the order of the spans")
     
-    ap.add_argument("-m", "--model", required=True, type=str,choices=["gpt2", "meta-llama/Meta-Llama-3-8B"],
+    ap.add_argument("-m", "--model", required=True, type=str,
                     help="model name as in TrnasformerLens") 
     
     ap.add_argument("-p", "--save_path", required=True, type=str,

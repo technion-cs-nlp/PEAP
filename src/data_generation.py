@@ -1319,8 +1319,6 @@ def create_IOI_dataset_BABA(model_name: str, save_dir: str, seed: int=42) -> Non
             for obj in OBJECTS:
                 ABC_FULL_TEMPLATES.append(template.replace("[PLACE]", place).replace("[OBJECT]", obj))
     
-    from huggingface_hub import login
-    login(token=os.getenv("HUGGING_FACE_TOKEN"))
     
     dtype = "bf16" if "Llama" else "float32"
     model = HookedTransformer.from_pretrained(
